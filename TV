@@ -1,1 +1,676 @@
+#EXTM3U
 
+#EXTINF:0 group-title="(DE) Germany",13TH STREET | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6135.m3u8
+#EXTINF:0 group-title="(DE) Germany",13TH STREET (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6135.m3u8
+#EXTINF:0 group-title="(DE) Germany",13TH STREET UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17944.m3u8
+#EXTINF:0 group-title="(DE) Germany",13TH STREET UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17944.m3u8
+#EXTINF:0 group-title="(DE) Germany",3 SAT | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6167.m3u8
+#EXTINF:0 group-title="(DE) Germany",3 SAT (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6167.m3u8
+#EXTINF:0 group-title="(DE) Germany",AIRE SANTA FE | SD
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+#EXTINF:0 group-title="(DE) Germany",ANIMAL PLANET | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6166.m3u8
+#EXTINF:0 group-title="(DE) Germany",ANIMAL PLANET (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6166.m3u8
+#EXTINF:0 group-title="(DE) Germany",ANIXE | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/7228.m3u8
+#EXTINF:0 group-title="(DE) Germany",ARD DAS ERSTE UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17945.m3u8
+#EXTINF:0 group-title="(DE) Germany",ARTE | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6185.m3u8
+#EXTINF:0 group-title="(DE) Germany",ARTE (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6185.m3u8
+#EXTINF:0 group-title="(DE) Germany",AXN | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1304.m3u8
+#EXTINF:0 group-title="(DE) Germany",AXN (1+) | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1304.m3u8
+#EXTINF:0 group-title="(DE) Germany",COMEDY CENTRAL | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17915.m3u8
+#EXTINF:0 group-title="(DE) Germany",COMEDY CENTRAL (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17915.m3u8
+#EXTINF:0 group-title="(DE) Germany",DAS ERSTE | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/1591.m3u8
+#EXTINF:0 group-title="(DE) Germany",DAS ERSTE (1+) | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/74.m3u8
+#EXTINF:0 group-title="(DE) Germany",DAS ERSTE | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6161.m3u8
+#EXTINF:0 group-title="(DE) Germany",DAS ERSTE (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6161.m3u8
+#EXTINF:0 group-title="(DE) Germany",DAZN 1 BAR UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17942.m3u8
+#EXTINF:0 group-title="(DE) Germany",DAZN 1 BAR UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17942.m3u8
+#EXTINF:0 group-title="(DE) Germany",DAZN 2 BAR UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17943.m3u8
+#EXTINF:0 group-title="(DE) Germany",DAZN 2 BAR UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17943.m3u8
+#EXTINF:0 group-title="(DE) Germany",DISCOVERY CHANNEL | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6113.m3u8
+#EXTINF:0 group-title="(DE) Germany",DISCOVERY CHANNEL (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6113.m3u8
+#EXTINF:0 group-title="(DE) Germany",DISCOVERY UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17947.m3u8
+#EXTINF:0 group-title="(DE) Germany",DISCOVERY UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17947.m3u8
+#EXTINF:0 group-title="(DE) Germany",DMAX | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/77.m3u8
+#EXTINF:0 group-title="(DE) Germany",DMAX (1+) | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6158.m3u8
+#EXTINF:0 group-title="(DE) Germany",DMAX (2+) | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/77.m3u8
+#EXTINF:0 group-title="(DE) Germany",DMAX (3+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6158.m3u8
+#EXTINF:0 group-title="(DE) Germany",E! ENTERTAIMENT | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15446.m3u8
+#EXTINF:0 group-title="(DE) Germany",E! ENTERTAIMENT (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15446.m3u8
+#EXTINF:0 group-title="(DE) Germany",E! ENTERTAIMENT UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17949.m3u8
+#EXTINF:0 group-title="(DE) Germany",E! ENTERTAIMENT UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17949.m3u8
+#EXTINF:0 group-title="(DE) Germany",E! ENTERTAINMENT | SD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/10031.m3u8
+#EXTINF:0 group-title="(DE) Germany",FILM WEB | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17920.m3u8
+#EXTINF:0 group-title="(DE) Germany",FILMBOX | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17921.m3u8
+#EXTINF:0 group-title="(DE) Germany",FOX | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6187.m3u8
+#EXTINF:0 group-title="(DE) Germany",FOX (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6187.m3u8
+#EXTINF:0 group-title="(DE) Germany",FOX UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17950.m3u8
+#EXTINF:0 group-title="(DE) Germany",FOX UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17950.m3u8
+#EXTINF:0 group-title="(DE) Germany",HEIMAT KANAL | SD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/10030.m3u8
+#EXTINF:0 group-title="(DE) Germany",HEIMAT KANAL (1+) | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6157.m3u8
+#EXTINF:0 group-title="(DE) Germany",HEIMAT KANAL (2+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6157.m3u8
+#EXTINF:0 group-title="(DE) Germany",HISTORY | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6115.m3u8
+#EXTINF:0 group-title="(DE) Germany",HISTORY (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6115.m3u8
+#EXTINF:0 group-title="(DE) Germany",HISTORY UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17951.m3u8
+#EXTINF:0 group-title="(DE) Germany",HISTORY UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17951.m3u8
+#EXTINF:0 group-title="(DE) Germany",HR FERNSEHEN | SD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/429.m3u8
+#EXTINF:0 group-title="(DE) Germany",KABEL 1 | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/75.m3u8
+#EXTINF:0 group-title="(DE) Germany",KABEL 1 (1+) | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6138.m3u8
+#EXTINF:0 group-title="(DE) Germany",KABEL 1 (2+) | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/75.m3u8
+#EXTINF:0 group-title="(DE) Germany",KABEL 1 (3+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6138.m3u8
+#EXTINF:0 group-title="(DE) Germany",KABEL 1 CLASSIC | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/8035.m3u8
+#EXTINF:0 group-title="(DE) Germany",KABEL 1 CLASSIC (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/8035.m3u8
+#EXTINF:0 group-title="(DE) Germany",KABEL 1 DOKU | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6156.m3u8
+#EXTINF:0 group-title="(DE) Germany",KABEL 1 DOKU (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6156.m3u8
+#EXTINF:0 group-title="(DE) Germany",KABEL EINS | SD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/5473.m3u8
+#EXTINF:0 group-title="(DE) Germany",KABEL EINS CLASSIC | SD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/10026.m3u8
+#EXTINF:0 group-title="(DE) Germany",KABEL EINS CLASSICS | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1170.m3u8
+#EXTINF:0 group-title="(DE) Germany",KABEL EINS CLASSICS (1+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1170.m3u8
+#EXTINF:0 group-title="(DE) Germany",KABEL EINS DOKU | SD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/2295.m3u8
+#EXTINF:0 group-title="(DE) Germany",KIKA | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/86.m3u8
+#EXTINF:0 group-title="(DE) Germany",KIKA (1+) | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/86.m3u8
+#EXTINF:0 group-title="(DE) Germany",KIKA | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6155.m3u8
+#EXTINF:0 group-title="(DE) Germany",KIKA (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6155.m3u8
+#EXTINF:0 group-title="(DE) Germany",KINOWELT | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17922.m3u8
+#EXTINF:0 group-title="(DE) Germany",KINOWELT (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17922.m3u8
+#EXTINF:0 group-title="(DE) Germany",LT CANAL LA ESTRELLAS | SD
+http://144.217.72.121:8000/live/nova1764/a1764/2495.m3u8
+#EXTINF:0 group-title="(DE) Germany",MDR S-ANHALT UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17952.m3u8
+#EXTINF:0 group-title="(DE) Germany",MERAS RIO JANEIRO | SD
+http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
+#EXTINF:0 group-title="(DE) Germany",N-TV UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17954.m3u8
+#EXTINF:0 group-title="(DE) Germany",N-TV UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17954.m3u8
+#EXTINF:0 group-title="(DE) Germany",N24 | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6188.m3u8
+#EXTINF:0 group-title="(DE) Germany",N24 (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6188.m3u8
+#EXTINF:0 group-title="(DE) Germany",N24 | SD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/2296.m3u8
+#EXTINF:0 group-title="(DE) Germany",NAT GEO UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17955.m3u8
+#EXTINF:0 group-title="(DE) Germany",NAT GEO UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17955.m3u8
+#EXTINF:0 group-title="(DE) Germany",NAT GEO WILD | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6114.m3u8
+#EXTINF:0 group-title="(DE) Germany",NAT GEO WILD (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6114.m3u8
+#EXTINF:0 group-title="(DE) Germany",NAT GEO WILD | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1560.m3u8
+#EXTINF:0 group-title="(DE) Germany",NAT GEO WILD (1+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1560.m3u8
+#EXTINF:0 group-title="(DE) Germany",NAT GEO WILD UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17956.m3u8
+#EXTINF:0 group-title="(DE) Germany",NAT GEO WILD UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17956.m3u8
+#EXTINF:0 group-title="(DE) Germany",NAT GEOGRAPHIC | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6154.m3u8
+#EXTINF:0 group-title="(DE) Germany",NAT GEOGRAPHIC (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6154.m3u8
+#EXTINF:0 group-title="(DE) Germany",NDR | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/10138.m3u8
+#EXTINF:0 group-title="(DE) Germany",NDR (1+) | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6186.m3u8
+#EXTINF:0 group-title="(DE) Germany",NDR (2+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6186.m3u8
+#EXTINF:0 group-title="(DE) Germany",NDR | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1179.m3u8
+#EXTINF:0 group-title="(DE) Germany",NDR (1+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1179.m3u8
+#EXTINF:0 group-title="(DE) Germany",NTV | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/3128.m3u8
+#EXTINF:0 group-title="(DE) Germany",NTV | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1479.m3u8
+#EXTINF:0 group-title="(DE) Germany",NTV (1+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1479.m3u8
+#EXTINF:0 group-title="(DE) Germany",OK STENDAL | SD
+http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/793.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF (1+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/793.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF 1 | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6184.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF 1 (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6184.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF 1 | SD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/1510.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF 1 (1+) | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/93.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF 1 (2+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/93.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF 2 | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6183.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF 2 (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6183.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF 2 | SD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/1509.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF 3 | SD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/1508.m3u8
+#EXTINF:0 group-title="(DE) Germany",PHOENIX | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6137.m3u8
+#EXTINF:0 group-title="(DE) Germany",PHOENIX (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6137.m3u8
+#EXTINF:0 group-title="(DE) Germany",PLANET | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15551.m3u8
+#EXTINF:0 group-title="(DE) Germany",PLANET A&E | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6181.m3u8
+#EXTINF:0 group-title="(DE) Germany",PLANET A&E (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6181.m3u8
+#EXTINF:0 group-title="(DE) Germany",POPCORN SELECT 1 | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17923.m3u8
+#EXTINF:0 group-title="(DE) Germany",POPCORN SELECT 2 | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17924.m3u8
+#EXTINF:0 group-title="(DE) Germany",POPCORN SELECT 3 | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17925.m3u8
+#EXTINF:0 group-title="(DE) Germany",POPCORN SELECT 4 | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17926.m3u8
+#EXTINF:0 group-title="(DE) Germany",POPCORN SELECT 5 | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17927.m3u8
+#EXTINF:0 group-title="(DE) Germany",POPCORN SELECT 7 | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17929.m3u8
+#EXTINF:0 group-title="(DE) Germany",PRO 7 | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/2442.m3u8
+#EXTINF:0 group-title="(DE) Germany",PRO 7 (1+) | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/69.m3u8
+#EXTINF:0 group-title="(DE) Germany",PRO 7 (2+) | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6172.m3u8
+#EXTINF:0 group-title="(DE) Germany",PRO 7 (3+) | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/69.m3u8
+#EXTINF:0 group-title="(DE) Germany",PRO 7 (4+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6172.m3u8
+#EXTINF:0 group-title="(DE) Germany",PRO 7 FUN | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6151.m3u8
+#EXTINF:0 group-title="(DE) Germany",PRO 7 FUN | SD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/9356.m3u8
+#EXTINF:0 group-title="(DE) Germany",PRO 7 MAX | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1165.m3u8
+#EXTINF:0 group-title="(DE) Germany",PRO 7 MAX (1+) | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1165.m3u8
+#EXTINF:0 group-title="(DE) Germany",PRO 7 MAXX | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6368.m3u8
+#EXTINF:0 group-title="(DE) Germany",PRO 7 MAXX (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6368.m3u8
+#EXTINF:0 group-title="(DE) Germany",PRO 7 MAXX | SD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/4569.m3u8
+#EXTINF:0 group-title="(DE) Germany",PRO 7 UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17957.m3u8
+#EXTINF:0 group-title="(DE) Germany",PRO 7 UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17957.m3u8
+#EXTINF:0 group-title="(DE) Germany",RBB BERLIN UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17958.m3u8
+#EXTINF:0 group-title="(DE) Germany",ROMANCE TV | SD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/10029.m3u8
+#EXTINF:0 group-title="(DE) Germany",ROMANCE TV (1+) | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18395.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/561.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL (1+) | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/72.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL (2+) | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6176.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL (3+) | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/72.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL (4+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6176.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL 2 | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/2441.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL 2 (1+) | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/73.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL 2 (2+) | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6170.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL 2 (3+) | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/73.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL 2 (4+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6170.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL 2 UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17959.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL 2 UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17959.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL CRIME | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/2440.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL CRIME (1+) | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6129.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL CRIME (2+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6129.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL CRIME UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17960.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL LIVING | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/7236.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL LIVING | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6148.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL LIVING (1+) | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1169.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL LIVING (2+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1169.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL NITRO | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/7235.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL NITRO (1+) | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6147.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL NITRO (2+) | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1168.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL NITRO (3+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6147.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL PASSION | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6124.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL PASSION (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6124.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL PASSION | SD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/427.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL PASSION (1+) | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1167.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL PASSION (2+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1167.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL PLUS | SD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/10396.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL PLUS (1+) | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6146.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL PLUS (2+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6146.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17961.m3u8
+#EXTINF:0 group-title="(DE) Germany",SANTUARIO FATIMA PORTUGAL | SD
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:0 group-title="(DE) Germany",SAT 1 | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/563.m3u8
+#EXTINF:0 group-title="(DE) Germany",SAT 1 (1+) | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/70.m3u8
+#EXTINF:0 group-title="(DE) Germany",SAT 1 (2+) | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6346.m3u8
+#EXTINF:0 group-title="(DE) Germany",SAT 1 (3+) | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/70.m3u8
+#EXTINF:0 group-title="(DE) Germany",SAT 1 (4+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6346.m3u8
+#EXTINF:0 group-title="(DE) Germany",SAT 1 GOLD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6145.m3u8
+#EXTINF:0 group-title="(DE) Germany",SAT 1 GOLD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6145.m3u8
+#EXTINF:0 group-title="(DE) Germany",SAT 1 UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17962.m3u8
+#EXTINF:0 group-title="(DE) Germany",SAT 1 UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17962.m3u8
+#EXTINF:0 group-title="(DE) Germany",SAT1 GOLD | SD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/7241.m3u8
+#EXTINF:0 group-title="(DE) Germany",SAT1 GOLD (1+) | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1256.m3u8
+#EXTINF:0 group-title="(DE) Germany",SAT1 GOLD (2+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1256.m3u8
+#EXTINF:0 group-title="(DE) Germany",SERVUS TV | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/466.m3u8
+#EXTINF:0 group-title="(DE) Germany",SERVUS TV | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6144.m3u8
+#EXTINF:0 group-title="(DE) Germany",SERVUS TV (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6144.m3u8
+#EXTINF:0 group-title="(DE) Germany",SILVERLINE | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/12218.m3u8
+#EXTINF:0 group-title="(DE) Germany",SIXX | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/10722.m3u8
+#EXTINF:0 group-title="(DE) Germany",SIXX (1+) | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6178.m3u8
+#EXTINF:0 group-title="(DE) Germany",SIXX (2+) | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1478.m3u8
+#EXTINF:0 group-title="(DE) Germany",SIXX (3+) | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1478.m3u8
+#EXTINF:0 group-title="(DE) Germany",SIXX (4+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6178.m3u8
+#EXTINF:0 group-title="(DE) Germany",SIXX UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17963.m3u8
+#EXTINF:0 group-title="(DE) Germany",SIXX UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17963.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY 1 | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17930.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY 1 (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17930.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY 1 UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17964.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY 1 UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17964.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY 13 STREET | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/635.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY 13 STREET (1+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/635.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ACTION | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6125.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ACTION (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6125.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ACTION | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/479.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ACTION (1+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/479.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ACTION UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17965.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ARTS UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17966.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ARTS UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17966.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ATLANTIC | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/661.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ATLANTIC (1+) | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6122.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ATLANTIC (2+) | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/661.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ATLANTIC (3+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6122.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ATLANTIC UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17967.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ATLANTIC UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17967.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ATLATIC | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6393.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ATLATIC (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6393.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY AXN | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/12255.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY AXN (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/12255.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 1 | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/7408.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 1 | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17912.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 1 UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17931.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 1 UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17931.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 10 MATCH TIME | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/7419.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 2 | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/7409.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 2 | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17913.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 3 MATCH TIME | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/7412.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 4 MATCH TIME | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/7413.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 5 MATCH TIME | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/7414.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 7 MATCH TIME | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/7416.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 9 MATCH TIME | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17910.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY COMEDY | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/623.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY COMEDY (1+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/623.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY EMOTION | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6123.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY EMOTION (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6123.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY EMOTION | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1250.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY EMOTION (1+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1250.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY FOX | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/634.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY FOX (1+) | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/634.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY HITS | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1249.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY HITS (1+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1249.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY KRIMI | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17935.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY KRIMI (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17935.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY KRIMI | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/624.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY KRIMI (1+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/624.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY MGM | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/636.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY NOSTALGIE | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17936.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY NOSTALGIE (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17936.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT 1 | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/625.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT 1 (1+) | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/625.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT 3 | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/627.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT 3 (1+) | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/627.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT 4 | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1591.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT 4 (1+) | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1591.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT 5 | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1590.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT 6 | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/629.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT 6 (1+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/629.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT 7 | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1595.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SYFY | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/12267.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SYFY (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/12267.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SYFY | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1248.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SYFY (1+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1248.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY-SELECT 2 | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1593.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY-SELECT 2 (1+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1593.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY-SELECT 8 | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1596.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY-SELECT 8 (1+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1596.m3u8
+#EXTINF:0 group-title="(DE) Germany",SONY ENTERTAINMENT TV | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/5127.m3u8
+#EXTINF:0 group-title="(DE) Germany",SONY TV | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17937.m3u8
+#EXTINF:0 group-title="(DE) Germany",SONY TV (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17937.m3u8
+#EXTINF:0 group-title="(DE) Germany",SPIEGEL GESCHICHTE | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6143.m3u8
+#EXTINF:0 group-title="(DE) Germany",SPIEGEL GESCHICHTE (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6143.m3u8
+#EXTINF:0 group-title="(DE) Germany",SRF 1 | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/7237.m3u8
+#EXTINF:0 group-title="(DE) Germany",SRF 1 (1+) | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6142.m3u8
+#EXTINF:0 group-title="(DE) Germany",SRF 1 (2+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6142.m3u8
+#EXTINF:0 group-title="(DE) Germany",SRF 2 | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/7238.m3u8
+#EXTINF:0 group-title="(DE) Germany",SUPER RTL | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/78.m3u8
+#EXTINF:0 group-title="(DE) Germany",SUPER RTL (1+) | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/78.m3u8
+#EXTINF:0 group-title="(DE) Germany",SUPER RTL | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6141.m3u8
+#EXTINF:0 group-title="(DE) Germany",SUPER RTL (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6141.m3u8
+#EXTINF:0 group-title="(DE) Germany",SUPER RTL UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17975.m3u8
+#EXTINF:0 group-title="(DE) Germany",SUPER-RTL | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1585.m3u8
+#EXTINF:0 group-title="(DE) Germany",SUPER-RTL (1+) | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1585.m3u8
+#EXTINF:0 group-title="(DE) Germany",SYFY UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17976.m3u8
+#EXTINF:0 group-title="(DE) Germany",SYFY UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17976.m3u8
+#EXTINF:0 group-title="(DE) Germany",TAGESSCHAU 24 | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1099.m3u8
+#EXTINF:0 group-title="(DE) Germany",TAGESSCHAU 24 (1+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1099.m3u8
+#EXTINF:0 group-title="(DE) Germany",TELE 5 | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/7207.m3u8
+#EXTINF:0 group-title="(DE) Germany",TELE 5 (1+) | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6140.m3u8
+#EXTINF:0 group-title="(DE) Germany",TELE 5 (2+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6140.m3u8
+#EXTINF:0 group-title="(DE) Germany",TLC | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/7239.m3u8
+#EXTINF:0 group-title="(DE) Germany",TLC (1+) | HD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1305.m3u8
+#EXTINF:0 group-title="(DE) Germany",TLC (2+) | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17939.m3u8
+#EXTINF:0 group-title="(DE) Germany",TLC (3+) | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1305.m3u8
+#EXTINF:0 group-title="(DE) Germany",TLC (4+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17939.m3u8
+#EXTINF:0 group-title="(DE) Germany",TNT COMEDY | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17940.m3u8
+#EXTINF:0 group-title="(DE) Germany",TNT COMEDY (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17940.m3u8
+#EXTINF:0 group-title="(DE) Germany",TNT COMEDY UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17977.m3u8
+#EXTINF:0 group-title="(DE) Germany",TNT COMEDY UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17977.m3u8
+#EXTINF:0 group-title="(DE) Germany",TNT FILM | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6130.m3u8
+#EXTINF:0 group-title="(DE) Germany",TNT FILM (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6130.m3u8
+#EXTINF:0 group-title="(DE) Germany",TNT FILM TCM | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1247.m3u8
+#EXTINF:0 group-title="(DE) Germany",TNT FILM TCM (1+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1247.m3u8
+#EXTINF:0 group-title="(DE) Germany",UHD | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17983.m3u8
+#EXTINF:0 group-title="(DE) Germany",UNIVERSAL CHANNEL | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6139.m3u8
+#EXTINF:0 group-title="(DE) Germany",UNIVERSAL CHANNEL (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6139.m3u8
+#EXTINF:0 group-title="(DE) Germany",UNIVERSAL CHANNEL UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17979.m3u8
+#EXTINF:0 group-title="(DE) Germany",VIP | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6116.m3u8
+#EXTINF:0 group-title="(DE) Germany",VIP (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6117.m3u8
+#EXTINF:0 group-title="(DE) Germany",VIP (2+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6118.m3u8
+#EXTINF:0 group-title="(DE) Germany",VIP (3+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6119.m3u8
+#EXTINF:0 group-title="(DE) Germany",VIP (4+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6120.m3u8
+#EXTINF:0 group-title="(DE) Germany",VIP (5+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6121.m3u8
+#EXTINF:0 group-title="(DE) Germany",VOX | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/2288.m3u8
+#EXTINF:0 group-title="(DE) Germany",VOX (1+) | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6173.m3u8
+#EXTINF:0 group-title="(DE) Germany",VOX (2+) | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/488.m3u8
+#EXTINF:0 group-title="(DE) Germany",VOX (3+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6173.m3u8
+#EXTINF:0 group-title="(DE) Germany",VOX UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17980.m3u8
+#EXTINF:0 group-title="(DE) Germany",VOX UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17980.m3u8
+#EXTINF:0 group-title="(DE) Germany",WDR | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/3122.m3u8
+#EXTINF:0 group-title="(DE) Germany",WDR (1+) | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6174.m3u8
+#EXTINF:0 group-title="(DE) Germany",WDR (2+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6174.m3u8
+#EXTINF:0 group-title="(DE) Germany",WELT DER WUNDER | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17941.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZDF | HD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/566.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZDF (1+) | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6182.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZDF (2+) | HD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/71.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZDF (3+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6182.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZDF INFO | SD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/3121.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZDF INFO (1+) | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6169.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZDF INFO (2+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6169.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZDF NEO | SD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/567.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZDF NEO (1+) | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6168.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZDF NEO (2+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6168.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZDF UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17981.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZDF UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17981.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZEE ONE | HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/13086.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZEE ONE (1+) | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/13086.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZEE ONE | SD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/5816.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZEE ONE UHD | SD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17982.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZEE ONE UHD (1+) | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17982.m3u8
