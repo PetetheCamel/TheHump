@@ -1,676 +1,1485 @@
 #EXTM3U
+#EXTINF:-1,DE: 3 SAT HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64925.ts
+#EXTINF:-1,DE: 1-2-3 TV HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94729.ts
+#EXTINF:-1,DE: 13th Street FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62114.ts
+#EXTINF:-1,DE: 7Maxx
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/115113.ts
+#EXTINF:-1,DE: A&E FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64804.ts
+#EXTINF:-1,DE: ALEX TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/109133.ts
+#EXTINF:-1,DE: Allgäu TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/90997.ts
+#EXTINF:-1,DE: Animal Planet FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64831.ts
+#EXTINF:-1,DE: ANIMAX
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/117037.ts
+#EXTINF:-1,DE: Anixe HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64827.ts
+#EXTINF:-1,DE: Anixe HD Series
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/125548.ts
+#EXTINF:-1,DE: ARD HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/73535.ts
+#EXTINF:-1,DE: ARD One HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126172.ts
+#EXTINF:-1,DE: ARD-Alpha
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/90996.ts
+#EXTINF:-1,DE: Arte HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64924.ts
+#EXTINF:-1,DE: Astro
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/76039.ts
+#EXTINF:-1,DE: ATV 2 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95915.ts
+#EXTINF:-1,DE: ATV AT
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/127702.ts
+#EXTINF:-1,DE: ATV HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64891.ts
+#EXTINF:-1,DE: Augsburg TV HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100442.ts
+#EXTINF:-1,DE: AUSTRIA 24 TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/92664.ts
+#EXTINF:-1,DE: Auto Motor Sport HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64824.ts
+#EXTINF:-1,DE: AXN HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62113.ts
+#EXTINF:-1,DE: Baby TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/115645.ts
+#EXTINF:-1,DE: Baden TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91000.ts
+#EXTINF:-1,DE: BAYERN FC TV FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/128586.ts
+#EXTINF:-1,DE: Beate Uhse TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91001.ts
+#EXTINF:-1,DE: Beate-Uhse.TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/128067.ts
+#EXTINF:-1,DE: Beatz TV HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126183.ts
+#EXTINF:-1,DE: BLK
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/90998.ts
+#EXTINF:-1,DE: Boomerang HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62112.ts
+#EXTINF:-1,DE: BR Fernsehen HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/76037.ts
+#EXTINF:-1,DE: Cartoon Network HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62111.ts
+#EXTINF:-1,DE: Channel21 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106791.ts
+#EXTINF:-1,DE: Chemnitz Fernsehen
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91004.ts
+#EXTINF:-1,DE: Cienema FAST HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/116995.ts
+#EXTINF:-1,DE: Cinema 24
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/73542.ts
+#EXTINF:-1,DE: Classica HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/89096.ts
+#EXTINF:-1,DE: COMEDY CENTRAL EXTRA HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/78082.ts
+#EXTINF:-1,DE: Das Erste HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62110.ts
+#EXTINF:-1,DE: Daserste
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/117700.ts
+#EXTINF:-1,DE: DAZN 1 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/123306.ts
+#EXTINF:-1,DE: DAZN 2 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/123307.ts
+#EXTINF:-1,DE: Deluxe Music HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64879.ts
+#EXTINF:-1,DE: DER AKTION
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/128071.ts
+#EXTINF:-1,DE: DER AKTIONÄR TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91006.ts
+#EXTINF:-1,DE: Discovery Channel HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62109.ts
+#EXTINF:-1,DE: DISCOVERY SCIENCE
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/121492.ts
+#EXTINF:-1,DE: Disney Channel HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62108.ts
+#EXTINF:-1,DE: Disney Cinemagic FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62107.ts
+#EXTINF:-1,DE: DISNEY JIUNIOR
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/109160.ts
+#EXTINF:-1,DE: Disney Junior HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62106.ts
+#EXTINF:-1,DE: Disney-XD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62105.ts
+#EXTINF:-1,DE: DMAX HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/71599.ts
+#EXTINF:-1,DE: Dresden Fernsehen
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91015.ts
+#EXTINF:-1,DE: DRF 1
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91008.ts
+#EXTINF:-1,DE: DW
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/93222.ts
+#EXTINF:-1,DE: E! Entertainment FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64843.ts
+#EXTINF:-1,DE: E! HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/122344.ts
+#EXTINF:-1,DE: Elbe Kanal
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91017.ts
+#EXTINF:-1,DE: ELIT Cinema 1
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/112386.ts
+#EXTINF:-1,DE: ELIT Cinema 2
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/112387.ts
+#EXTINF:-1,DE: ELIT Cinema 3
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/112388.ts
+#EXTINF:-1,DE: ELIT Cinema 4
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/112389.ts
+#EXTINF:-1,DE: ELIT SELECT 1
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/87298.ts
+#EXTINF:-1,DE: ELIT SELECT 2
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/87299.ts
+#EXTINF:-1,DE: ELIT SELECT 3
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/87300.ts
+#EXTINF:-1,DE: ELIT SELECT 4
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/87301.ts
+#EXTINF:-1,DE: ELIT SELECT 5
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/87302.ts
+#EXTINF:-1,DE: ELIT SELECT 6
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/124774.ts
+#EXTINF:-1,DE: ELIT SELECT 7
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/124773.ts
+#EXTINF:-1,DE: Elite Cinema 1
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100318.ts
+#EXTINF:-1,DE: Elite Cinema 2
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100319.ts
+#EXTINF:-1,DE: Elite Cinema 3
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100320.ts
+#EXTINF:-1,DE: Elite Cinema 4
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100321.ts
+#EXTINF:-1,DE: EOTV HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91016.ts
+#EXTINF:-1,DE: Euronews
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/73545.ts
+#EXTINF:-1,DE: EURONEWS GERMAN
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/119304.ts
+#EXTINF:-1,DE: Europort 2 Xtra FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/128587.ts
+#EXTINF:-1,DE: Eurosport 1 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62104.ts
+#EXTINF:-1,DE: Eurosport 2 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/73450.ts
+#EXTINF:-1,DE: EUROSPORT 2 HD XTRA
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64774.ts
+#EXTINF:-1,DE: Eurosport 1HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/113202.ts
+#EXTINF:-1,DE: EuroSport HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/109161.ts
+#EXTINF:-1,DE: EWTN katholisches TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/121888.ts
+#EXTINF:-1,DE: EXTREM SPORT
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106457.ts
+#EXTINF:-1,DE: Family TV FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/73474.ts
+#EXTINF:-1,DE: FC Bayern TV FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/88270.ts
+#EXTINF:-1,DE: FEUERWEHRMANN SAM
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106456.ts
+#EXTINF:-1,DE: FILM CLUB 1 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64822.ts
+#EXTINF:-1,DE: FILM CLUB 2 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64821.ts
+#EXTINF:-1,DE: FILM CLUB 3 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64820.ts
+#EXTINF:-1,DE: FILM CLUB 4 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64819.ts
+#EXTINF:-1,DE: FILM CLUB 5 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64818.ts
+#EXTINF:-1,DE: FILME
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126179.ts
+#EXTINF:-1,DE: Filstalwelle
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91022.ts
+#EXTINF:-1,DE: FIX UND FOXI
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106455.ts
+#EXTINF:-1,DE: FOLX TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/92683.ts
+#EXTINF:-1,DE: FOX 1
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/118687.ts
+#EXTINF:-1,DE: FOX FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64884.ts
+#EXTINF:-1,DE: Fox Serie HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86132.ts
+#EXTINF:-1,DE: FOX SPORTS
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86133.ts
+#EXTINF:-1,DE: Franken TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91023.ts
+#EXTINF:-1,DE: Friesischer Rundfunk
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91024.ts
+#EXTINF:-1,DE: GO TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94045.ts
+#EXTINF:-1,DE: Goldstar TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100465.ts
+#EXTINF:-1,DE: GoTV Music
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/118160.ts
+#EXTINF:-1,DE: HALLE HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95938.ts
+#EXTINF:-1,DE: Health TV HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126185.ts
+#EXTINF:-1,DE: Heimat Kanal HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64858.ts
+#EXTINF:-1,DE: Histori
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/124426.ts
+#EXTINF:-1,DE: History Channel HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64833.ts
+#EXTINF:-1,DE: HR Fernsehen
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95940.ts
+#EXTINF:-1,DE: HR HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91025.ts
+#EXTINF:-1,DE: In tv
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/76025.ts
+#EXTINF:-1,DE: Isar TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91028.ts
+#EXTINF:-1,DE: Jukebox HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64877.ts
+#EXTINF:-1,DE: Junior HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64851.ts
+#EXTINF:-1,DE: Kabel
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/103466.ts
+#EXTINF:-1,DE: Kabel 1 Classica HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100455.ts
+#EXTINF:-1,DE: Kabel 1 Doku HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64905.ts
+#EXTINF:-1,DE: Kabel 1 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64907.ts
+#EXTINF:-1,DE: Kabel Eins Classics
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/117005.ts
+#EXTINF:-1,DE: Kabel eins Doku HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86142.ts
+#EXTINF:-1,DE: Kabel Eins HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86143.ts
+#EXTINF:-1,DE: Kabel Journal
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86144.ts
+#EXTINF:-1,DE: KIKA HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64856.ts
+#EXTINF:-1,DE: KINDER
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126180.ts
+#EXTINF:-1,DE: KingTV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126182.ts
+#EXTINF:-1,DE: Kinowelt HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64859.ts
+#EXTINF:-1,DE: Kronehit
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64878.ts
+#EXTINF:-1,DE: Leipzig Fernsehen
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91035.ts
+#EXTINF:-1,DE: M1
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95949.ts
+#EXTINF:-1,DE: MDR HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91036.ts
+#EXTINF:-1,DE: MGM HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95223.ts
+#EXTINF:-1,DE: Motorvision HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64823.ts
+#EXTINF:-1,DE: Movie Club 1 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95217.ts
+#EXTINF:-1,DE: Movie Club 2 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106837.ts
+#EXTINF:-1,DE: Movie Club 3 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106834.ts
+#EXTINF:-1,DE: Movie Club 4 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106835.ts
+#EXTINF:-1,DE: Movies 1
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95953.ts
+#EXTINF:-1,DE: Movies 2
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95954.ts
+#EXTINF:-1,DE: Movies 3
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95955.ts
+#EXTINF:-1,DE: Movies 4
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95956.ts
+#EXTINF:-1,DE: Movies 5
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95957.ts
+#EXTINF:-1,DE: Movies 6
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95958.ts
+#EXTINF:-1,DE: Movies 7
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95959.ts
+#EXTINF:-1,DE: Movies 8
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95960.ts
+#EXTINF:-1,DE: Movies 9
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95961.ts
+#EXTINF:-1,DE: Movies 10
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95962.ts
+#EXTINF:-1,DE: Movies 11
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95963.ts
+#EXTINF:-1,DE: Movies 12
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95964.ts
+#EXTINF:-1,DE: Movies 13
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95965.ts
+#EXTINF:-1,DE: Movies 14
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95966.ts
+#EXTINF:-1,DE: Movies 15
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95967.ts
+#EXTINF:-1,DE: Movies 16
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95968.ts
+#EXTINF:-1,DE: MR. BEAN
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106459.ts
+#EXTINF:-1,DE: MTV FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64881.ts
+#EXTINF:-1,DE: MTV HITS
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106461.ts
+#EXTINF:-1,DE: MTV Nor
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/118161.ts
+#EXTINF:-1,DE: MUTV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86149.ts
+#EXTINF:-1,DE: München Tv HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91039.ts
+#EXTINF:-1,DE: N-TV FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64897.ts
+#EXTINF:-1,DE: N24 Doku
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94740.ts
+#EXTINF:-1,DE: N24 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64895.ts
+#EXTINF:-1,DE: NAT GEO FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/73451.ts
+#EXTINF:-1,DE: Nat Geo People
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/127664.ts
+#EXTINF:-1,DE: Nat Geo Wild FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62101.ts
+#EXTINF:-1,DE: NATIONAL GEOGRAPHY
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/122346.ts
+#EXTINF:-1,DE: NDR HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/71589.ts
+#EXTINF:-1,DE: NICK Jr
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64846.ts
+#EXTINF:-1,DE: Nickelodeon HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62099.ts
+#EXTINF:-1,DE: NITRO HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100484.ts
+#EXTINF:-1,DE: NOA 4 NORDERSTEDT HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91140.ts
+#EXTINF:-1,DE: NRJ TV HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/89106.ts
+#EXTINF:-1,DE: OK Dessau
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91043.ts
+#EXTINF:-1,DE: OK Koblenz
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91044.ts
+#EXTINF:-1,DE: OK Merseburg
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91045.ts
+#EXTINF:-1,DE: OK Salzwedel
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91047.ts
+#EXTINF:-1,DE: OK Stendal
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91048.ts
+#EXTINF:-1,DE: OK SWP
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100473.ts
+#EXTINF:-1,DE: OK Wernigerode
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91049.ts
+#EXTINF:-1,DE: OKTO N24 Doku
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/127704.ts
+#EXTINF:-1,DE: OKTO TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/76014.ts
+#EXTINF:-1,DE: Oldenburg eins TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91051.ts
+#EXTINF:-1,DE: Olympic Channel Sport 1 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/122375.ts
+#EXTINF:-1,DE: Olympic Channel Sport 2 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/122376.ts
+#EXTINF:-1,DE: One 1 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/76013.ts
+#EXTINF:-1,DE: ONE HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86154.ts
+#EXTINF:-1,DE: ORF 1 (AU)
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/110818.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/73452.ts
+#EXTINF:-1,DE: ORF 1 HD (AT)
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/109672.ts
+#EXTINF:-1,DE: ORF 2 (AU)
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/110819.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/73453.ts
+#EXTINF:-1,DE: ORF 2 HD (AT)
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120296.ts
+#EXTINF:-1,DE: ORF 3 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64894.ts
+#EXTINF:-1,DE: ORF Sport+ HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64770.ts
+#EXTINF:-1,DE: PHOENIX HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64825.ts
+#EXTINF:-1,DE: PLANET HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64829.ts
+#EXTINF:-1,DE: Plus 8 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91056.ts
+#EXTINF:-1,DE: POPCORN SELECT 1 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91052.ts
+#EXTINF:-1,DE: POPCORN SELECT 2 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91053.ts
+#EXTINF:-1,DE: POPCORN SELECT 3 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91054.ts
+#EXTINF:-1,DE: POPCORN SELECT 4 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91055.ts
+#EXTINF:-1,DE: Popcorn Select 5 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106523.ts
+#EXTINF:-1,DE: Popcorn Select 6 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106524.ts
+#EXTINF:-1,DE: Popcorn Select 7 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106525.ts
+#EXTINF:-1,DE: POPCORN SELECT 8
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106526.ts
+#EXTINF:-1,DE: POPCORN SELECT 9
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106527.ts
+#EXTINF:-1,DE: POPCORN SELECT 10
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106522.ts
+#EXTINF:-1,DE: Potsdam TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91057.ts
+#EXTINF:-1,DE: Pro 7 Fun HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64909.ts
+#EXTINF:-1,DE: PRO 7 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64912.ts
+#EXTINF:-1,DE: PRO 7 MAX
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/124441.ts
+#EXTINF:-1,DE: PRO MAX 7
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86160.ts
+#EXTINF:-1,DE: Pro7 MAXX FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62096.ts
+#EXTINF:-1,DE: PROSIEBEN .7
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/111847.ts
+#EXTINF:-1,DE: ProSieben HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86162.ts
+#EXTINF:-1,DE: ProSieben Maxx HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86161.ts
+#EXTINF:-1,DE: PULS 4
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/118066.ts
+#EXTINF:-1,DE: Puls4
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95983.ts
+#EXTINF:-1,DE: Punktum Südharz
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91060.ts
+#EXTINF:-1,DE: QVC BEAUTY & STYLE HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/88272.ts
+#EXTINF:-1,DE: QVC Extra
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/114876.ts
+#EXTINF:-1,DE: QVC TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/88271.ts
+#EXTINF:-1,DE: RAN 1
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91061.ts
+#EXTINF:-1,DE: RBB Aktuell
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/115134.ts
+#EXTINF:-1,DE: RBW
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91062.ts
+#EXTINF:-1,DE: RE EUNS
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/109156.ts
+#EXTINF:-1,DE: REAL MADRID TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/118701.ts
+#EXTINF:-1,DE: REeins
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/76008.ts
+#EXTINF:-1,DE: RFH
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91063.ts
+#EXTINF:-1,DE: Rhein Neckar Fernsehen
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91072.ts
+#EXTINF:-1,DE: RIC
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91064.ts
+#EXTINF:-1,DE: RNF HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/76007.ts
+#EXTINF:-1,DE: Roma TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/118702.ts
+#EXTINF:-1,DE: Romance TV HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64860.ts
+#EXTINF:-1,DE: RTL 2 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64919.ts
+#EXTINF:-1,DE: RTL 7
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100297.ts
+#EXTINF:-1,DE: RTL 102.5
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126171.ts
+#EXTINF:-1,DE: RTL Crime HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/73454.ts
+#EXTINF:-1,DE: RTL FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62093.ts
+#EXTINF:-1,DE: RTL II HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94746.ts
+#EXTINF:-1,DE: RTL Living HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64918.ts
+#EXTINF:-1,DE: RTL Nitro HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62092.ts
+#EXTINF:-1,DE: RTL Pasion
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/124423.ts
+#EXTINF:-1,DE: RTL Passion HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/73455.ts
+#EXTINF:-1,DE: RTL Plus HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64921.ts
+#EXTINF:-1,DE: RTL SUPER
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/112427.ts
+#EXTINF:-1,DE: RTL Television
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91070.ts
+#EXTINF:-1,DE: SAT 1 EMOTIONS HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64901.ts
+#EXTINF:-1,DE: SAT1 Gold FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62090.ts
+#EXTINF:-1,DE: Sat1 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62089.ts
+#EXTINF:-1,DE: SERVUS HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86175.ts
+#EXTINF:-1,DE: Sixx HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64899.ts
+#EXTINF:-1,DE: Sky 1 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62088.ts
+#EXTINF:-1,DE: Sky 13th Street HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/111861.ts
+#EXTINF:-1,DE: SKY 3D BOX OFFICE
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120424.ts
+#EXTINF:-1,DE: Sky 3D HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86178.ts
+#EXTINF:-1,DE: Sky Action HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/73488.ts
+#EXTINF:-1,DE: SKY ARTE HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/125040.ts
+#EXTINF:-1,DE: Sky Arts FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64873.ts
+#EXTINF:-1,DE: Sky Atlantic FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62087.ts
+#EXTINF:-1,DE: Sky AXN HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94963.ts
+#EXTINF:-1,DE: Sky Boomerang
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94978.ts
+#EXTINF:-1,DE: SKY Bundes Liga 1
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/127678.ts
+#EXTINF:-1,DE: SKY Bundes Liga 2
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/127679.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/128580.ts
+#EXTINF:-1,DE: Sky Bundesliga 2 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/128581.ts
+#EXTINF:-1,DE: Sky Bundesliga 3 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/128582.ts
+#EXTINF:-1,DE: Sky Bundesliga 4 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/128583.ts
+#EXTINF:-1,DE: Sky Bundesliga 5 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/117048.ts
+#EXTINF:-1,DE: Sky Bundesliga 6 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/128584.ts
+#EXTINF:-1,DE: Sky Bundesliga 8 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/128585.ts
+#EXTINF:-1,DE: Sky Bundesliga 9 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86188.ts
+#EXTINF:-1,DE: Sky Bundesliga 10 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86179.ts
+#EXTINF:-1,DE: Sky Cartoon Network
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94979.ts
+#EXTINF:-1,DE: Sky Cinema +1 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/96032.ts
+#EXTINF:-1,DE: Sky Cinema +24 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94028.ts
+#EXTINF:-1,DE: SKY CINEMA 1 Full HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/124993.ts
+#EXTINF:-1,DE: Sky Cinema 1 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62085.ts
+#EXTINF:-1,DE: Sky Cinema 24 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62084.ts
+#EXTINF:-1,DE: Sky Cinema Action FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62083.ts
+#EXTINF:-1,DE: Sky Cinema Alien HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86196.ts
+#EXTINF:-1,DE: Sky Cinema Animation HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/119311.ts
+#EXTINF:-1,DE: Sky Cinema Classic HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86189.ts
+#EXTINF:-1,DE: Sky Cinema Comedy HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86190.ts
+#EXTINF:-1,DE: Sky Cinema Cult HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/96990.ts
+#EXTINF:-1,DE: Sky Cinema Emotion HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62081.ts
+#EXTINF:-1,DE: Sky Cinema Family FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/73499.ts
+#EXTINF:-1,DE: Sky Cinema FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62079.ts
+#EXTINF:-1,DE: Sky Cinema Hits FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62078.ts
+#EXTINF:-1,DE: SKY CINEMA MAX HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86191.ts
+#EXTINF:-1,DE: Sky Cinema Nostalgie HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62077.ts
+#EXTINF:-1,DE: Sky Cinema Passion HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86192.ts
+#EXTINF:-1,DE: Sky Cinema Plus 24
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/115179.ts
+#EXTINF:-1,DE: Sky Cinema WESTERN
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/125520.ts
+#EXTINF:-1,DE: Sky Classica
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/96034.ts
+#EXTINF:-1,DE: Sky Comedy HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/73500.ts
+#EXTINF:-1,DE: SKY DISCOVERY CHANNEL HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86194.ts
+#EXTINF:-1,DE: Sky Disney Channel
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/107437.ts
+#EXTINF:-1,DE: Sky DISNEY CINEMAGIC HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/112421.ts
+#EXTINF:-1,DE: Sky Disney Junior
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94980.ts
+#EXTINF:-1,DE: SKY DMAX HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64830.ts
+#EXTINF:-1,DE: Sky E! Entertainment
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/114257.ts
+#EXTINF:-1,DE: Sky Emotion HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/73501.ts
+#EXTINF:-1,DE: Sky Family
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/75989.ts
+#EXTINF:-1,DE: SKY FOX HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94957.ts
+#EXTINF:-1,DE: Sky Fox Serie
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94958.ts
+#EXTINF:-1,DE: Sky Fußball Bundesliga
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/127677.ts
+#EXTINF:-1,DE: Sky GoldStar
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94969.ts
+#EXTINF:-1,DE: Sky Heimat Kanal
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/96038.ts
+#EXTINF:-1,DE: Sky History Channel HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100303.ts
+#EXTINF:-1,DE: Sky Hits
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/127634.ts
+#EXTINF:-1,DE: Sky Kino
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94948.ts
+#EXTINF:-1,DE: Sky Kino 1
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94949.ts
+#EXTINF:-1,DE: Sky Kino 24 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95042.ts
+#EXTINF:-1,DE: Sky Kino Action
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94955.ts
+#EXTINF:-1,DE: Sky Kino Comedy
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94953.ts
+#EXTINF:-1,DE: Sky Kino Emotion
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94952.ts
+#EXTINF:-1,DE: Sky Kino Family
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94951.ts
+#EXTINF:-1,DE: Sky Kino Hits
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94950.ts
+#EXTINF:-1,DE: Sky Kino Krime
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94956.ts
+#EXTINF:-1,DE: Sky Kino Nostalgie
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94954.ts
+#EXTINF:-1,DE: Sky Kino Welt TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/98847.ts
+#EXTINF:-1,DE: Sky Krimi HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/73502.ts
+#EXTINF:-1,DE: SKY MGM HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86198.ts
+#EXTINF:-1,DE: SKY MOVIE BOX OFFICE 1
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120425.ts
+#EXTINF:-1,DE: SKY MOVIE BOX OFFICE 2
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120426.ts
+#EXTINF:-1,DE: SKY MOVIE BOX OFFICE 3
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120427.ts
+#EXTINF:-1,DE: SKY MOVIE BOX OFFICE 5
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120429.ts
+#EXTINF:-1,DE: SKY MOVIE BOX OFFICE 6
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120430.ts
+#EXTINF:-1,DE: SKY MOVIE BOX OFFICE 10
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120434.ts
+#EXTINF:-1,DE: SKY MOVIE BOX OFFICE 11
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120435.ts
+#EXTINF:-1,DE: SKY MOVIE BOX OFFICE 12
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120436.ts
+#EXTINF:-1,DE: SKY MOVIE BOX OFFICE 13
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120437.ts
+#EXTINF:-1,DE: SKY NAT GEO HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86200.ts
+#EXTINF:-1,DE: SKY NAT GEO PEOPLE HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106352.ts
+#EXTINF:-1,DE: Sky NAT GEO Wild HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86199.ts
+#EXTINF:-1,DE: Sky Nostalgie HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/73503.ts
+#EXTINF:-1,DE: Sky Romance
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/104225.ts
+#EXTINF:-1,DE: Sky Select 1 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64816.ts
+#EXTINF:-1,DE: Sky Select 2 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64815.ts
+#EXTINF:-1,DE: Sky Select 3 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64814.ts
+#EXTINF:-1,DE: Sky Select 4 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64813.ts
+#EXTINF:-1,DE: Sky Select 5 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64812.ts
+#EXTINF:-1,DE: Sky Select 6 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64811.ts
+#EXTINF:-1,DE: Sky Select 7 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64810.ts
+#EXTINF:-1,DE: Sky Select 8 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64809.ts
+#EXTINF:-1,DE: Sky Select 9 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64808.ts
+#EXTINF:-1,DE: Sky Select 10 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64807.ts
+#EXTINF:-1,DE: Sky Select 11 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64806.ts
+#EXTINF:-1,DE: Sky Select 12 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64805.ts
+#EXTINF:-1,DE: Sky Select 3D Live
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126188.ts
+#EXTINF:-1,DE: Sky Select HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/80477.ts
+#EXTINF:-1,DE: Sky Select Vitrine
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126187.ts
+#EXTINF:-1,DE: Sky Sport 1 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62069.ts
+#EXTINF:-1,DE: Sky Sport 2 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62068.ts
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64799.ts
+#EXTINF:-1,DE: Sky Sport 4 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/87039.ts
+#EXTINF:-1,DE: Sky Sport 5 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64797.ts
+#EXTINF:-1,DE: Sky Sport 6 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64796.ts
+#EXTINF:-1,DE: Sky Sport 7 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64795.ts
+#EXTINF:-1,DE: Sky Sport 8 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/87043.ts
+#EXTINF:-1,DE: Sky Sport 9 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/87044.ts
+#EXTINF:-1,DE: Sky Sport 10 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94081.ts
+#EXTINF:-1,DE: Sky Sport 24
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86174.ts
+#EXTINF:-1,DE: SKY SPORT AUSTIA
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/109138.ts
+#EXTINF:-1,DE: Sky Sport Austria FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62070.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64779.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64778.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64777.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64776.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64775.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64784.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/86186.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64782.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/97832.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64780.ts
+#EXTINF:-1,DE: Sky Sport News FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64803.ts
+#EXTINF:-1,DE: SKY STORE 1 POPCORN
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120438.ts
+#EXTINF:-1,DE: SKY STORE 2 POPCORN
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120439.ts
+#EXTINF:-1,DE: SKY STORE 3 POPCORN
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120440.ts
+#EXTINF:-1,DE: SKY STORE 4 POPCORN
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120441.ts
+#EXTINF:-1,DE: SKY STORE 5 POPCORN
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120442.ts
+#EXTINF:-1,DE: SKY SYFY HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106364.ts
+#EXTINF:-1,DE: SKY TNT COMEDY
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106353.ts
+#EXTINF:-1,DE: SKY TNT FILM HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/80472.ts
+#EXTINF:-1,DE: SKY TNT Series HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/87088.ts
+#EXTINF:-1,DE: Sky Universal Channel
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94966.ts
+#EXTINF:-1,DE: Sky Western
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/104226.ts
+#EXTINF:-1,DE: Sonnenklar TV HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64857.ts
+#EXTINF:-1,DE: SONY ENTERTAINMENT TV HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/89145.ts
+#EXTINF:-1,DE: Sony HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64883.ts
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62067.ts
+#EXTINF:-1,DE: SPIEGEL GESCHICTHE HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/89146.ts
+#EXTINF:-1,DE: Spiegel TV Wissen HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126184.ts
+#EXTINF:-1,DE: SPORT
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126189.ts
+#EXTINF:-1,DE: Sport 2 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/113205.ts
+#EXTINF:-1,DE: Sport Digital HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62066.ts
+#EXTINF:-1,DE: SPORT-TELECLUB SPORT 1
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/127675.ts
+#EXTINF:-1,DE: SPORT1 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/89133.ts
+#EXTINF:-1,DE: SPORT1+ HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64771.ts
+#EXTINF:-1,DE: SR HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91076.ts
+#EXTINF:-1,DE: SRF 1 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106482.ts
+#EXTINF:-1,DE: SRF 2 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106367.ts
+#EXTINF:-1,DE: Super RTL HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62064.ts
+#EXTINF:-1,DE: Supercalcio
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/118714.ts
+#EXTINF:-1,DE: SWR BW HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91078.ts
+#EXTINF:-1,DE: SWR HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100495.ts
+#EXTINF:-1,DE: SYFY FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/73462.ts
+#EXTINF:-1,DE: Tagesschau 24 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/93223.ts
+#EXTINF:-1,DE: Tele 5 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64893.ts
+#EXTINF:-1,DE: Tele Regional Passau 1
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91126.ts
+#EXTINF:-1,DE: Tele Zuri
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/96002.ts
+#EXTINF:-1,DE: Teleclub Cinema HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/96051.ts
+#EXTINF:-1,DE: Teleclub Prime HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/96052.ts
+#EXTINF:-1,DE: Teleclub Sport 1 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/96026.ts
+#EXTINF:-1,DE: Teleclub Sport 2 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/96027.ts
+#EXTINF:-1,DE: Teleclub Star HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/96053.ts
+#EXTINF:-1,DE: TELESPORT KLUB 1 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/121489.ts
+#EXTINF:-1,DE: Tide TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91127.ts
+#EXTINF:-1,DE: TLC FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62062.ts
+#EXTINF:-1,DE: TNT Comedy FHD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64887.ts
+#EXTINF:-1,DE: TNT Film (TCM)
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/113850.ts
+#EXTINF:-1,DE: TNT Film HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62061.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62060.ts
+#EXTINF:-1,DE: TOGGO PLUS HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/89148.ts
+#EXTINF:-1,DE: TRP1
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91123.ts
+#EXTINF:-1,DE: TV Oberpfalz
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91124.ts
+#EXTINF:-1,DE: TV Würzburg
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91125.ts
+#EXTINF:-1,DE: Universal Channel HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64875.ts
+#EXTINF:-1,DE: UPC My Sports HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94086.ts
+#EXTINF:-1,DE: VIVA COMEDY CENTRAL
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/125531.ts
+#EXTINF:-1,DE: VIVA HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/103461.ts
+#EXTINF:-1,DE: VOX HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62059.ts
+#EXTINF:-1,DE: WDR HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64926.ts
+#EXTINF:-1,DE: WDR KOLN HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/111846.ts
+#EXTINF:-1,DE: Welt Der Wunder HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64838.ts
+#EXTINF:-1,DE: Welt HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91131.ts
+#EXTINF:-1,DE: Welt N24 HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/128112.ts
+#EXTINF:-1,DE: Westerwald TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91133.ts
+#EXTINF:-1,DE: WMZ TV
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91130.ts
+#EXTINF:-1,DE: XITE HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/128113.ts
+#EXTINF:-1,DE: ZDF HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/71542.ts
+#EXTINF:-1,DE: ZDF INFO HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/73523.ts
+#EXTINF:-1,DE: ZDF NEO HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/73463.ts
+#EXTINF:-1,DE: ZEE ONE BOLLYWOOD HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/122332.ts
+#EXTINF:-1,DE: Zee One HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62055.ts
 
-#EXTINF:0 group-title="(DE) Germany",13TH STREET | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6135.m3u8
-#EXTINF:0 group-title="(DE) Germany",13TH STREET (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6135.m3u8
-#EXTINF:0 group-title="(DE) Germany",13TH STREET UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17944.m3u8
-#EXTINF:0 group-title="(DE) Germany",13TH STREET UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17944.m3u8
-#EXTINF:0 group-title="(DE) Germany",3 SAT | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6167.m3u8
-#EXTINF:0 group-title="(DE) Germany",3 SAT (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6167.m3u8
-#EXTINF:0 group-title="(DE) Germany",AIRE SANTA FE | SD
-http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
-#EXTINF:0 group-title="(DE) Germany",ANIMAL PLANET | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6166.m3u8
-#EXTINF:0 group-title="(DE) Germany",ANIMAL PLANET (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6166.m3u8
-#EXTINF:0 group-title="(DE) Germany",ANIXE | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/7228.m3u8
-#EXTINF:0 group-title="(DE) Germany",ARD DAS ERSTE UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17945.m3u8
-#EXTINF:0 group-title="(DE) Germany",ARTE | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6185.m3u8
-#EXTINF:0 group-title="(DE) Germany",ARTE (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6185.m3u8
-#EXTINF:0 group-title="(DE) Germany",AXN | HD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1304.m3u8
-#EXTINF:0 group-title="(DE) Germany",AXN (1+) | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1304.m3u8
-#EXTINF:0 group-title="(DE) Germany",COMEDY CENTRAL | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17915.m3u8
-#EXTINF:0 group-title="(DE) Germany",COMEDY CENTRAL (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17915.m3u8
-#EXTINF:0 group-title="(DE) Germany",DAS ERSTE | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/1591.m3u8
-#EXTINF:0 group-title="(DE) Germany",DAS ERSTE (1+) | HD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/74.m3u8
-#EXTINF:0 group-title="(DE) Germany",DAS ERSTE | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6161.m3u8
-#EXTINF:0 group-title="(DE) Germany",DAS ERSTE (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6161.m3u8
-#EXTINF:0 group-title="(DE) Germany",DAZN 1 BAR UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17942.m3u8
-#EXTINF:0 group-title="(DE) Germany",DAZN 1 BAR UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17942.m3u8
-#EXTINF:0 group-title="(DE) Germany",DAZN 2 BAR UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17943.m3u8
-#EXTINF:0 group-title="(DE) Germany",DAZN 2 BAR UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17943.m3u8
-#EXTINF:0 group-title="(DE) Germany",DISCOVERY CHANNEL | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6113.m3u8
-#EXTINF:0 group-title="(DE) Germany",DISCOVERY CHANNEL (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6113.m3u8
-#EXTINF:0 group-title="(DE) Germany",DISCOVERY UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17947.m3u8
-#EXTINF:0 group-title="(DE) Germany",DISCOVERY UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17947.m3u8
-#EXTINF:0 group-title="(DE) Germany",DMAX | HD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/77.m3u8
-#EXTINF:0 group-title="(DE) Germany",DMAX (1+) | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6158.m3u8
-#EXTINF:0 group-title="(DE) Germany",DMAX (2+) | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/77.m3u8
-#EXTINF:0 group-title="(DE) Germany",DMAX (3+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6158.m3u8
-#EXTINF:0 group-title="(DE) Germany",E! ENTERTAIMENT | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15446.m3u8
-#EXTINF:0 group-title="(DE) Germany",E! ENTERTAIMENT (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15446.m3u8
-#EXTINF:0 group-title="(DE) Germany",E! ENTERTAIMENT UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17949.m3u8
-#EXTINF:0 group-title="(DE) Germany",E! ENTERTAIMENT UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17949.m3u8
-#EXTINF:0 group-title="(DE) Germany",E! ENTERTAINMENT | SD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/10031.m3u8
-#EXTINF:0 group-title="(DE) Germany",FILM WEB | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17920.m3u8
-#EXTINF:0 group-title="(DE) Germany",FILMBOX | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17921.m3u8
-#EXTINF:0 group-title="(DE) Germany",FOX | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6187.m3u8
-#EXTINF:0 group-title="(DE) Germany",FOX (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6187.m3u8
-#EXTINF:0 group-title="(DE) Germany",FOX UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17950.m3u8
-#EXTINF:0 group-title="(DE) Germany",FOX UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17950.m3u8
-#EXTINF:0 group-title="(DE) Germany",HEIMAT KANAL | SD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/10030.m3u8
-#EXTINF:0 group-title="(DE) Germany",HEIMAT KANAL (1+) | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6157.m3u8
-#EXTINF:0 group-title="(DE) Germany",HEIMAT KANAL (2+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6157.m3u8
-#EXTINF:0 group-title="(DE) Germany",HISTORY | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6115.m3u8
-#EXTINF:0 group-title="(DE) Germany",HISTORY (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6115.m3u8
-#EXTINF:0 group-title="(DE) Germany",HISTORY UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17951.m3u8
-#EXTINF:0 group-title="(DE) Germany",HISTORY UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17951.m3u8
-#EXTINF:0 group-title="(DE) Germany",HR FERNSEHEN | SD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/429.m3u8
-#EXTINF:0 group-title="(DE) Germany",KABEL 1 | HD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/75.m3u8
-#EXTINF:0 group-title="(DE) Germany",KABEL 1 (1+) | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6138.m3u8
-#EXTINF:0 group-title="(DE) Germany",KABEL 1 (2+) | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/75.m3u8
-#EXTINF:0 group-title="(DE) Germany",KABEL 1 (3+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6138.m3u8
-#EXTINF:0 group-title="(DE) Germany",KABEL 1 CLASSIC | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/8035.m3u8
-#EXTINF:0 group-title="(DE) Germany",KABEL 1 CLASSIC (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/8035.m3u8
-#EXTINF:0 group-title="(DE) Germany",KABEL 1 DOKU | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6156.m3u8
-#EXTINF:0 group-title="(DE) Germany",KABEL 1 DOKU (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6156.m3u8
-#EXTINF:0 group-title="(DE) Germany",KABEL EINS | SD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/5473.m3u8
-#EXTINF:0 group-title="(DE) Germany",KABEL EINS CLASSIC | SD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/10026.m3u8
-#EXTINF:0 group-title="(DE) Germany",KABEL EINS CLASSICS | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1170.m3u8
-#EXTINF:0 group-title="(DE) Germany",KABEL EINS CLASSICS (1+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1170.m3u8
-#EXTINF:0 group-title="(DE) Germany",KABEL EINS DOKU | SD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/2295.m3u8
-#EXTINF:0 group-title="(DE) Germany",KIKA | HD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/86.m3u8
-#EXTINF:0 group-title="(DE) Germany",KIKA (1+) | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/86.m3u8
-#EXTINF:0 group-title="(DE) Germany",KIKA | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6155.m3u8
-#EXTINF:0 group-title="(DE) Germany",KIKA (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6155.m3u8
-#EXTINF:0 group-title="(DE) Germany",KINOWELT | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17922.m3u8
-#EXTINF:0 group-title="(DE) Germany",KINOWELT (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17922.m3u8
-#EXTINF:0 group-title="(DE) Germany",LT CANAL LA ESTRELLAS | SD
-http://144.217.72.121:8000/live/nova1764/a1764/2495.m3u8
-#EXTINF:0 group-title="(DE) Germany",MDR S-ANHALT UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17952.m3u8
-#EXTINF:0 group-title="(DE) Germany",MERAS RIO JANEIRO | SD
-http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
-#EXTINF:0 group-title="(DE) Germany",N-TV UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17954.m3u8
-#EXTINF:0 group-title="(DE) Germany",N-TV UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17954.m3u8
-#EXTINF:0 group-title="(DE) Germany",N24 | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6188.m3u8
-#EXTINF:0 group-title="(DE) Germany",N24 (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6188.m3u8
-#EXTINF:0 group-title="(DE) Germany",N24 | SD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/2296.m3u8
-#EXTINF:0 group-title="(DE) Germany",NAT GEO UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17955.m3u8
-#EXTINF:0 group-title="(DE) Germany",NAT GEO UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17955.m3u8
-#EXTINF:0 group-title="(DE) Germany",NAT GEO WILD | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6114.m3u8
-#EXTINF:0 group-title="(DE) Germany",NAT GEO WILD (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6114.m3u8
-#EXTINF:0 group-title="(DE) Germany",NAT GEO WILD | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1560.m3u8
-#EXTINF:0 group-title="(DE) Germany",NAT GEO WILD (1+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1560.m3u8
-#EXTINF:0 group-title="(DE) Germany",NAT GEO WILD UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17956.m3u8
-#EXTINF:0 group-title="(DE) Germany",NAT GEO WILD UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17956.m3u8
-#EXTINF:0 group-title="(DE) Germany",NAT GEOGRAPHIC | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6154.m3u8
-#EXTINF:0 group-title="(DE) Germany",NAT GEOGRAPHIC (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6154.m3u8
-#EXTINF:0 group-title="(DE) Germany",NDR | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/10138.m3u8
-#EXTINF:0 group-title="(DE) Germany",NDR (1+) | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6186.m3u8
-#EXTINF:0 group-title="(DE) Germany",NDR (2+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6186.m3u8
-#EXTINF:0 group-title="(DE) Germany",NDR | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1179.m3u8
-#EXTINF:0 group-title="(DE) Germany",NDR (1+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1179.m3u8
-#EXTINF:0 group-title="(DE) Germany",NTV | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/3128.m3u8
-#EXTINF:0 group-title="(DE) Germany",NTV | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1479.m3u8
-#EXTINF:0 group-title="(DE) Germany",NTV (1+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1479.m3u8
-#EXTINF:0 group-title="(DE) Germany",OK STENDAL | SD
-http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
-#EXTINF:0 group-title="(DE) Germany",ORF | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/793.m3u8
-#EXTINF:0 group-title="(DE) Germany",ORF (1+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/793.m3u8
-#EXTINF:0 group-title="(DE) Germany",ORF 1 | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6184.m3u8
-#EXTINF:0 group-title="(DE) Germany",ORF 1 (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6184.m3u8
-#EXTINF:0 group-title="(DE) Germany",ORF 1 | SD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/1510.m3u8
-#EXTINF:0 group-title="(DE) Germany",ORF 1 (1+) | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/93.m3u8
-#EXTINF:0 group-title="(DE) Germany",ORF 1 (2+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/93.m3u8
-#EXTINF:0 group-title="(DE) Germany",ORF 2 | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6183.m3u8
-#EXTINF:0 group-title="(DE) Germany",ORF 2 (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6183.m3u8
-#EXTINF:0 group-title="(DE) Germany",ORF 2 | SD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/1509.m3u8
-#EXTINF:0 group-title="(DE) Germany",ORF 3 | SD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/1508.m3u8
-#EXTINF:0 group-title="(DE) Germany",PHOENIX | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6137.m3u8
-#EXTINF:0 group-title="(DE) Germany",PHOENIX (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6137.m3u8
-#EXTINF:0 group-title="(DE) Germany",PLANET | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15551.m3u8
-#EXTINF:0 group-title="(DE) Germany",PLANET A&E | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6181.m3u8
-#EXTINF:0 group-title="(DE) Germany",PLANET A&E (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6181.m3u8
-#EXTINF:0 group-title="(DE) Germany",POPCORN SELECT 1 | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17923.m3u8
-#EXTINF:0 group-title="(DE) Germany",POPCORN SELECT 2 | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17924.m3u8
-#EXTINF:0 group-title="(DE) Germany",POPCORN SELECT 3 | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17925.m3u8
-#EXTINF:0 group-title="(DE) Germany",POPCORN SELECT 4 | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17926.m3u8
-#EXTINF:0 group-title="(DE) Germany",POPCORN SELECT 5 | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17927.m3u8
-#EXTINF:0 group-title="(DE) Germany",POPCORN SELECT 7 | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17929.m3u8
-#EXTINF:0 group-title="(DE) Germany",PRO 7 | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/2442.m3u8
-#EXTINF:0 group-title="(DE) Germany",PRO 7 (1+) | HD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/69.m3u8
-#EXTINF:0 group-title="(DE) Germany",PRO 7 (2+) | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6172.m3u8
-#EXTINF:0 group-title="(DE) Germany",PRO 7 (3+) | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/69.m3u8
-#EXTINF:0 group-title="(DE) Germany",PRO 7 (4+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6172.m3u8
-#EXTINF:0 group-title="(DE) Germany",PRO 7 FUN | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6151.m3u8
-#EXTINF:0 group-title="(DE) Germany",PRO 7 FUN | SD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/9356.m3u8
-#EXTINF:0 group-title="(DE) Germany",PRO 7 MAX | HD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1165.m3u8
-#EXTINF:0 group-title="(DE) Germany",PRO 7 MAX (1+) | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1165.m3u8
-#EXTINF:0 group-title="(DE) Germany",PRO 7 MAXX | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6368.m3u8
-#EXTINF:0 group-title="(DE) Germany",PRO 7 MAXX (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6368.m3u8
-#EXTINF:0 group-title="(DE) Germany",PRO 7 MAXX | SD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/4569.m3u8
-#EXTINF:0 group-title="(DE) Germany",PRO 7 UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17957.m3u8
-#EXTINF:0 group-title="(DE) Germany",PRO 7 UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17957.m3u8
-#EXTINF:0 group-title="(DE) Germany",RBB BERLIN UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17958.m3u8
-#EXTINF:0 group-title="(DE) Germany",ROMANCE TV | SD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/10029.m3u8
-#EXTINF:0 group-title="(DE) Germany",ROMANCE TV (1+) | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18395.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/561.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL (1+) | HD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/72.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL (2+) | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6176.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL (3+) | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/72.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL (4+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6176.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL 2 | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/2441.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL 2 (1+) | HD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/73.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL 2 (2+) | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6170.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL 2 (3+) | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/73.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL 2 (4+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6170.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL 2 UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17959.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL 2 UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17959.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL CRIME | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/2440.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL CRIME (1+) | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6129.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL CRIME (2+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6129.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL CRIME UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17960.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL LIVING | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/7236.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL LIVING | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6148.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL LIVING (1+) | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1169.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL LIVING (2+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1169.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL NITRO | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/7235.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL NITRO (1+) | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6147.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL NITRO (2+) | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1168.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL NITRO (3+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6147.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL PASSION | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6124.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL PASSION (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6124.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL PASSION | SD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/427.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL PASSION (1+) | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1167.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL PASSION (2+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1167.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL PLUS | SD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/10396.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL PLUS (1+) | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6146.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL PLUS (2+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6146.m3u8
-#EXTINF:0 group-title="(DE) Germany",RTL UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17961.m3u8
-#EXTINF:0 group-title="(DE) Germany",SANTUARIO FATIMA PORTUGAL | SD
-http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
-#EXTINF:0 group-title="(DE) Germany",SAT 1 | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/563.m3u8
-#EXTINF:0 group-title="(DE) Germany",SAT 1 (1+) | HD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/70.m3u8
-#EXTINF:0 group-title="(DE) Germany",SAT 1 (2+) | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6346.m3u8
-#EXTINF:0 group-title="(DE) Germany",SAT 1 (3+) | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/70.m3u8
-#EXTINF:0 group-title="(DE) Germany",SAT 1 (4+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6346.m3u8
-#EXTINF:0 group-title="(DE) Germany",SAT 1 GOLD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6145.m3u8
-#EXTINF:0 group-title="(DE) Germany",SAT 1 GOLD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6145.m3u8
-#EXTINF:0 group-title="(DE) Germany",SAT 1 UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17962.m3u8
-#EXTINF:0 group-title="(DE) Germany",SAT 1 UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17962.m3u8
-#EXTINF:0 group-title="(DE) Germany",SAT1 GOLD | SD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/7241.m3u8
-#EXTINF:0 group-title="(DE) Germany",SAT1 GOLD (1+) | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1256.m3u8
-#EXTINF:0 group-title="(DE) Germany",SAT1 GOLD (2+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1256.m3u8
-#EXTINF:0 group-title="(DE) Germany",SERVUS TV | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/466.m3u8
-#EXTINF:0 group-title="(DE) Germany",SERVUS TV | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6144.m3u8
-#EXTINF:0 group-title="(DE) Germany",SERVUS TV (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6144.m3u8
-#EXTINF:0 group-title="(DE) Germany",SILVERLINE | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/12218.m3u8
-#EXTINF:0 group-title="(DE) Germany",SIXX | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/10722.m3u8
-#EXTINF:0 group-title="(DE) Germany",SIXX (1+) | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6178.m3u8
-#EXTINF:0 group-title="(DE) Germany",SIXX (2+) | HD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1478.m3u8
-#EXTINF:0 group-title="(DE) Germany",SIXX (3+) | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1478.m3u8
-#EXTINF:0 group-title="(DE) Germany",SIXX (4+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6178.m3u8
-#EXTINF:0 group-title="(DE) Germany",SIXX UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17963.m3u8
-#EXTINF:0 group-title="(DE) Germany",SIXX UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17963.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY 1 | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17930.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY 1 (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17930.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY 1 UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17964.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY 1 UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17964.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY 13 STREET | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/635.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY 13 STREET (1+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/635.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY ACTION | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6125.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY ACTION (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6125.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY ACTION | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/479.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY ACTION (1+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/479.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY ACTION UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17965.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY ARTS UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17966.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY ARTS UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17966.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY ATLANTIC | HD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/661.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY ATLANTIC (1+) | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6122.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY ATLANTIC (2+) | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/661.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY ATLANTIC (3+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6122.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY ATLANTIC UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17967.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY ATLANTIC UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17967.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY ATLATIC | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6393.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY ATLATIC (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6393.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY AXN | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/12255.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY AXN (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/12255.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 1 | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/7408.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 1 | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17912.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 1 UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17931.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 1 UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17931.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 10 MATCH TIME | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/7419.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 2 | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/7409.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 2 | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17913.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 3 MATCH TIME | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/7412.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 4 MATCH TIME | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/7413.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 5 MATCH TIME | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/7414.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 7 MATCH TIME | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/7416.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 9 MATCH TIME | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17910.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY COMEDY | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/623.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY COMEDY (1+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/623.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY EMOTION | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6123.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY EMOTION (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6123.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY EMOTION | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1250.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY EMOTION (1+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1250.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY FOX | HD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/634.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY FOX (1+) | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/634.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY HITS | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1249.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY HITS (1+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1249.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY KRIMI | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17935.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY KRIMI (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17935.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY KRIMI | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/624.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY KRIMI (1+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/624.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY MGM | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/636.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY NOSTALGIE | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17936.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY NOSTALGIE (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17936.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY SELECT 1 | HD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/625.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY SELECT 1 (1+) | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/625.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY SELECT 3 | HD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/627.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY SELECT 3 (1+) | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/627.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY SELECT 4 | HD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1591.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY SELECT 4 (1+) | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1591.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY SELECT 5 | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1590.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY SELECT 6 | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/629.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY SELECT 6 (1+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/629.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY SELECT 7 | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1595.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY SYFY | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/12267.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY SYFY (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/12267.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY SYFY | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1248.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY SYFY (1+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1248.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY-SELECT 2 | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1593.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY-SELECT 2 (1+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1593.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY-SELECT 8 | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1596.m3u8
-#EXTINF:0 group-title="(DE) Germany",SKY-SELECT 8 (1+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1596.m3u8
-#EXTINF:0 group-title="(DE) Germany",SONY ENTERTAINMENT TV | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/5127.m3u8
-#EXTINF:0 group-title="(DE) Germany",SONY TV | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17937.m3u8
-#EXTINF:0 group-title="(DE) Germany",SONY TV (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17937.m3u8
-#EXTINF:0 group-title="(DE) Germany",SPIEGEL GESCHICHTE | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6143.m3u8
-#EXTINF:0 group-title="(DE) Germany",SPIEGEL GESCHICHTE (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6143.m3u8
-#EXTINF:0 group-title="(DE) Germany",SRF 1 | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/7237.m3u8
-#EXTINF:0 group-title="(DE) Germany",SRF 1 (1+) | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6142.m3u8
-#EXTINF:0 group-title="(DE) Germany",SRF 1 (2+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6142.m3u8
-#EXTINF:0 group-title="(DE) Germany",SRF 2 | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/7238.m3u8
-#EXTINF:0 group-title="(DE) Germany",SUPER RTL | HD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/78.m3u8
-#EXTINF:0 group-title="(DE) Germany",SUPER RTL (1+) | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/78.m3u8
-#EXTINF:0 group-title="(DE) Germany",SUPER RTL | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6141.m3u8
-#EXTINF:0 group-title="(DE) Germany",SUPER RTL (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6141.m3u8
-#EXTINF:0 group-title="(DE) Germany",SUPER RTL UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17975.m3u8
-#EXTINF:0 group-title="(DE) Germany",SUPER-RTL | HD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1585.m3u8
-#EXTINF:0 group-title="(DE) Germany",SUPER-RTL (1+) | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1585.m3u8
-#EXTINF:0 group-title="(DE) Germany",SYFY UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17976.m3u8
-#EXTINF:0 group-title="(DE) Germany",SYFY UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17976.m3u8
-#EXTINF:0 group-title="(DE) Germany",TAGESSCHAU 24 | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1099.m3u8
-#EXTINF:0 group-title="(DE) Germany",TAGESSCHAU 24 (1+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1099.m3u8
-#EXTINF:0 group-title="(DE) Germany",TELE 5 | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/7207.m3u8
-#EXTINF:0 group-title="(DE) Germany",TELE 5 (1+) | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6140.m3u8
-#EXTINF:0 group-title="(DE) Germany",TELE 5 (2+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6140.m3u8
-#EXTINF:0 group-title="(DE) Germany",TLC | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/7239.m3u8
-#EXTINF:0 group-title="(DE) Germany",TLC (1+) | HD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1305.m3u8
-#EXTINF:0 group-title="(DE) Germany",TLC (2+) | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17939.m3u8
-#EXTINF:0 group-title="(DE) Germany",TLC (3+) | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1305.m3u8
-#EXTINF:0 group-title="(DE) Germany",TLC (4+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17939.m3u8
-#EXTINF:0 group-title="(DE) Germany",TNT COMEDY | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17940.m3u8
-#EXTINF:0 group-title="(DE) Germany",TNT COMEDY (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17940.m3u8
-#EXTINF:0 group-title="(DE) Germany",TNT COMEDY UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17977.m3u8
-#EXTINF:0 group-title="(DE) Germany",TNT COMEDY UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17977.m3u8
-#EXTINF:0 group-title="(DE) Germany",TNT FILM | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6130.m3u8
-#EXTINF:0 group-title="(DE) Germany",TNT FILM (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6130.m3u8
-#EXTINF:0 group-title="(DE) Germany",TNT FILM TCM | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1247.m3u8
-#EXTINF:0 group-title="(DE) Germany",TNT FILM TCM (1+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1247.m3u8
-#EXTINF:0 group-title="(DE) Germany",UHD | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17983.m3u8
-#EXTINF:0 group-title="(DE) Germany",UNIVERSAL CHANNEL | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6139.m3u8
-#EXTINF:0 group-title="(DE) Germany",UNIVERSAL CHANNEL (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6139.m3u8
-#EXTINF:0 group-title="(DE) Germany",UNIVERSAL CHANNEL UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17979.m3u8
-#EXTINF:0 group-title="(DE) Germany",VIP | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6116.m3u8
-#EXTINF:0 group-title="(DE) Germany",VIP (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6117.m3u8
-#EXTINF:0 group-title="(DE) Germany",VIP (2+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6118.m3u8
-#EXTINF:0 group-title="(DE) Germany",VIP (3+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6119.m3u8
-#EXTINF:0 group-title="(DE) Germany",VIP (4+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6120.m3u8
-#EXTINF:0 group-title="(DE) Germany",VIP (5+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6121.m3u8
-#EXTINF:0 group-title="(DE) Germany",VOX | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/2288.m3u8
-#EXTINF:0 group-title="(DE) Germany",VOX (1+) | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6173.m3u8
-#EXTINF:0 group-title="(DE) Germany",VOX (2+) | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/488.m3u8
-#EXTINF:0 group-title="(DE) Germany",VOX (3+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6173.m3u8
-#EXTINF:0 group-title="(DE) Germany",VOX UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17980.m3u8
-#EXTINF:0 group-title="(DE) Germany",VOX UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17980.m3u8
-#EXTINF:0 group-title="(DE) Germany",WDR | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/3122.m3u8
-#EXTINF:0 group-title="(DE) Germany",WDR (1+) | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6174.m3u8
-#EXTINF:0 group-title="(DE) Germany",WDR (2+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6174.m3u8
-#EXTINF:0 group-title="(DE) Germany",WELT DER WUNDER | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17941.m3u8
-#EXTINF:0 group-title="(DE) Germany",ZDF | HD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/566.m3u8
-#EXTINF:0 group-title="(DE) Germany",ZDF (1+) | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6182.m3u8
-#EXTINF:0 group-title="(DE) Germany",ZDF (2+) | HD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/71.m3u8
-#EXTINF:0 group-title="(DE) Germany",ZDF (3+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6182.m3u8
-#EXTINF:0 group-title="(DE) Germany",ZDF INFO | SD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/3121.m3u8
-#EXTINF:0 group-title="(DE) Germany",ZDF INFO (1+) | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6169.m3u8
-#EXTINF:0 group-title="(DE) Germany",ZDF INFO (2+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6169.m3u8
-#EXTINF:0 group-title="(DE) Germany",ZDF NEO | SD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/567.m3u8
-#EXTINF:0 group-title="(DE) Germany",ZDF NEO (1+) | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6168.m3u8
-#EXTINF:0 group-title="(DE) Germany",ZDF NEO (2+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6168.m3u8
-#EXTINF:0 group-title="(DE) Germany",ZDF UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17981.m3u8
-#EXTINF:0 group-title="(DE) Germany",ZDF UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17981.m3u8
-#EXTINF:0 group-title="(DE) Germany",ZEE ONE | HD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/13086.m3u8
-#EXTINF:0 group-title="(DE) Germany",ZEE ONE (1+) | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/13086.m3u8
-#EXTINF:0 group-title="(DE) Germany",ZEE ONE | SD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/5816.m3u8
-#EXTINF:0 group-title="(DE) Germany",ZEE ONE UHD | SD
-http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17982.m3u8
-#EXTINF:0 group-title="(DE) Germany",ZEE ONE UHD (1+) | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17982.m3u8
+#EXTINF:-1,DE:E! ENTERTAIMENT
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15446.ts
+#EXTINF:-1,DE:KABEL 1 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6138.ts
+#EXTINF:-1,DE:KABEL 1 DOKU
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6156.ts
+#EXTINF:-1,DE:FOX HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6187.ts
+#EXTINF:-1,DE:ZDF HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6182.ts
+#EXTINF:-1,DE:ZDF INFO
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6169.ts
+#EXTINF:-1,DE:ZDF NEO
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6168.ts
+#EXTINF:-1,DE:VOX HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6173.ts
+#EXTINF:-1,DE:ROMANCE TV
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18395.ts
+#EXTINF:-1,DE:RTL HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6176.ts
+#EXTINF:-1,DE:RTL LIVING
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6148.ts
+#EXTINF:-1,DE:RTL CRIME HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6129.ts
+#EXTINF:-1,DE:RTL NITRO HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6147.ts
+#EXTINF:-1,DE:RTL PLUS
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6146.ts
+#EXTINF:-1,DE:RTL 2 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6170.ts
+#EXTINF:-1,DE:SUPER RTL
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6141.ts
+#EXTINF:-1,DE:RTL PASSION HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6124.ts
+#EXTINF:-1,DE:PRO 7 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6172.ts
+#EXTINF:-1,DE:PRO 7 FUN HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6151.ts
+#EXTINF:-1,DE:SAT 1 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6346.ts
+#EXTINF:-1,DE:SAT 1 GOLD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6145.ts
+#EXTINF:-1,DE:3 SAT
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6167.ts
+#EXTINF:-1,DE:SIXX HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6178.ts
+#EXTINF:-1,DE:DAS ERSTE
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6161.ts
+#EXTINF:-1,DE:NDR HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6186.ts
+#EXTINF:-1,DE:PHOENIX
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6137.ts
+#EXTINF:-1,DE:SERVUS TV
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6144.ts
+#EXTINF:-1,DE:WDR HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6174.ts
+#EXTINF:-1,DE:N-TV HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6377.ts
+#EXTINF:-1,DE:N24 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6188.ts
+#EXTINF:-1,DE:PLANET A&E HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6181.ts
+#EXTINF:-1,DE:ORF 1 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6184.ts
+#EXTINF:-1,DE:ORF 2 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6183.ts
+#EXTINF:-1,DE:SRF 1 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6142.ts
+#EXTINF:-1,DE:TELE 5 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6140.ts
+#EXTINF:-1,DE:DMAX HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6158.ts
+#EXTINF:-1,DE:ARTE
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6185.ts
+#EXTINF:-1,DE:EURONEWS TV
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15546.ts
+#EXTINF:-1,DE:PLANET
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15551.ts
+#EXTINF:-1,DE:HEIMAT KANAL
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6157.ts
+#EXTINF:-1,DE:BOOMERANG
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6164.ts
+#EXTINF:-1,DE:DELUXE MUSIC TV
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6160.ts
+#EXTINF:-1,DE:DISNEY JUNIOR HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6133.ts
+#EXTINF:-1,DE:KIKA
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6155.ts
+#EXTINF:-1,DE:DISNEY XD  HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6134.ts
+#EXTINF:-1,DE:DISNEY CINEMAGIC HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6132.ts
+#EXTINF:-1,DE:CARTOON NETWORK HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6163.ts
+#EXTINF:-1,DE:NICKLODEON HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6355.ts
+#EXTINF:-1,DE:DISNEY CHANNEL
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6159.ts
+#EXTINF:-1,DE:SPIEGEL GESCHICHTE
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6143.ts
+#EXTINF:-1,DE:DISCOVERY CHANNEL HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6113.ts
+#EXTINF:-1,DE:NAT GEO WILD HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6114.ts
+#EXTINF:-1,DE:NAT GEOGRAPHIC HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6154.ts
+#EXTINF:-1,DE:HISTORY HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6115.ts
+#EXTINF:-1,DE:ANIMAL PLANET
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6166.ts
+#EXTINF:-1,***** DEUTSCH UHD [4K] *****
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17983.ts
+#EXTINF:-1,DE:SKY SPORT NEWS UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17973.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA 1 UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17931.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA 2 UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17932.ts
+#EXTINF:-1,DE:DAZN 1 BAR UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17942.ts
+#EXTINF:-1,DE:DAZN 2 BAR UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17943.ts
+#EXTINF:-1,DE:SPORT 1 UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17974.ts
+#EXTINF:-1,DE:SKY 1 UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17964.ts
+#EXTINF:-1,DE:FOX UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17950.ts
+#EXTINF:-1,DE:HISTORY UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17951.ts
+#EXTINF:-1,DE:MDR S-Anhalt UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17952.ts
+#EXTINF:-1,DE:MTV UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17953.ts
+#EXTINF:-1,DE:N-TV UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17954.ts
+#EXTINF:-1,DE:NAT GEO UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17955.ts
+#EXTINF:-1,DE:NAT GEO WILD UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17956.ts
+#EXTINF:-1,DE:PRO 7 UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17957.ts
+#EXTINF:-1,DE:RBB Berlin UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17958.ts
+#EXTINF:-1,DE:RTL 2 UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17959.ts
+#EXTINF:-1,DE:RTL CRIME UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17960.ts
+#EXTINF:-1,DE:RTL UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17961.ts
+#EXTINF:-1,DE:SAT 1 UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17962.ts
+#EXTINF:-1,DE:SIXX UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17963.ts
+#EXTINF:-1,DE:13TH STREET UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17944.ts
+#EXTINF:-1,DE:ARD DAS ERSTE UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17945.ts
+#EXTINF:-1,DE:DELUXE MUSIC UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17946.ts
+#EXTINF:-1,DE:DISCOVERY UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17947.ts
+#EXTINF:-1,DE:DISNEY CINEMAGIC UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17948.ts
+#EXTINF:-1,DE:E! ENTERTAIMENT UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17949.ts
+#EXTINF:-1,DE:SUPER RTL UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17975.ts
+#EXTINF:-1,DE:SYFY UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17976.ts
+#EXTINF:-1,DE:TNT COMEDY UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17977.ts
+#EXTINF:-1,DE:TNT SERIES UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17978.ts
+#EXTINF:-1,DE:UNIVERSAL CHANNEL UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17979.ts
+#EXTINF:-1,DE:VOX UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17980.ts
+#EXTINF:-1,DE:ZDF UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17981.ts
+#EXTINF:-1,DE:ZEE ONE UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17982.ts
+#EXTINF:-1,DE:SKY ACTION UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17965.ts
+#EXTINF:-1,DE:SKY ARTS UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17966.ts
+#EXTINF:-1,DE:SKY ATLANTIC UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17967.ts
+#EXTINF:-1,DE:SKY CINEMA  24 UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17968.ts
+#EXTINF:-1,DE:SKY CINEMA 1 UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17969.ts
+#EXTINF:-1,DE:SKY CINEMA FAMILY UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17970.ts
+#EXTINF:-1,DE:SKY CINEMA HITS UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17971.ts
+#EXTINF:-1,DE:SKY CINEMA UHD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17972.ts
+#EXTINF:-1,DE:TLC HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17939.ts
+#EXTINF:-1,DE:SKY SYFY HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/12267.ts
+#EXTINF:-1,***** DEUTSCHE KINO *****
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/3412.ts
+#EXTINF:-1,DE:SKY 1 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17930.ts
+#EXTINF:-1,DE:SKY CINEMA FAMILY HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17933.ts
+#EXTINF:-1,DE:SKY CINEMA HITS HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17934.ts
+#EXTINF:-1,DE:SKY CINEMA 24 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6126.ts
+#EXTINF:-1,DE:SKY CINEMA HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6128.ts
+#EXTINF:-1,DE:SKY CINEMA 1 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6127.ts
+#EXTINF:-1,DE:SKY ATLATIC HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6393.ts
+#EXTINF:-1,DE:SKY ACTION HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6125.ts
+#EXTINF:-1,DE:SKY ATLANTIC HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6122.ts
+#EXTINF:-1,DE:SKY EMOTION HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6123.ts
+#EXTINF:-1,DE:SKY KRIMI HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17935.ts
+#EXTINF:-1,DE:SKY NOSTALGIE HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17936.ts
+#EXTINF:-1,DE:SKY AXN HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/12255.ts
+#EXTINF:-1,DE:TNT FILM HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6130.ts
+#EXTINF:-1,DE:TNT SERIES HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6131.ts
+#EXTINF:-1,DE:UNIVERSAL CHANNEL HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6139.ts
+#EXTINF:-1,DE:WELT DER WUNDER HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17941.ts
+#EXTINF:-1,DE:COMEDY CENTRAL HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17915.ts
+#EXTINF:-1,DE:KINOWELT HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17922.ts
+#EXTINF:-1,DE:SONY TV HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17937.ts
+#EXTINF:-1,DE:TNT COMEDY HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17940.ts
+#EXTINF:-1,DE:ZEE ONE HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/13086.ts
+#EXTINF:-1,DE:KABEL 1 CLASSIC HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/8035.ts
+#EXTINF:-1,DE:PRO 7 MAXX HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6368.ts
+#EXTINF:-1,DE:13TH STREET HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6135.ts
+#EXTINF:-1,DE:FILM WEB HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17920.ts
+#EXTINF:-1,DE:FILMBOX DEUTSCH HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17921.ts
+#EXTINF:-1,DE:ELIT CINEMA 1 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17916.ts
+#EXTINF:-1,DE:ELIT CINEMA 2 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17917.ts
+#EXTINF:-1,DE:ELIT CINEMA 3 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17918.ts
+#EXTINF:-1,DE:ELIT CINEMA 4 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17919.ts
+#EXTINF:-1,DE:CINEBOX SELECT 1 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17580.ts
+#EXTINF:-1,DE:CINEBOX SELECT 2 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17579.ts
+#EXTINF:-1,DE:CINEBOX SELECT 3 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17578.ts
+#EXTINF:-1,DE:CINEBOX SELECT 4 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17577.ts
+#EXTINF:-1,DE:CINEBOX SELECT 5 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17576.ts
+#EXTINF:-1,DE:CINEBOX SELECT 6 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17575.ts
+#EXTINF:-1,DE:VIP:SKY SELECT 1 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6121.ts
+#EXTINF:-1,DE:VIP:SKY SELECT 2 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6120.ts
+#EXTINF:-1,DE:VIP:SKY SELECT 3 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6119.ts
+#EXTINF:-1,DE:VIP:SKY SELECT 4 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6118.ts
+#EXTINF:-1,DE:VIP:SKY SELECT 5 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6117.ts
+#EXTINF:-1,DE:VIP:SKY SELECT 6 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/6116.ts
+#EXTINF:-1,DE:POPCORN SELECT 1 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17923.ts
+#EXTINF:-1,DE:POPCORN SELECT 2 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17924.ts
+#EXTINF:-1,DE:POPCORN SELECT 3 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17925.ts
+#EXTINF:-1,DE:POPCORN SELECT 4 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17926.ts
+#EXTINF:-1,DE:POPCORN SELECT 5 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17927.ts
+#EXTINF:-1,DE:POPCORN SELECT 6 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17928.ts
+#EXTINF:-1,DE:POPCORN SELECT 7 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17929.ts
+
+#EXTINF:-1,DE:7MAXX
+http://egyman.net:1978/live/01000/01000/6598.ts
+#EXTINF:-1,DE:AXN
+http://egyman.net:1978/live/01000/01000/6597.ts
+#EXTINF:-1,DE:Das Erste
+http://egyman.net:1978/live/01000/01000/6591.ts
+#EXTINF:-1,DE:Disney_Channel
+http://egyman.net:1978/live/01000/01000/6596.ts
+#EXTINF:-1,DE:Disney_Cinemagic
+http://egyman.net:1978/live/01000/01000/6595.ts
+#EXTINF:-1,DE:Disney_Junior
+http://egyman.net:1978/live/01000/01000/6594.ts
+#EXTINF:-1,DE:EUROSPORT_1
+http://egyman.net:1978/live/01000/01000/6593.ts
+#EXTINF:-1,DE:FOX
+http://egyman.net:1978/live/01000/01000/6592.ts
+#EXTINF:-1,DE:KIKA
+http://egyman.net:1978/live/01000/01000/6590.ts
+#EXTINF:-1,DE:NPO-1-(NL)
+http://egyman.net:1978/live/01000/01000/6589.ts
+#EXTINF:-1,DE:PRO-7-MAXX
+http://egyman.net:1978/live/01000/01000/6588.ts
+#EXTINF:-1,DE:RTL_CRIME
+http://egyman.net:1978/live/01000/01000/6574.ts
+#EXTINF:-1,DE:RTL_HD
+http://egyman.net:1978/live/01000/01000/6573.ts
+#EXTINF:-1,DE:RTL-5
+http://egyman.net:1978/live/01000/01000/6579.ts
+#EXTINF:-1,DE:RTL-7-(NL)
+http://egyman.net:1978/live/01000/01000/6578.ts
+#EXTINF:-1,DE:RTL.Nitro
+http://egyman.net:1978/live/01000/01000/6577.ts
+#EXTINF:-1,DE:RTL.Passion
+http://egyman.net:1978/live/01000/01000/6576.ts
+#EXTINF:-1,DE:RTL2.HD
+http://egyman.net:1978/live/01000/01000/6575.ts
+#EXTINF:-1,DE:SAT_1
+http://egyman.net:1978/live/01000/01000/6572.ts
+#EXTINF:-1,DE:Sky_Atlantic
+http://egyman.net:1978/live/01000/01000/6552.ts
+#EXTINF:-1,De:Sky_Emotion
+http://egyman.net:1978/live/01000/01000/6551.ts
+#EXTINF:-1,DE:Sky_Sport_Austria
+http://egyman.net:1978/live/01000/01000/6587.ts
+#EXTINF:-1,DE:Sky_Sport_Digital
+http://egyman.net:1978/live/01000/01000/6586.ts
+#EXTINF:-1,DE:Sky-Action
+http://egyman.net:1978/live/01000/01000/6571.ts
+#EXTINF:-1,DE:Sky-Atlantic
+http://egyman.net:1978/live/01000/01000/6570.ts
+#EXTINF:-1,DE:Sky-Bundesliga-3
+http://egyman.net:1978/live/01000/01000/6569.ts
+#EXTINF:-1,DE:Sky-Cinema
+http://egyman.net:1978/live/01000/01000/6568.ts
+#EXTINF:-1,DE:SKY-CINEMA_24
+http://egyman.net:1978/live/01000/01000/6567.ts
+#EXTINF:-1,DE:Sky-Hits
+http://egyman.net:1978/live/01000/01000/6566.ts
+#EXTINF:-1,DE:Sky-Krimi
+http://egyman.net:1978/live/01000/01000/6565.ts
+#EXTINF:-1,DE:Sky-Select-1
+http://egyman.net:1978/live/01000/01000/6564.ts
+#EXTINF:-1,DE:Sky-Select-2
+http://egyman.net:1978/live/01000/01000/6563.ts
+#EXTINF:-1,DE:Sky-Select-3
+http://egyman.net:1978/live/01000/01000/6562.ts
+#EXTINF:-1,DE:Sky-Select-4
+http://egyman.net:1978/live/01000/01000/6561.ts
+#EXTINF:-1,DE:Sky-Select-5
+http://egyman.net:1978/live/01000/01000/6560.ts
+#EXTINF:-1,DE:Sky-Select-6
+http://egyman.net:1978/live/01000/01000/6559.ts
+#EXTINF:-1,DE:Sky-Select-7
+http://egyman.net:1978/live/01000/01000/6558.ts
+#EXTINF:-1,DE:Sky-Select-8
+http://egyman.net:1978/live/01000/01000/6557.ts
+#EXTINF:-1,DE:Sky-Select-9
+http://egyman.net:1978/live/01000/01000/6556.ts
+#EXTINF:-1,DE:Sky.Bundesliga-1
+http://egyman.net:1978/live/01000/01000/6555.ts
+#EXTINF:-1,DE:Sky.Bundesliga-2
+http://egyman.net:1978/live/01000/01000/6554.ts
+#EXTINF:-1,DE:SkySport_News
+http://egyman.net:1978/live/01000/01000/6553.ts
+#EXTINF:-1,DE:Syfy-HD
+http://egyman.net:1978/live/01000/01000/6585.ts
+#EXTINF:-1,DE:TLC
+http://egyman.net:1978/live/01000/01000/6584.ts
+#EXTINF:-1,DE:TNT
+http://egyman.net:1978/live/01000/01000/6583.ts
+#EXTINF:-1,DE:VOX
+http://egyman.net:1978/live/01000/01000/6582.ts
+#EXTINF:-1,DE:ZDF
+http://egyman.net:1978/live/01000/01000/6581.ts
+#EXTINF:-1,DE:Zee_One
+http://egyman.net:1978/live/01000/01000/6580.ts
+
+#EXTINF:-1,DE LOCAL --13th Street
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7761.ts
+#EXTINF:-1,DE LOCAL --A&E.
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7760.ts
+#EXTINF:-1,DE LOCAL --Cartoon Network .DE
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7759.ts
+#EXTINF:-1,DE LOCAL --Das Erste
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7758.ts
+#EXTINF:-1,DE LOCAL --De- kabel eins
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7757.ts
+#EXTINF:-1,DE LOCAL --Discovery .DE
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7756.ts
+#EXTINF:-1,DE LOCAL --Disney Cinemagic.
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7755.ts
+#EXTINF:-1,DE LOCAL --Disney Junior .DE
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7754.ts
+#EXTINF:-1,DE LOCAL --Disney XD .DE
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7753.ts
+#EXTINF:-1,DE LOCAL --Eurosport 1 DE
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7752.ts
+#EXTINF:-1,DE LOCAL --Eurosport 2 DE
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7751.ts
+#EXTINF:-1,DE LOCAL --FOX .DE
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7750.ts
+#EXTINF:-1,DE LOCAL --Junior
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7749.ts
+#EXTINF:-1,DE LOCAL --NatGeo Wild .DE
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7748.ts
+#EXTINF:-1,DE LOCAL --National Geographic .DE
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7747.ts
+#EXTINF:-1,DE LOCAL --Nickelodeon .DE
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7746.ts
+#EXTINF:-1,DE LOCAL --Pro7 MAXX
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7745.ts
+#EXTINF:-1,DE LOCAL --ProSieben
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7744.ts
+#EXTINF:-1,DE LOCAL --RTL .DE
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7743.ts
+#EXTINF:-1,DE LOCAL --RTL 2 .DE
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7742.ts
+#EXTINF:-1,DE LOCAL --RTL Crime
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7741.ts
+#EXTINF:-1,DE LOCAL --RTL Nitro
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7740.ts
+#EXTINF:-1,DE LOCAL --RTL Passion
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7739.ts
+#EXTINF:-1,DE LOCAL --RTL Plus
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7738.ts
+#EXTINF:-1,DE LOCAL --SAT.1
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7737.ts
+#EXTINF:-1,DE LOCAL --SAT.1 Gold
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7736.ts
+#EXTINF:-1,DE LOCAL --SIXX
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7735.ts
+#EXTINF:-1,DE LOCAL --Sky Atlantic
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7734.ts
+#EXTINF:-1,DE LOCAL --Sky Cinema
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7733.ts
+#EXTINF:-1,DE LOCAL --Sky Cinema  1
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7732.ts
+#EXTINF:-1,DE LOCAL --Sky Cinema  24
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7731.ts
+#EXTINF:-1,DE LOCAL --Sky Cinema Action
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7730.ts
+#EXTINF:-1,DE LOCAL --Sky Cinema Comedy
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7729.ts
+#EXTINF:-1,DE LOCAL --Sky Cinema Emotion
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7728.ts
+#EXTINF:-1,DE LOCAL --Sky Cinema Family
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7727.ts
+#EXTINF:-1,DE LOCAL --Sky Cinema Hits
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7726.ts
+#EXTINF:-1,DE LOCAL --Sky Cinema Nostalgie
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7725.ts
+#EXTINF:-1,DE LOCAL --Sky Krimi
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7724.ts
+#EXTINF:-1,DE LOCAL --Sky Sport 1
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7723.ts
+#EXTINF:-1,DE LOCAL --Sky Sport 2
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7722.ts
+#EXTINF:-1,DE LOCAL --Sky Sport 3
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7721.ts
+#EXTINF:-1,DE LOCAL --Sky Sport 4
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7720.ts
+#EXTINF:-1,DE LOCAL --Sky Sport 5
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7719.ts
+#EXTINF:-1,DE LOCAL --Sky Sport 6
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7718.ts
+#EXTINF:-1,DE LOCAL --Sky Sport 7
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7717.ts
+#EXTINF:-1,DE LOCAL --Sky Sport 8
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7716.ts
+#EXTINF:-1,DE LOCAL --Sky Sport Austria
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7715.ts
+#EXTINF:-1,DE LOCAL --Sky Sport Bundesliga 1
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7714.ts
+#EXTINF:-1,DE LOCAL --Sky Sport Bundesliga 2
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7713.ts
+#EXTINF:-1,DE LOCAL --Sky Sport News
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7712.ts
+#EXTINF:-1,DE LOCAL --Spiegel Geschichte
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7711.ts
+#EXTINF:-1,DE LOCAL --Sport1 US
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7710.ts
+#EXTINF:-1,DE LOCAL --Sportdigital
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7709.ts
+#EXTINF:-1,DE LOCAL --Super RTL
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7708.ts
+#EXTINF:-1,DE LOCAL --Syfy .DE
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7707.ts
+#EXTINF:-1,DE LOCAL --TLC .DE
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7706.ts
+#EXTINF:-1,DE LOCAL --TNT Film
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7705.ts
+#EXTINF:-1,DE LOCAL --TNT Serie
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7704.ts
+#EXTINF:-1,DE LOCAL --VOX
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7703.ts
+#EXTINF:-1,DE LOCAL --ZDF
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7702.ts
+#EXTINF:-1,DE LOCAL --ZDF Neo
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/mslakfmklmlndjkfnsjkfnsjk/7701.ts
