@@ -1,109 +1,79 @@
 #EXTM3U
-#EXTINF:-1,DE: 3 SAT HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64925.ts
-#EXTINF:-1,DE: 1-2-3 TV HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94729.ts
-#EXTINF:-1,DE: 13th Street FHD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62114.ts
-#EXTINF:-1,DE: 7Maxx
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/115113.ts
-#EXTINF:-1,DE: A&E FHD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64804.ts
-#EXTINF:-1,DE: ALEX TV
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/109133.ts
-#EXTINF:-1,DE: Allgäu TV
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/90997.ts
-#EXTINF:-1,DE: Animal Planet FHD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64831.ts
-#EXTINF:-1,DE: ANIMAX
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/117037.ts
-#EXTINF:-1,DE: Anixe HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64827.ts
-#EXTINF:-1,DE: Anixe HD Series
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/125548.ts
-#EXTINF:-1,DE: ARD HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/73535.ts
-#EXTINF:-1,DE: ARD One HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126172.ts
-#EXTINF:-1,DE: ARD-Alpha
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/90996.ts
-#EXTINF:-1,DE: Arte HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64924.ts
-#EXTINF:-1,DE: Astro
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/76039.ts
-#EXTINF:-1,DE: ATV 2 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95915.ts
-#EXTINF:-1,DE: ATV AT
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/127702.ts
-#EXTINF:-1,DE: ATV HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64891.ts
-#EXTINF:-1,DE: Augsburg TV HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100442.ts
-#EXTINF:-1,DE: AUSTRIA 24 TV
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/92664.ts
-#EXTINF:-1,DE: Auto Motor Sport HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64824.ts
-#EXTINF:-1,DE: AXN HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62113.ts
-#EXTINF:-1,DE: Baby TV
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/115645.ts
-#EXTINF:-1,DE: Baden TV
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91000.ts
-#EXTINF:-1,DE: BAYERN FC TV FHD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/128586.ts
-#EXTINF:-1,DE: Beate Uhse TV
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91001.ts
-#EXTINF:-1,DE: Beate-Uhse.TV
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/128067.ts
-#EXTINF:-1,DE: Beatz TV HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126183.ts
-#EXTINF:-1,DE: BLK
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/90998.ts
-#EXTINF:-1,DE: Boomerang HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62112.ts
-#EXTINF:-1,DE: BR Fernsehen HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/76037.ts
-#EXTINF:-1,DE: Dresden Fernsehen
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91015.ts
-#EXTINF:-1,DE: DRF 1
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91008.ts
-#EXTINF:-1,DE: DW
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/93222.ts
-#EXTINF:-1,DE: Elbe Kanal
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91017.ts
-#EXTINF:-1,DE: GoTV Music
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/118160.ts
-#EXTINF:-1,DE: HALLE HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/95938.ts
-#EXTINF:-1,DE: Health TV HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126185.ts
-#EXTINF:-1,DE: Heimat Kanal HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64858.ts
-#EXTINF:-1,DE: Jukebox HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64877.ts
-#EXTINF:-1,DE: Leipzig Fernsehen
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91035.ts
-#EXTINF:-1,DE: MDR HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91036.ts
-#EXTINF:-1,DE: OK Dessau
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91043.ts
-#EXTINF:-1,DE: OK Koblenz
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91044.ts
-#EXTINF:-1,DE: OK Merseburg
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91045.ts
-#EXTINF:-1,DE: OK Salzwedel
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91047.ts
-#EXTINF:-1,DE: OK Stendal
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91048.ts
-#EXTINF:-1,DE: OK SWP
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100473.ts
-#EXTINF:-1,DE: OK Wernigerode
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91049.ts
-#EXTINF:-1,DE: OKTO N24 Doku
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/127704.ts
-#EXTINF:-1,DE: OKTO TV
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/76014.ts
-#EXTINF:-1,DE: Oldenburg eins TV
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91051.ts
-#EXTINF:-1,DE: Rhein Neckar Fernsehen
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91072.ts
+#EXTINF:0,Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+#EXTINF:0,JUCE TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+#EXTINF:0, NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:0,CBSN
+http://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:0,CBN News
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:0,Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1,NRJ TV
+http://livevideo.infomaniak.com/streaming/livecast/energytv/playlist.m3u8
+#EXTINF:-1,noa4 Hamburg FHD
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1,noa4 Norderstedt FHD
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1,NRW TV
+http://streaming006.broadcast.tneg.de:1935/nrwtv-new/_definst_/smil:nrw.smil/playlist.m3u8
+#EXTINF:-1,Potsdam TV
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8
+#EXTINF:-1,TV Würzburg
+http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/chunklist_w893326909.m3u8
+#EXTINF:-1,Dorf tv
+http://dorf.openplayout.org/hls/dorf_high/index.m3u8
+#EXTINF:-1, FS1 
+rtmp://stream.fs1.tv/stream/webstream
+#EXTINF:-1,P3 tv
+rtmp://p3-6.mov.at:1935/live/weekstream
+#EXTINF:-1,RE eins TV
+http://www.reeins.tv:1935/live/re1/playlist.m3u8
+#EXTINF:-1,Tirol TV
+http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w1178744335.m3u8
+#EXTINF:-1,eRtv
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5679_nYMRJQdgpK3WDGr/playlist.m3u8
+#EXTINF:-1,Hamburg 1
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5655_F7KT9xCQkXwbNmq/playlist.m3u8
+#EXTINF:-1,Nahe TV
+rtmp://stream-cdn.ok54.de/tv/nahetv
+#EXTINF:-1,oe24 TV
+http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+#EXTINF:-1,OK Koblenz
+http://stream-cdn.ok54.de/hls/ok4.m3u8
+#EXTINF:-1,OK Weinstraße
+rtmp://stream-cdn.ok54.de/tv/okweinstrasse
+#EXTINF:-1,Tele Regional Passau 1
+http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/master.m3u8
+#EXTINF:-1,Chemnitz Fernsehen
+http://regio-tv-stream.de:1935/chemnitzfernsehenlive/livestream.sdp/playlist.m3u8
+#EXTINF:-1,Dresden Fernsehen
+http://regio-tv-stream.de:1935/dresdenfernsehenlive/livestream.sdp/playlist.m3u8
+#EXTINF:-1,Leipzig Fernsehen
+http://regio-tv-stream.de:1935/leipzigfernsehenlive/livestream.sdp/playlist.m3u8
+#EXTINF:-1,TV Oberpfalz
+http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/chunklist_w535800930.m3u8
+#EXTINF:-1,OK Ludwigshafen
+rtmp://vstream.twl-kom.de:1935/live/demo.stream_720p
+#EXTINF:-1,Rhein Neckar Fernsehen
+http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/chunklist_w657988848.m3u8
+#EXTINF:-1,TRP 1
+rtmp://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1
+#EXTINF:-1,Westerwald TV
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/chunklist_b2000000.m3u8
+#EXTINF:-1,OK Trier
+http://stream-cdn.ok54.de/hls/ok54.m3u8
+#EXTINF:-1,Südtirol Digital Fernsehen
+http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8
+#EXTINF:-1,Allgäu TV
+http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
+#EXTINF:-1,Bayern Müchen TV
+https://klive-a.akamaihd.net/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs4H8Mzuv07XU5Zdqb4sw/master.m3u8
+#EXTINF:-1,TV Mittelrhein
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8
+#EXTINF:-1,M4 TV (Austria)
+http://streaming.austria24.tv/live/stream_720p/playlist.m3u8
+#EXTINF:-1,W24 TV (Austria)
+http://ms02.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
