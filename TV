@@ -1,79 +1,251 @@
 #EXTM3U
-#EXTINF:0,Adult Swim
-http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
-#EXTINF:0,JUCE TV
-http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
-#EXTINF:0, NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:0,CBSN
-http://www.cbsnews.com/common/video/dai_prod.m3u8
-#EXTINF:0,CBN News
-http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
-#EXTINF:0,Voice of America
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-#EXTINF:-1,NRJ TV
-http://livevideo.infomaniak.com/streaming/livecast/energytv/playlist.m3u8
-#EXTINF:-1,noa4 Hamburg FHD
-http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1,noa4 Norderstedt FHD
-http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1,NRW TV
-http://streaming006.broadcast.tneg.de:1935/nrwtv-new/_definst_/smil:nrw.smil/playlist.m3u8
-#EXTINF:-1,Potsdam TV
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8
-#EXTINF:-1,TV Würzburg
-http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/chunklist_w893326909.m3u8
-#EXTINF:-1,Dorf tv
-http://dorf.openplayout.org/hls/dorf_high/index.m3u8
-#EXTINF:-1, FS1 
-rtmp://stream.fs1.tv/stream/webstream
-#EXTINF:-1,P3 tv
-rtmp://p3-6.mov.at:1935/live/weekstream
-#EXTINF:-1,RE eins TV
-http://www.reeins.tv:1935/live/re1/playlist.m3u8
-#EXTINF:-1,Tirol TV
-http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w1178744335.m3u8
-#EXTINF:-1,eRtv
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5679_nYMRJQdgpK3WDGr/playlist.m3u8
-#EXTINF:-1,Hamburg 1
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5655_F7KT9xCQkXwbNmq/playlist.m3u8
-#EXTINF:-1,Nahe TV
-rtmp://stream-cdn.ok54.de/tv/nahetv
-#EXTINF:-1,oe24 TV
-http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
-#EXTINF:-1,OK Koblenz
-http://stream-cdn.ok54.de/hls/ok4.m3u8
-#EXTINF:-1,OK Weinstraße
-rtmp://stream-cdn.ok54.de/tv/okweinstrasse
-#EXTINF:-1,Tele Regional Passau 1
-http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/master.m3u8
-#EXTINF:-1,Chemnitz Fernsehen
-http://regio-tv-stream.de:1935/chemnitzfernsehenlive/livestream.sdp/playlist.m3u8
-#EXTINF:-1,Dresden Fernsehen
-http://regio-tv-stream.de:1935/dresdenfernsehenlive/livestream.sdp/playlist.m3u8
-#EXTINF:-1,Leipzig Fernsehen
-http://regio-tv-stream.de:1935/leipzigfernsehenlive/livestream.sdp/playlist.m3u8
-#EXTINF:-1,TV Oberpfalz
-http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/chunklist_w535800930.m3u8
-#EXTINF:-1,OK Ludwigshafen
-rtmp://vstream.twl-kom.de:1935/live/demo.stream_720p
-#EXTINF:-1,Rhein Neckar Fernsehen
-http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/chunklist_w657988848.m3u8
-#EXTINF:-1,TRP 1
-rtmp://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1
-#EXTINF:-1,Westerwald TV
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/chunklist_b2000000.m3u8
-#EXTINF:-1,OK Trier
-http://stream-cdn.ok54.de/hls/ok54.m3u8
-#EXTINF:-1,Südtirol Digital Fernsehen
-http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8
-#EXTINF:-1,Allgäu TV
-http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
-#EXTINF:-1,Bayern Müchen TV
-https://klive-a.akamaihd.net/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs4H8Mzuv07XU5Zdqb4sw/master.m3u8
-#EXTINF:-1,TV Mittelrhein
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8
-#EXTINF:-1,M4 TV (Austria)
-http://streaming.austria24.tv/live/stream_720p/playlist.m3u8
-#EXTINF:-1,W24 TV (Austria)
-http://ms02.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:0,Alex TV
+rtsp://iptvcodes.blogspot.com@217.115.145.185:1935/live/mp4:alexlivestream_2
+#EXTINF:0,ARD
+http://iptvcodes.blogspot.com@webtv-aarh-9.stofa.dk:80/179_01.m3u8
+#EXTINF:0,Arte
+http://iptvcodes.blogspot.com@webtv-aarh-8.stofa.dk:80/180_01.m3u8
+#EXTINF:0,Baden TV
+rtmp://iptvcodes.blogspot.com@badentv-stream2.siebnich.info/rtplive/vlc.sdp
+#EXTINF:0,BLK online TV Burgenlandkreis
+rtmp://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/BLKonline_high
+#EXTINF:0,bw family.tv
+rtmp://iptvcodes.blogspot.com@live.bwfamily.tv:1935/rtplive/vlc.sdp
+#EXTINF:0,Center TV Bremen
+rtmp://iptvcodes.blogspot.com@213.168.206.36:1935/live/live.sdp
+#EXTINF:0,CenterTV/Koln-Bonn
+rtmp://iptvcodes.blogspot.com@x3282azmedc12001.f.l.f.lb.core-cdn.net/12001centertvkoeln/live/3282azmedia/live_de_500
+#EXTINF:0,DAF TV
+rtmp://iptvcodes.blogspot.com@fms.daf.tmt.de:1935/live/dafstream100
+#EXTINF:0,DAF TV
+rtmp://iptvcodes.blogspot.com@fms.daf.tmt.de:1935/live/dafstream
+#EXTINF:0,Dance tv
+mms://iptvcodes.blogspot.com@onstreaming01.de.gtk.hu/dancetv
+#EXTINF:0,DELUX
+http://iptvcodes.blogspot.com@ru-element.ru/playlist/playlist.php?ch=57&d=10.01.13
+#EXTINF:0,Deluxe Music  TV
+rtmp://iptvcodes.blogspot.com@flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream
+#EXTINF:0,Deutsche Welle
+http://iptvcodes.blogspot.com@www.metafilegenerator.de/DWelle/tv-europa/wmv/tv_mb_h.asx
+#EXTINF:0,DHD 24
+rtmp://iptvcodes.blogspot.com@streamserver.smartcast.de/dhd24uplink/dhd24uplink.stream
+#EXTINF:0,DMAX
+rtmp://iptvcodes.blogspot.com@cp108476.live.edgefcs.net/live/dmax_1_800@45498
+#EXTINF:0,Dresden Fernsehen
+rtmp://iptvcodes.blogspot.com@video07.kanal8.de/dresdenfernsehenlive/myStream.sdp
+#EXTINF:0,DW-TV (WMV) (LQ)
+mms://iptvcodes.blogspot.com@c13010-ls.w.core.cdn.streamfarm.net/dwworldlive-live/13010dwtveu54
+#EXTINF:0,Einsextra
+mms://iptvcodes.blogspot.com@a71.l12857446070.c128574.g.lm.akamaistream.net/D/71/128574/v0001/reflector:46070
+#EXTINF:0,EINSFESTIVAL
+http://iptvcodes.blogspot.com@vsadmin:yxcvbnm123!@81.223.79.220:85/
+#EXTINF:0,Elbekanal Schönebeck
+rtmp://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/elbe_high
+#EXTINF:0,Euronews German
+rtsp://iptvcodes.blogspot.com@fr-par-5.stream-relay.hexaglobe.net:1935/rtpeuronewslive/de_video750_flash_all.sdp
+#EXTINF:0,EuroSport
+rtmp://iptvcodes.blogspot.com@cp108478.live.edgefcs.net/live/eurosport_1_800@45515
+#EXTINF:0,FAN - Fernsehen aus Niedersachsen
+rtmp://iptvcodes.blogspot.com@cp141087.live.edgefcs.net/live/FAN_Television@36388
+#EXTINF:0,Filstalwelle
+rtmp://iptvcodes.blogspot.com@62.113.210.27/filstalwelle-live/livestream
+#EXTINF:0,Franken TV
+rtmp://iptvcodes.blogspot.com@flash1.stream24.net:80/frankentv/live
+#EXTINF:0,Grein TV
+rtmp://iptvcodes.blogspot.com@streaming.colesnicov.at/live/stream.sdp_360p
+#EXTINF:0,Halle TV
+rtmp://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/tvhalle_high
+#EXTINF:0,HOPE Channel Deutsch
+mms://iptvcodes.blogspot.com@mediaserver.stimme-der-hoffnung.de/hcd?MSWMExt=.asf
+#EXTINF:0,HT1
+mms://iptvcodes.blogspot.com@wmsstream22.v4.mytv.ris.at/live/stream_149
+#EXTINF:0,Juwelo TV
+rtmp://iptvcodes.blogspot.com@85.214.107.68/juwelo_hd/live_DE1
+#EXTINF:0,Kabbalah TV
+mms://iptvcodes.blogspot.com@vod.kab.tv/ger
+#EXTINF:0,kanal 1
+http://iptvcodes.blogspot.com@www.vm-deutschland.de/vaccount/_kanal1/videos/zeitnah_aktuell.wmv
+#EXTINF:0,KiKa
+rtmp://iptvcodes.blogspot.com@cp108476.live.edgefcs.net/live/kika_1_800@45500
+#EXTINF:0,KiKa (384x288)
+mms://iptvcodes.blogspot.com@85.239.122.162/mk3w-3faw-3rqf-enc0-kika?MSWMExt=.asf
+#EXTINF:0,Kizuna TV
+http://iptvcodes.blogspot.com@85.25.132.108:8000/;stream.nsv
+#EXTINF:0,Leipzig Fernsehen LF
+rtmp://iptvcodes.blogspot.com@video61.kanal8.de/leipzigfernsehenlive/myStream.sdp
+#EXTINF:0,Light Channel TV Deutschland
+rtsp://iptvcodes.blogspot.com@streamer1.streamhost.org:1935/salive/lctvde
+#EXTINF:0,LT - TV Baden Wuerttemberg
+rtmp://iptvcodes.blogspot.com@62.113.210.105/ltv-live/livestream
+#EXTINF:0,Massive Freeze,
+mms://iptvcodes.blogspot.com@stream01.massive-mag.tv/massivefreeze_hq
+#EXTINF:0,Massive mag
+mms://iptvcodes.blogspot.com@stream01.massive-mag.tv/massiverunning_mq
+#EXTINF:0,Massive Mag Bike
+mms://iptvcodes.blogspot.com@stream01.massive-mag.tv/massivebike_mq
+#EXTINF:0,Massive Mag Freeze
+mms://iptvcodes.blogspot.com@stream01.massive-mag.tv/massivefreeze_mq
+#EXTINF:0,Massive Mag Speed
+mms://iptvcodes.blogspot.com@stream01.massive-mag.tv/massivespeed_mq
+#EXTINF:0,Massive Mag TV
+mms://iptvcodes.blogspot.com@stream01.massive-mag.tv/massivemag_mq
+#EXTINF:0,MDR Fernsehen Sachsen
+rtmp://iptvcodes.blogspot.com@x4030mdrtvsacc22033.f.l.f.lb.core-cdn.net/22033mdr/live/4030mdrtvsac/live_de_500
+#EXTINF:0,MDR Sachsen-Anhalt
+rtmp://iptvcodes.blogspot.com@x4031mdrtvsahc22033.f.l.f.lb.core-cdn.net:80/22033mdr/live/4031mdrtvsah/live_de_500
+#EXTINF:0,MediaShop
+rtmp://iptvcodes.blogspot.com@streamserver.smartcast.de/mediashop/mediashop.stream
+#EXTINF:0,Muenchen TV
+rtmp://iptvcodes.blogspot.com@stream2.telvi.de:80/muenchentvlive/stream
+#EXTINF:0,Mühl Viertel TV,
+http://iptvcodes.blogspot.com@www.canlitv.com/asx.php?id=11445
+#EXTINF:0,n-tv
+mms://iptvcodes.blogspot.com@217.118.170.203/ntvlive
+#EXTINF:0,N24
+http://iptvcodes.blogspot.com@cdn.maiyo-tv.com/stream/n24/playlist.m3u
+#EXTINF:0,NDR
+mmsh://iptvcodes.blogspot.com@a1969.l16055143968.c160551.e.lm.akamaistream.net/D/1969/160551/v0001/reflector:43968
+#EXTINF:0,NDR Fernsehen (Mecklenburg-Vorpommern)
+http://iptvcodes.blogspot.com@www.ndr.de/resources/metadaten/ndr_fs_mv_hi_wmv.asx
+#EXTINF:0,NDR Fernsehen Niedersachsen
+http://iptvcodes.blogspot.com@www.ndr.de/resources/metadaten/ndr_fs_nds_hi_wmv.asx
+#EXTINF:0,NDR Fernsehen Schleswig-Holstein
+http://iptvcodes.blogspot.com@www.ndr.de/resources/metadaten/ndr_fs_sh_hi_wmv.asx
+#EXTINF:0,NDR Hamburg TV
+mms://iptvcodes.blogspot.com@a1969.l16055143968.c160551.e.lm.akamaistream.net/D/1969/160551/v0001/reflector:43968
+#EXTINF:0,NDR_Hamburg
+http://iptvcodes.blogspot.com@www.ndr.de/resources/metadaten/ndr_fs_hh_hi_wmv.asx
+#EXTINF:0,Nick
+http://iptvcodes.blogspot.com@cdn.maiyo-tv.com/stream/nick/playlist.m3u
+#EXTINF:0,Nickelodeon
+http://iptvcodes.blogspot.com@vsadmin:neuespasswort@37.221.163.205:9208
+#EXTINF:0,Noa 4
+http://iptvcodes.blogspot.com@www.noa4.tv/stream/video/noa4-stream-mid.asx
+#EXTINF:0,NOA4 Hamburg
+mms://iptvcodes.blogspot.com@wt-wm1.wtnet.de/noa4hh-stream-mid?.wma
+#EXTINF:0,noa4 Hamburg
+http://iptvcodes.blogspot.com@wt-wm1.wtnet.de/noa4hh-stream-hi?MSWMExt=.asf
+#EXTINF:0,NOA4 Hamburg (HQ)
+mmsh://iptvcodes.blogspot.com@wt-wm1.wtnet.de/noa4hh-stream-hi?MSWMExt=.asf
+#EXTINF:0,NOA4 Hamburg (MQ)
+mmsh://iptvcodes.blogspot.com@wt-wm1.wtnet.de/noa4hh-stream-mid?MSWMExt=.asf
+#EXTINF:0,noa4 Norderstedt
+http://iptvcodes.blogspot.com@wt-wm1.wtnet.de/noa4-stream-hi?MSWMExt=.asf
+#EXTINF:0,NOA4 Norderstedt (HQ)
+mmsh://iptvcodes.blogspot.com@wt-wm1.wtnet.de/noa4-stream-hi?MSWMExt=.asf
+#EXTINF:0,NOA4 Norderstedt (MQ)
+mmsh://iptvcodes.blogspot.com@wt-wm1.wtnet.de/noa4-stream-mid?MSWMExt=.asf
+#EXTINF:0,NRW TV
+rtmp://iptvcodes.blogspot.com@streaming001.broadcast.tneg.de/nrwtv/nrwtv
+#EXTINF:0,Ojom TV (Thaherq)
+rtmp://iptvcodes.blogspot.com@77.109.160.182:80/ojom/ojom.stream
+#EXTINF:0,OK Dessau
+rtmp://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high
+#EXTINF:0,OK Magdeburg
+rtmp://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high
+#EXTINF:0,OK Merseburg
+rtmp://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-merseburg_high
+#EXTINF:0,OK Salzwedel
+rtmp://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-salzwedel_high
+#EXTINF:0,OK Stendal
+rtmp://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-stendal_high
+#EXTINF:0,OK tv
+http://iptvcodes.blogspot.com@www.canlitv.com/asx.php?id=10942
+#EXTINF:0,OK tv
+http://iptvcodes.blogspot.com@217.151.151.58/oktv
+#EXTINF:0,OK Wernigerode
+rtmp://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high
+#EXTINF:0,OK Wettin
+rtmp://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wettin_high
+#EXTINF:0,OK-TV Mainz
+mms://iptvcodes.blogspot.com@134.93.5.213:8080/
+#EXTINF:0,OK54
+mms://iptvcodes.blogspot.com@streaming.ok54.de/ok54
+#EXTINF:0,OK54
+http://iptvcodes.blogspot.com@iptv.ok54.de/stream.asx
+#EXTINF:0,Oldenburg Eins TV
+rtmp://iptvcodes.blogspot.com@streaming.orgatech.de/o1/oeins
+#EXTINF:0,ORF 1
+rtsp://iptvcodes.blogspot.com@apasfwl.apa.at:80/orf1_q6a/orf.sdp
+#EXTINF:0,ORF 2
+rtsp://iptvcodes.blogspot.com@apasfwl.apa.at:80/orf2_q6a/orf.sdp
+#EXTINF:0,ORF 3
+rtsp://iptvcodes.blogspot.com@apasfwl.apa.at:80/orf3_q6a/orf.sdp
+#EXTINF:0,ORF Sport HQ
+rtsp://iptvcodes.blogspot.com@apasfwl.apa.at/orfs_q6a/orf.sdp
+#EXTINF:0,Phoenix (432x240)
+http://iptvcodes.blogspot.com@wstreaming.zdf.de/encoder/phoenix_h.asx
+#EXTINF:0,Phoenix (688x384)
+http://iptvcodes.blogspot.com@wstreaming.zdf.de/encoder/phoenix_vh.asx
+#EXTINF:0,Punktum Südharz
+rtmp://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/punktum_high
+#EXTINF:0,Ran 1
+rtmp://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/mp4:ran1_high
+#EXTINF:0,RAN 1 Dessau
+rtmp://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ran1_high
+#EXTINF:0,RBW
+rtmp://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/rbw_high
+#EXTINF:0,RFH TV
+rtmp://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/RFH_high
+#EXTINF:0,RiC
+rtmp://iptvcodes.blogspot.com@83.169.51.180/live/sdf:3fb1c9c9-09c8-404a-8c0f-56b27617ab89
+#EXTINF:0,RTL
+http://iptvcodes.blogspot.com@webtv-aarh-8.stofa.dk:80/187_01.m3u8
+#EXTINF:0,RTL 2
+http://iptvcodes.blogspot.com@webtv-aarh-8.stofa.dk:80/188_01.m3u8
+#EXTINF:0,RTL 2
+http://iptvcodes.blogspot.com@vsadmin:neuespasswort@37.221.163.205:9210
+#EXTINF:0,RTL Tele Letzebourg
+rtmp://iptvcodes.blogspot.com@wowza01.newmedia.lu/channel1/live
+#EXTINF:0,Schweizersportfernsehen
+rtmp://iptvcodes.blogspot.com@ipmedia.mpl.miisolutions.net/ipmedia-live01/mp4:ssflive
+#EXTINF:0,SDF = Mein Fernsehen in Südtirol
+http://iptvcodes.blogspot.com@videocdn.sdf.bz.it/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:0,Shop 24 Direct
+rtmp://iptvcodes.blogspot.com@streamserver.smartcast.de/stapa1i/stapa1i.stream
+#EXTINF:0,Sixx
+rtmp://iptvcodes.blogspot.com@cp108478.live.edgefcs.net/live/sixx_1_800@45516
+#EXTINF:0,Sport1
+rtmp://iptvcodes.blogspot.com@cp108478.live.edgefcs.net/live/sport1_1_800@45517
+#EXTINF:0,SRF 1
+rtmp://iptvcodes.blogspot.com@cp108341.live.edgefcs.net/live/sf1_1_800@43046
+#EXTINF:0,SRF 2
+rtmp://iptvcodes.blogspot.com@cp108341.live.edgefcs.net/live/sf2_1_800@43048
+#EXTINF:0,Streetclip TV
+rtmp://iptvcodes.blogspot.com@stream.streetclip.tv:1935/live/high-stream
+#EXTINF:0,Super RTL
+http://iptvcodes.blogspot.com@webtv-aarh-9.stofa.dk:80/189_01.m3u8
+#EXTINF:0,Tele 1
+rtsp://iptvcodes.blogspot.com@fl1.sz.xlcdn.com:80/live/_definst_/sz=ZentralschweizerFernsehenTele1AG=flash-high_2
+#EXTINF:0,Tele 1
+rtsp://iptvcodes.blogspot.com@fl1.sz.xlcdn.com/live/sz=ZentralschweizerFernsehenTele1AG=flash_3
+#EXTINF:0,TeleBärn
+rtsp://iptvcodes.blogspot.com@rtmp.infomaniak.ch/livecast/barntele
+#EXTINF:0,Telebasel (Clyde)
+rtmp://iptvcodes.blogspot.com@xapp510394c1000199.f.l.f.lb.core-cdn.net:1935/1000199copo/live/app510394368/w509050881/live_de_500
+#EXTINF:0,TRP 1
+rtsp://iptvcodes.blogspot.com@stream2.telvi.de:1935/trp1live/livestream1
+#EXTINF:0,TV Südbaden
+rtmp://iptvcodes.blogspot.com@62.113.210.102/funkhaus-live/livestream
+#EXTINF:0,TV-DE, Talk TCT TV
+mms://iptvcodes.blogspot.com@a1683.l2277457829.c22774.n.lm.akamaistream.net/D/1683/22774/v0001/reflector:57829?KLI_D=428&asx=6909&entry=1&item=1&atte
+#EXTINF:0,VISIT-X TV
+rtmp://iptvcodes.blogspot.com@194.116.150.47/live/visitx.stream1
+#EXTINF:0,VRF Vogtland
+mms://iptvcodes.blogspot.com@stream.vrf.de/VRF
+#EXTINF:0,W24
+rtsp://iptvcodes.blogspot.com@wss10.atusmedia.net/w24live/w24-high.stream
+#EXTINF:0,W24 Austria TV
+rtsp://iptvcodes.blogspot.com@atwse.lbs.atusmedia.cc:1935/w24live//w24-low.stream
+#EXTINF:0,WDR Germany
+http://iptvcodes.blogspot.com@wdr_ios_fs-i.akamaihd.net/hls/live/200964/1/playlist1x.m3u8
+#EXTINF:0,WDR TV
+http://iptvcodes.blogspot.com@www.wdr.de/wdrlive/media/wdr-fernsehen_web-m.asx
+#EXTINF:0,WMZ TV Lauchhammer
+mms://iptvcodes.blogspot.com@85.239.121.220:1108
+#EXTINF:0,WMZ TV Oderland
+mms://iptvcodes.blogspot.com@85.233.48.26:1108
+#EXTINF:0,ZDF
+http://iptvcodes.blogspot.com@webtv-aarh-9.stofa.dk:80/184_01.m3u8
+#EXTINF:0,ZDF neo
+rtmp://iptvcodes.blogspot.com@cp108475.live.edgefcs.net/live/zdfneo_1_800@44504
