@@ -56,7 +56,7 @@ http://regio-tv-stream.de:1935/leipzigfernsehenlive/livestream.sdp/playlist.m3u8
 #EXTINF:-1,TV Oberpfalz
 http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/chunklist_w535800930.m3u8
 #EXTINF:-1,OK Ludwigshafen
-rtmp://vstream.twl-kom.de:1935/live/demo.stream_720p
+http://stream-cdn.ok54.de/hls/oklu.m3u8
 #EXTINF:-1,Rhein Neckar Fernsehen
 http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/chunklist_w657988848.m3u8
 #EXTINF:-1,TRP 1
@@ -79,3 +79,11 @@ http://streaming.austria24.tv/live/stream_720p/playlist.m3u8
 http://ms02.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,OK Merseburg
 http://62.113.210.250/medienasa-live/ok-merseburg_high/master.m3u8
+#EXTINF:-1,CenterTV Düsseldorf
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:3045-mbr.smil/playlist.m3u8
+#EXTINF:-1,OK:TV Mainz
+https://stream-cdn.ok54.de/hls/oktvmainz.m3u8
+#EXTINF:-1,OK Kaiserslautern
+http://stream-cdn.ok54.de/hls/ok-kl.m3u8
+#EXTINF:-1,OKTV Südwestpfalz
+http://stream-cdn.ok54.de/hls/okswp.m3u8
