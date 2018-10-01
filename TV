@@ -87,11 +87,5 @@ https://stream-cdn.ok54.de/hls/oktvmainz.m3u8
 http://stream-cdn.ok54.de/hls/ok-kl.m3u8
 #EXTINF:-1,OKTV Südwestpfalz
 http://stream-cdn.ok54.de/hls/okswp.m3u8
-#EXTINF:-1,rbb Berlin
-http://46.223.126.132:9981/stream/channelid/1843266310
-#EXTINF:-1,DELUXE MUSIC HD
-http://46.223.126.132:9981/stream/channelid/32068401
-#EXTINF:-1,rbb Brandenburg
-http://46.223.126.132:9981/stream/channelid/2084364777
-#EXTINF:-1,Regio TV BB
-http://46.223.126.132:9981/stream/channelid/1772439861
+#EXTINF:-1,DE: TV BERLIN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15171.ts
