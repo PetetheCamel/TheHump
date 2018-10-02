@@ -87,35 +87,3 @@ https://stream-cdn.ok54.de/hls/oktvmainz.m3u8
 http://stream-cdn.ok54.de/hls/ok-kl.m3u8
 #EXTINF:-1,OKTV Südwestpfalz
 http://stream-cdn.ok54.de/hls/okswp.m3u8
-#EXTINF:-1,rbb Berlin HD
-http://46.223.126.132:9981/stream/channelid/706228365
-#EXTINF:-1,rbb Berlin
-http://46.223.126.132:9981/stream/channelid/1843266310
-#EXTINF:-1,rbb Brandenburg
-http://46.223.126.132:9981/stream/channelid/2084364777
-#EXTINF:-1,WDR Köln
-http://46.223.126.132:9981/stream/channelid/1356504819
-#EXTINF:-1,hr-fernsehen
-http://46.223.126.132:9981/stream/channelid/1108990929
-#EXTINF:-1,BR Fernsehen Süd
-http://46.223.126.132:9981/stream/channelid/368604578
-#EXTINF:-1,BR Fernsehen Nord
-http://46.223.126.132:9981/stream/channelid/1936939595
-#EXTINF:-1,MDR S-Anhalt
-http://46.223.126.132:9981/stream/channelid/2104327900
-#EXTINF:-1,MDR Thüringen
-http://46.223.126.132:9981/stream/channelid/615345587
-#EXTINF:-1,Regio TV BB
-http://46.223.126.132:9981/stream/channelid/1772439861
-#EXTINF:-1,DELUXE MUSIC HD
-http://188.192.80.44:9981/stream/channelid/2070760905
-#EXTINF:-1,WDR Bonn
-http://2.204.113.79:9981/stream/channelid/1129297838
-#EXTINF:-1,WDR Duisburg
-http://2.204.113.79:9981/stream/channelid/925693529
-#EXTINF:-1,WDR Wuppertal
-http://2.204.113.79:9981/stream/channelid/1351722726
-#EXTINF:-1,Regio TV DE
-http://clientportal.link:8080/live/WyYjYze3XO/T0Csg241Dt/12328.ts
-#EXTINF:-1,SWR Fernsehen Baden-Württemberg HD
-http://77.117.174.253:9981/stream/channelid/1265224349
