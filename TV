@@ -159,7 +159,6 @@ https://586c13b083c0d.streamlock.net/tvaktuellr/tvaktuellr.stream_1/playlist.m3u
 https://586dce1287bfd.streamlock.net/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Westerwald TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png",Westerwald TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8
-#EXTINF:-1,L-TV Ludwigsburg
+#EXTINF:-1 tvg-name="TV Ludwigsburg" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wuerzburgtv.png",TV Ludwigsburg
 https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:livestream3.stream/chunklist_w1692437749.m3u8
-#EXTINF:-1,RBB-Berlin
-http://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
+
