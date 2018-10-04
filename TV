@@ -161,4 +161,5 @@ https://586dce1287bfd.streamlock.net/tvoberfranken/tvoberfranken.stream_1/playli
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Ludwigsburg" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wuerzburgtv.png",TV Ludwigsburg
 https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:livestream3.stream/chunklist_w1692437749.m3u8
-
+#EXTINF:-1,SWR Baden-Württemberg 
+https://lhr-1.firstonetv.net:4434/hls/f08d887116ca2a8c31a06b20d0b44ae2/1538715934/7b226970223a2239342e3133392e31382e313630222c226363223a224445227d/68747470733a2f2f73777262772d6c682e616b616d616968642e6e65742f692f73777262775f6c697665403139363733382f696e6465785f313830305f61762d702e6d3375383f73643d3130267265626173653d6f6e.m3u8
