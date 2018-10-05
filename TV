@@ -61,6 +61,8 @@ https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-p.m3u8
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-name="noa4 Norderstedt HD" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png",noa4 Norderstedt HD
 http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1,NRW vision
+https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist_w778181655.m3u8
 #EXTINF:-1,NRJ TV
 http://livevideo.infomaniak.com/streaming/livecast/energytv/playlist.m3u8
 #EXTINF:-1,NRW TV
@@ -101,6 +103,8 @@ http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
 http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="rheinmaintv" tvg-id="rheinmaintv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png",rheinmaintv
 http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
+#EXTINF:-1,SRF Südthüringen
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/chunklist_w278696784.m3u8
 #EXTINF:-1,Südtirol Digital Fernsehen
 http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8
 #EXTINF:-1 tvg-name="SWR Baden-Württemberg HD " tvg-id="SWR.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg HD 
@@ -115,6 +119,8 @@ http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w1178744335.m3u8
 http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Mittelrhein" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmittelrhein.png",TV Mittelrhein
 http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/chunklist_b2000000.m3u8
+#EXTINF:-1,TV Oberfranken
+https://586dce1287bfd.streamlock.net/tvoberfranken/tvoberfranken.stream_1/chunklist_w1451685359.m3u8
 #EXTINF:-1,TV Oberpfalz
 http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/chunklist_w535800930.m3u8
 #EXTINF:-1 tvg-name="TV Touring" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvtouring.png",TV Touring
@@ -131,10 +137,7 @@ https://586dce1287bfd.streamlock.net/tvoberfranken/tvoberfranken.stream_1/playli
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8
 #EXTINF:-1,W24 TV (Austria)
 http://ms02.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1,TV Oberfranken
-https://586dce1287bfd.streamlock.net/tvoberfranken/tvoberfranken.stream_1/chunklist_w1451685359.m3u8
-#EXTINF:-1,NRW vision
-https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist_w778181655.m3u8
-#EXTINF:-1,SRF Südthüringen
-https://58de7a369a9c4.streamlock.net/srf/stream_720p/chunklist_w278696784.m3u8
+
+
+
 
