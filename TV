@@ -132,3 +132,13 @@ https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/p
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/chunklist_b2000000.m3u8
 #EXTINF:-1,W24 TV (Austria)
 http://ms02.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1,TV Oberfranken
+https://586dce1287bfd.streamlock.net/tvoberfranken/tvoberfranken.stream_1/chunklist_w1451685359.m3u8
+#EXTINF:-1,NRW vision
+https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist_w778181655.m3u8
+#EXTINF:-1,SRF Südthüringen
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/chunklist_w278696784.m3u8
+#EXTINF:-1,Deluxe Music
+https://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8
+#EXTINF:-1,SWR-BW
+http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
