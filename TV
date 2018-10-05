@@ -41,7 +41,8 @@ http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8
 http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/playlist.m3u8
 #EXTINF:-1,Leipzig Fernsehen
 http://regio-tv-stream.de:1935/leipzigfernsehenlive/livestream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="main.tv" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/maintv.png",main.tv
+#EXTINF:-1,M4 TV (Austria)
+http://streaming.austria24.tv/live/stream_720p/playlist.m3u8#EXTINF:-1 tvg-name="main.tv" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/maintv.png",main.tv
 http://maintv.iptv-playoutcenter.de:1935/maintv/maintv.stream_2/playlist.m3u8
 #EXTINF:-1 tvg-name="münchen.tv" tvg-id="MunchenTV.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/muenchentv.png",münchen.tv
 https://586c13b083c0d.streamlock.net/muenchentv/muenchentv.stream_1/playlist.m3u8
@@ -85,8 +86,6 @@ http://stream-cdn.ok54.de/hls/ok54.m3u8
 rtmp://stream-cdn.ok54.de/tv/okweinstrasse
 #EXTINF:-1 tvg-name="oldenburg eins" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png",oldenburg eins
 http://188.40.16.94:1935/live/studio/playlist.m3u8
-#EXTINF:-1,M4 TV (Austria)
-http://streaming.austria24.tv/live/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Potsdam TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/potsdamtv.png",Potsdam TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8
 #EXTINF:-1,P3 tv
@@ -113,8 +112,6 @@ http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/telere
 http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w1178744335.m3u8
 #EXTINF:-1 tvg-name="TRP1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trp1.png",TRP1
 http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Ludwigsburg" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wuerzburgtv.png",TV Ludwigsburg
-https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:livestream3.stream/chunklist_w1692437749.m3u8
 #EXTINF:-1 tvg-name="TV Mittelrhein" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmittelrhein.png",TV Mittelrhein
 http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/chunklist_b2000000.m3u8
 #EXTINF:-1,TV Oberpfalz
