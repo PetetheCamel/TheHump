@@ -14,7 +14,7 @@ https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_3776_av-p.m3u8
 #EXTINF:-1,Chemnitz Fernsehen
 http://regio-tv-stream.de:1935/chemnitzfernsehenlive/livestream.sdp/playlist.m3u8
 #EXTINF:-1,Dorf tv
-http://dorf.openplayout.org/hls/dorf_high/index.m3u8
+https://stream.openplayout.org/hls/dorf_high/index.m3u8
 #EXTINF:-1,Dresden Fernsehen
 http://regio-tv-stream.de:1935/dresdenfernsehenlive/livestream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="DRF1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/drf1.png",DRF1
