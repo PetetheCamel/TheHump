@@ -143,12 +143,6 @@ https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/p
 http://ms02.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,Welt der Wunder 
 http://live.vidoo.de/live/weltderwunder/master.m3u8 
-#EXTINF:-1,RBB Berlin 
-http://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8 
-#EXTINF:-1,RBB Brandenburg 
-http://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/master.m3u8 
-#EXTINF:-1,Deutsche Welle TV 
-http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8
 #EXTINF:-1,TV38 - Fernsehen zwischen Harz und Heide
 http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8 
 #EXTINF:-1,HALLE TV 
@@ -180,8 +174,7 @@ http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
 #EXTINF:-1,Filstalwelle (Göppingen) 
 http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/master.m3u8 
 #EXTINF:-1,Muenchen TV 
-URL:http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/playlist.m3u8 
-URL:http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/hasbahca.m3u8 
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1,RBW Regionalfernsehen Bitterfeld-Wolfen 
 http://62.113.210.250/medienasa-live/_definst_/mp4:rbw_high/chunklist_w653866526.m3u8?ref=www.rbwonline.de&seid=176193 
 #EXTINF:-1,RFH Regionalfernsehen Harz 
