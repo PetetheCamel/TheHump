@@ -143,6 +143,55 @@ https://586dce1287bfd.streamlock.net/tvoberfranken/tvoberfranken.stream_1/playli
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8
 #EXTINF:-1,W24 TV (Austria)
 http://ms02.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1,Welt der Wunder 
+URL: http://live.vidoo.de/live/weltderwunder/master.m3u8 
+#EXTINF:-1,RBB Berlin 
+URL: http://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8 
+#EXTINF:-1,RBB Brandenburg 
+URL: http://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/master.m3u8 
+#EXTINF:-1,Deutsche Welle TV 
+URL: http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8
+#EXTINF:-1,TV38 - Fernsehen zwischen Harz und Heide
+URL: http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8 
+#EXTINF:-1,HALLE TV 
+URL: http://62.113.210.250/medienasa-live/tvhalle_high/master.m3u8 
+#EXTINF:-1,Kulturmd TV 
+URL: http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8 
+#EXTINF:-1,ELBEKANAL 
+URL: http://62.113.210.250/medienasa-live/elbe_high/master.m3u8 
+#EXTINF:-1,BLKonline TV Burgenlandkreis (Sachsen-Anhalt) 
+URL: http://62.113.210.250/medienasa-live/BLKonline_high/master.m3u8 
+#EXTINF:-1,Dessau offener Kanal 
+URL: http://62.113.210.250/medienasa-live/ok-dessau_high/master.m3u8 
+#EXTINF:-1,Magdeburg offener Kanal 
+URL: http://62.113.210.250/medienasa-live/ok-magdeburg_high/master.m3u8 
+#EXTINF:-1,Merseburg offener Kanal 
+URL: http://62.113.210.250/medienasa-live/ok-merseburg_high/master.m3u8 
+#EXTINF:-1,SALZWEDEL offener Kanal 
+URL: http://62.113.210.250/medienasa-live/ok-salzwedel_high/master.m3u8 
+#EXTINF:-1,Stendal offener Kanal 
+URL: http://62.113.210.250/medienasa-live/_definst_/mp4:ok-stendal_high/master.m3u8 
+#EXTINF:-1,Wernigerode offener Kanal 
+URL: http://62.113.210.250/medienasa-live/_definst_/mp4:ok-wernigerode_high/master.m3u8 
+#EXTINF:-1,Punktum SüdHarz 
+URL: http://62.113.210.250/medienasa-live/punktum_high/master.m3u8 
+#EXTINF:-1,erzTV Erzgebirge
+URL: http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8 
+#EXTINF:-1,MDF 1 
+URL: http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8 
+#EXTINF:-1,Filstalwelle (Göppingen) 
+URL: http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/master.m3u8 
+#EXTINF:-1,Muenchen TV 
+URL:http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/playlist.m3u8 
+URL:http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/hasbahca.m3u8 
+#EXTINF:-1,RBW Regionalfernsehen Bitterfeld-Wolfen 
+URL: http://62.113.210.250/medienasa-live/_definst_/mp4:rbw_high/chunklist_w653866526.m3u8?ref=www.rbwonline.de&seid=176193 
+#EXTINF:-1,RFH Regionalfernsehen Harz 
+URL: http://62.113.210.250/medienasa-live/_definst_/mp4:RFH_high/chunklist_w1484114562.m3u8 
+#EXTINF:-1,Tide TV Hamburg 
+URL: http://62.113.210.8/tide-rtplive/mp4:liveplayout.stream/chunklist_w1838803172.m3u8 
+#EXTINF:-1,Friesisches Fernesehen 
+URL: http://62.113.221.100/friesischerRundfunk-live/_definst_/mp4:livestream/playlist.m3u8 
 
 
 
