@@ -113,6 +113,10 @@ http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8
 https://lhr-1.firstonetv.net:4434/hls/f08d887116ca2a8c31a06b20d0b44ae2/1538715934/7b226970223a2239342e3133392e31382e313630222c226363223a224445227d/68747470733a2f2f73777262772d6c682e616b616d616968642e6e65742f692f73777262775f6c697665403139363733382f696e6465785f313830305f61762d702e6d3375383f73643d3130267265626173653d6f6e.m3u8
 #EXTINF:-1 tvg-name="Sylt1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png",Sylt1
 http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
+#EXTINF:-1,Tele Regional Basel
+https://xapp510394368c1000199-f-l-z.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/chunklist.m3u8
+#EXTINF:-1,Tele Regional M1
+https://klive.kaltura.com/s/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/6000/t/dSIcGB1j8_fba_Ww6crf4w/index-s32.m3u8
 #EXTINF:-1,Tele Regional Passau 1
 http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/master.m3u8
 #EXTINF:-1,Tirol TV
