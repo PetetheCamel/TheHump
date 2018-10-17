@@ -11,7 +11,7 @@ http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Süd HD
 https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_3776_av-p.m3u8
-#EXTINF:-1,Chemnitz Fernsehen
+#EXTINF:-1, tvg-name="Chemnitz.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/logo-chemnitz.png",Chemnitz Fernsehen
 http://regio-tv-stream.de:1935/chemnitzfernsehenlive/livestream.sdp/playlist.m3u8
 #EXTINF:-1,Dorf tv
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
@@ -61,14 +61,8 @@ https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-p.m3u8
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-name="noa4 Norderstedt HD" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png",noa4 Norderstedt HD
 http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1,NRW vision
+#EXTINF:-1,tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png",nrwision
 https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist_w778181655.m3u8
-#EXTINF:-1,NRJ TV
-http://livevideo.infomaniak.com/streaming/livecast/energytv/playlist.m3u8
-#EXTINF:-1,NRW TV
-http://streaming006.broadcast.tneg.de:1935/nrwtv-new/_definst_/smil:nrw.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="nrwision" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png",nrwision
-https://fms.nrwision.de/live/livestreamHD_source/playlist.m3u8
 #EXTINF:-1,OE24 TV
 http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
 #EXTINF:-1,OK Kaiserslautern
@@ -115,8 +109,6 @@ http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8
 http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
 #EXTINF:-1,Tele Regional Basel
 https://xapp510394368c1000199-f-l-z.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/chunklist.m3u8
-#EXTINF:-1,Tele Regional Passau 1
-http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/master.m3u8
 #EXTINF:-1,Tirol TV
 http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w1178744335.m3u8
 #EXTINF:-1 tvg-name="TRP1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trp1.png",TRP1
@@ -140,7 +132,7 @@ https://586dce1287bfd.streamlock.net/tvoberfranken/tvoberfranken.stream_1/playli
 #EXTINF:-1 tvg-name="Westerwald TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png",Westerwald TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8
 #EXTINF:-1,W24 TV (Austria)
-http://ms02.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+https://ms03.w24.at/W24/smil:liveevent.smil/chunklist_w938613302_b448000_slger.m3u8
 #EXTINF:-1,Welt der Wunder 
 http://live.vidoo.de/live/weltderwunder/master.m3u8 
 #EXTINF:-1,TV38 - Fernsehen zwischen Harz und Heide
