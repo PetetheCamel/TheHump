@@ -11,7 +11,7 @@ http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Süd HD
 https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_3776_av-p.m3u8
-#EXTINF:-1, tvg-name="Chemnitz.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/logos/logo-chemnitz.png",Chemnitz Fernsehen
+#EXTINF:-1, tvg-name="Chemnitz.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-chemnitz.png",Chemnitz Fernsehen
 http://regio-tv-stream.de:1935/chemnitzfernsehenlive/livestream.sdp/playlist.m3u8
 #EXTINF:-1,Dorf tv
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
@@ -97,7 +97,7 @@ http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
 http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="rheinmaintv" tvg-id="rheinmaintv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png",rheinmaintv
 http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
-#EXTINF:-1,tvg-name="rts-salzburg.at" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/logos/rts-logo.png",Salzburg RTS
+#EXTINF:-1,tvg-name="rts-salzburg.at" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/rts-logo.png",Salzburg RTS
 http://lb.hd-livestream.de:1935/live/RTS2015/chunklist_w2030630630.m3u8
 #EXTINF:-1,SRF Südthüringen
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/chunklist_w278696784.m3u8
