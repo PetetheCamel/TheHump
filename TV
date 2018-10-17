@@ -11,7 +11,7 @@ http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Süd HD
 https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_3776_av-p.m3u8
-#EXTINF:-1, tvg-name="Chemnitz.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/logo-chemnitz.png",Chemnitz Fernsehen
+#EXTINF:-1, tvg-name="Chemnitz.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/logo/logo-chemnitz.png",Chemnitz Fernsehen
 http://regio-tv-stream.de:1935/chemnitzfernsehenlive/livestream.sdp/playlist.m3u8
 #EXTINF:-1,Dorf tv
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
