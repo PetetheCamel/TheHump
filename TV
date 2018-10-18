@@ -75,11 +75,11 @@ http://stream-cdn.ok54.de/hls/oklu.m3u8
 https://stream-cdn.ok54.de/hls/oktvmainz.m3u8
 #EXTINF:-1, tvg-name="okmq.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-Merseburg.png",OK Merseburg
 http://62.113.210.250/medienasa-live/ok-merseburg_high/master.m3u8
-#EXTINF:-1, tvg-name="oktv-suedwestpfalz.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-Südwestpfalz.png",OK Südwestpfalz
+#EXTINF:-1, tvg-name="oktv-suedwestpfalz.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-Sudwestpfalz.png",OK Südwestpfalz
 http://stream-cdn.ok54.de/hls/okswp.m3u8
 #EXTINF:-1, tvg-name="ok54.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-trier.png",OK Trier
 http://stream-cdn.ok54.de/hls/ok54.m3u8
-#EXTINF:-1, tvg-name="ok-weinstrasse.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-Weinstraße.png",OK Weinstraße
+#EXTINF:-1, tvg-name="ok-weinstrasse.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-Weinstrasse.png",OK Weinstraße
 rtmp://stream-cdn.ok54.de/tv/okweinstrasse
 #EXTINF:-1 tvg-name="oldenburg eins" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png",oldenburg eins
 http://188.40.16.94:1935/live/studio/playlist.m3u8
