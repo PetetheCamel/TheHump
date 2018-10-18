@@ -63,33 +63,33 @@ https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
 http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
 #EXTINF:-1,tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png",nrwision
 https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist_w778181655.m3u8
-#EXTINF:-1,OE24 TV
+#EXTINF:-1, tvg-name="OE24.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-oe24.png",OE24 TV
 http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
-#EXTINF:-1,OK Kaiserslautern
+#EXTINF:-1, tvg-name="ok-kl.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-ok-kaiser.png",OK Kaiserslautern
 http://stream-cdn.ok54.de/hls/ok-kl.m3u8
-#EXTINF:-1,OK Koblenz
+#EXTINF:-1, tvg-name="ok4.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-ok-koblenz.png",OK Koblenz
 http://stream-cdn.ok54.de/hls/ok4.m3u8
-#EXTINF:-1,OK Ludwigshafen
+#EXTINF:-1, tvg-name="ok4-lu.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-ludwigshafen.png",OK Ludwigshafen
 http://stream-cdn.ok54.de/hls/oklu.m3u8
-#EXTINF:-1,OK:TV Mainz
+#EXTINF:-1, tvg-name="ok4-lu.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-mainz.png",OK Mainz
 https://stream-cdn.ok54.de/hls/oktvmainz.m3u8
-#EXTINF:-1,OK Merseburg
+#EXTINF:-1, tvg-name="okmq.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-Merseburg.png",OK Merseburg
 http://62.113.210.250/medienasa-live/ok-merseburg_high/master.m3u8
-#EXTINF:-1,OK:TV Südwestpfalz
+#EXTINF:-1, tvg-name="oktv-suedwestpfalz.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-Südwestpfalz.png",OK Südwestpfalz
 http://stream-cdn.ok54.de/hls/okswp.m3u8
-#EXTINF:-1,OK Trier
+#EXTINF:-1, tvg-name="ok54.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-trier.png",OK Trier
 http://stream-cdn.ok54.de/hls/ok54.m3u8
-#EXTINF:-1,OK Weinstraße
+#EXTINF:-1, tvg-name="ok-weinstrasse.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-Weinstraße.png",OK Weinstraße
 rtmp://stream-cdn.ok54.de/tv/okweinstrasse
 #EXTINF:-1 tvg-name="oldenburg eins" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png",oldenburg eins
 http://188.40.16.94:1935/live/studio/playlist.m3u8
 #EXTINF:-1 tvg-name="Potsdam TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/potsdamtv.png",Potsdam TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8
-#EXTINF:-1,P3 tv
+#EXTINF:-1, tvg-name="p3tv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-p3tv.png",P3 TV
 rtmp://p3-6.mov.at:1935/live/weekstream
 #EXTINF:-1 tvg-name="Regio TV Schwaben" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png",Regio TV Schwaben
 http://regiotv.iptv-playoutcenter.de:1935/regiotv/regiotv.stream_1/playlist.m3u8
-#EXTINF:-1,RE eins TV
+#EXTINF:-1, tvg-name="reeins.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-RE1.png",RE eins
 http://www.reeins.tv:1935/live/re1/playlist.m3u8
 #EXTINF:-1 tvg-name="RFO" tvg-id="Oberbayern.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png",RFO
 http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
@@ -99,25 +99,25 @@ http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8
 http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
 #EXTINF:-1,tvg-name="rts-salzburg.at" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/rts-logo.png",Salzburg RTS
 http://lb.hd-livestream.de:1935/live/RTS2015/chunklist_w2030630630.m3u8
-#EXTINF:-1,SRF Südthüringen
+#EXTINF:-1, tvg-name="srf-online.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-swr-thur.png",SRF Südthüringen
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/chunklist_w278696784.m3u8
-#EXTINF:-1,Südtirol Digital Fernsehen
+#EXTINF:-1, tvg-name="sdf-bz.it" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-sud-tirol.png",Südtirol Digital Fernsehen
 http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8
 #EXTINF:-1 tvg-name="SWR Baden-Württemberg HD " tvg-id="SWR.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg HD 
  http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8 
 #EXTINF:-1 tvg-name="Sylt1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png",Sylt1
 http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
-#EXTINF:-1,Tele Regional Basel
+#EXTINF:-1, tvg-name="telebasel.ch" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-telebasel.png",Tele Regional Basel
 https://xapp510394368c1000199-f-l-z.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/chunklist.m3u8
-#EXTINF:-1,Tirol TV
+#EXTINF:-1, tvg-name="tiroltv.at" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-tirol.png",Tirol TV 
 http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w1178744335.m3u8
 #EXTINF:-1 tvg-name="TRP1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trp1.png",TRP1
 http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Mittelrhein" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmittelrhein.png",TV Mittelrhein
 http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/chunklist_b2000000.m3u8
-#EXTINF:-1,TV Oberfranken
+#EXTINF:-1, tvg-name="tvo.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-oberfranken.png",TV Oberfranken
 https://586dce1287bfd.streamlock.net/tvoberfranken/tvoberfranken.stream_1/chunklist_w1451685359.m3u8
-#EXTINF:-1,TV Oberpfalz
+#EXTINF:-1, tvg-name="otv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-oberfall.png",TV Oberpfalz
 http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/chunklist_w535800930.m3u8
 #EXTINF:-1 tvg-name="TV Touring" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvtouring.png",TV Touring
 https://586dce1287bfd.streamlock.net/tvtouringw/tvtouringw.stream_1/playlist.m3u8
@@ -133,7 +133,7 @@ https://586dce1287bfd.streamlock.net/tvoberfranken/tvoberfranken.stream_1/playli
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8
 #EXTINF:-1,W24 TV (Austria)
 https://ms03.w24.at/W24/smil:liveevent.smil/chunklist_w938613302_b448000_slger.m3u8
-#EXTINF:-1,Welt der Wunder 
+#EXTINF:-1, tvg-name="weltderwunder.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-welt-wunder.png",Welt der Wunder 
 http://live.vidoo.de/live/weltderwunder/master.m3u8 
 #EXTINF:-1,TV38 - Fernsehen zwischen Harz und Heide
 http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8 
