@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Fox30 
-https://dcs-live.apis.anvato.net/server/play/BAzYzVDUo58DIDW0/master.m3u8
+http://cmghlslive-i.akamaihd.net/hls/live/224710/WFOX/904k/prog.m3u8
+#EXTINF:-1,CBS24 
+http://cmghlslive-i.akamaihd.net/hls/live/224714/WJAX/904k/prog.m3u8,USA
 #EXTINF:-1 tvg-name="a.tv" tvg-id="a.tv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png",a.tv
 http://atvhd.iptv-playoutcenter.de/atvHD/ngrp:atvhd.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="ALEX Berlin" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png",ALEX Berlin
