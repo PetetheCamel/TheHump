@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Fox30
-https//cmghlslive-i.akamaihd.net%3a80/hls/live/224710/WFOX/904k/prog.m3u8
 #EXTINF:-1 tvg-name="a.tv" tvg-id="a.tv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png",a.tv
 http://atvhd.iptv-playoutcenter.de/atvHD/ngrp:atvhd.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="ALEX Berlin" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png",ALEX Berlin
@@ -181,44 +179,3 @@ http://62.113.210.8/tide-rtplive/mp4:liveplayout.stream/chunklist_w1838803172.m3
 http://62.113.221.100/friesischerRundfunk-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1,Gaetein TV 
 https://livestream.skigastein.com:8446/GasteinTV/GasteinTV_LiveStream.stream/chunklist_w1545099685.m3u8
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:20
-#EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-DISCONTINUITY-SEQUENCE:0
-#ANVATO-SEGMENT-INFO: type=slate
-#EXT-X-KEY:METHOD=NONE
-#EXTINF:10,1:0
-http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/1864k/wdYjkDXgs3K/154585/segment_154585679.ts
-#ANVATO-SEGMENT-INFO: type=slate
-#EXTINF:10,2:0
-http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/1864k/wdYjkDXgs3K/154585/segment_154585680.ts
-#ANVATO-SEGMENT-INFO: type=slate
-#EXTINF:10,3:0
-http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/1864k/wdYjkDXgs3K/154585/segment_154585681.ts
-#ANVATO-SEGMENT-INFO: type=slate
-#EXTINF:10,4:0
-http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/1864k/wdYjkDXgs3K/154585/segment_154585682.ts
-#ANVATO-SEGMENT-INFO: type=slate
-#EXTINF:10,5:0
-http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/1864k/wdYjkDXgs3K/154585/segment_154585683.ts
-#ANVATO-SEGMENT-INFO: type=slate
-#EXTINF:10,6:0
-http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/1864k/wdYjkDXgs3K/154585/segment_154585684.ts
-#ANVATO-SEGMENT-INFO: type=slate
-#EXTINF:10,7:0
-http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/1864k/wdYjkDXgs3K/154585/segment_154585685.ts
-#ANVATO-SEGMENT-INFO: type=slate
-#EXTINF:10,8:0
-http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/1864k/wdYjkDXgs3K/154585/segment_154585686.ts
-#ANVATO-SEGMENT-INFO: type=slate
-#EXTINF:10,9:0
-http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/1864k/wdYjkDXgs3K/154585/segment_154585687.ts
-#ANVATO-SEGMENT-INFO: type=slate
-#EXTINF:10,10:0
-http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/1864k/wdYjkDXgs3K/154585/segment_154585688.ts
-#ANVATO-ACLD: [need nad]
-#ANVATO-SESSION-ID: i177602742-n1fc6b82b-505a-43ca-a094-247150151bbe
-#ANVATO-NODE:177602742
-#ANVATO-RQD:n,b2815aeda4390152606eb52479958068-b2815aeda4390152606eb52479958068,anvtrid=8e1c96dfacdb31e2b07d6e049c31dd70&t=1545856561&_vpng=0&x=4267&fw_mvpd=d41d8cd98f00b204e9800998ecf8427e&fw_csid=&fw_caid=&anv_user=b64652d4d2225cee0e629c7ce835b6a64155&fw_prof=&fw_network=&fw_ltlg=&fw_mvpd_id=&fw_sdk_flag=%2Bslcb%2Bvicb&fw_metr=7&_dev=web&fw_did=8C3B8D69-0ED4-46D6-9197-7EFB41C21462&fw_sdk_flag_safe=%252Bslcb%252Bvicb&id=8C3B8D69-0ED4-46D6-9197-7EFB41C21462&rdid=8C3B8D69-0ED4-46D6-9197-7EFB41C21462&is_lat=0&_tkx_anvack=anvato_cox_app_web_prod_ce45cda237969f93e7130f50ee8bb6280c1484ab&_tkx_callsign=adst3KqP0xYmdlwe&qx=97.100.91.153&_shost=177606613&_fp=c64423a7439c4a4f85544c3ac250689c&anvsid=i177602742-n1fc6b82b-505a-43ca-a094-247150151bbe&_segdur=10
-#ANVATO-NODE:177606613
