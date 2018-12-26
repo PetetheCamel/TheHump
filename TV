@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Fox30 
-https://dcs-live.apis.anvato.net/server/play/xADzPM9SZKGwCvx7/master.m3u8
+https://dcs-live.apis.anvato.net/server/play/xADzPM9SZKGwCvx7/2594000/prog.m3u8?anvtrid=c26739d1f670de4d339ea2c3b2f932cc&t=1545852820&_vpng=0&x=7095&fw_mvpd=d41d8cd98f00b204e9800998ecf8427e&fw_csid=&fw_caid=&anv_user=c398782708082e4465145c414413036818248&fw_prof=&fw_network=&fw_ltlg=&fw_mvpd_id=&fw_sdk_flag=%2Bslcb%2Bvicb&fw_metr=7&_dev=web&fw_did=8C3B8D69-0ED4-46D6-9197-7EFB41C21462&fw_sdk_flag_safe=%252Bslcb%252Bvicb&id=8C3B8D69-0ED4-46D6-9197-7EFB41C21462&rdid=8C3B8D69-0ED4-46D6-9197-7EFB41C21462&is_lat=0&_tkx_anvack=anvato_cox_app_web_prod_ce45cda237969f93e7130f50ee8bb6280c1484ab&_tkx_callsign=adst3KqP0xYmdlwe&qx=97.100.91.153&_shost=177602742&_fp=c64423a7439c4a4f85544c3ac250689c&anvsid=i177602742-n1fc6b82b-505a-43ca-a094-247150151bbe
 #EXTINF:-1 tvg-name="a.tv" tvg-id="a.tv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png",a.tv
 http://atvhd.iptv-playoutcenter.de/atvHD/ngrp:atvhd.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="ALEX Berlin" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png",ALEX Berlin
