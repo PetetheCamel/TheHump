@@ -41,7 +41,7 @@ https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist
 http://streaming.austria24.tv/live/stream_720p/playlist.m3u8#EXTINF:-1 tvg-name="main.tv" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/maintv.png",main.tv
 #EXTINF:-1, tvg-name="Maintv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-main.png",Main TV
 http://maintv.iptv-playoutcenter.de:1935/maintv/maintv.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-name="münchen.tv" tvg-id="MunchenTV.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/muenchentv.png",münchen.tv
+#EXTINF:-1 tvg-name="münchen.tv" tvg-id="MunchenTV.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/Münchentv.png",münchen.tv
 https://586c13b083c0d.streamlock.net/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="noa4 Hamburg HD" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png",noa4 Hamburg HD
 http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
@@ -121,7 +121,7 @@ http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/c
 https://586dce1287bfd.streamlock.net/tvtouringw/tvtouringw.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Würzburg" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wuerzburgtv.png",TV Würzburg
 http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="tv.berlin" tvg-id="TVBerlin.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvberlin.png",tv.berlin
+#EXTINF:-1 tvg-name="tv.berlin" tvg-id="TVBerlin.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvberlin.png",TV Berlin
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:7649-sbr/playlist.m3u8
 #EXTINF:-1 tvg-name="TVA" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tva.png",TVA
 https://586c13b083c0d.streamlock.net/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
