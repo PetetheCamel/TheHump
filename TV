@@ -179,11 +179,13 @@ http://62.113.210.8/tide-rtplive/mp4:liveplayout.stream/chunklist_w1838803172.m3
 http://62.113.221.100/friesischerRundfunk-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1,Gastein TV 
 https://livestream.skigastein.com:8446/GasteinTV/GasteinTV_LiveStream.stream/chunklist_w1545099685.m3u8
-#EXTINF:-1 tvg-name="DE:Kabel1" tvg-logo="http://logo.ndasat.com/iptv/images/99611_kabel1.png" group-title="{BOUQUET_NAME}",DE:Kabel1
-http://212.8.253.47:88/555155895930609/555155895930609/274
-#EXTINF:-1 tvg-name="DE:VOX" tvg-logo="http://logo.ndasat.com/iptv/images/73023_vox.jpg" group-title="{BOUQUET_NAME}",DE:VOX
-http://212.8.253.47:88/555155895930609/555155895930609/253
-#EXTINF:-1 tvg-name="DE:N24" tvg-logo="http://logo.ndasat.com/iptv/images/88138_n24.png" group-title="{BOUQUET_NAME}",DE:N24
-http://212.8.253.47:88/555155895930609/555155895930609/273
-#EXTINF:-1 tvg-name="DE:ZDF" tvg-logo="http://logo.ndasat.com/iptv/images/61931_zdf.png" group-title="{BOUQUET_NAME}",DE:ZDF
-http://212.8.253.47:88/555155895930609/555155895930609/261
+#EXTINF:-1,DE:arte HD
+http://viphdpro.eu:8080/live/new0303/bayidemo/8679.m3u8
+#EXTINF:-1,DE:ZDF HD
+http://viphdpro.eu:8080/live/new0303/bayidemo/8773.m3u8
+#EXTINF:-1,DE: Zdf HD
+http://viphdpro.eu:8080/live/new0303/bayidemo/8788.m3u8
+#EXTINF:-1,DE:ZDFneo
+http://viphdpro.eu:8080/live/new0303/bayidemo/8774.m3u8
+#EXTINF:-1,DE:Zee One
+http://viphdpro.eu:8080/live/new0303/bayidemo/8775.m3u8
