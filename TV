@@ -247,13 +247,29 @@ http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master
 https://tv.artcom-venture.de/dmf/tv_720.m3u8
 #EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:-1,Bayern Müchen TV
-https://klive-a.akamaihd.net/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs4H8Mzuv07XU5Zdqb4sw/master.m3u8
-#EXTINF:-1,TV Mittelrhein
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8
-#EXTINF:-1,M4 TV (Austria)
-http://streaming.austria24.tv/live/stream_720p/playlist.m3u8
-#EXTINF:-1,W24 TV (Austria)
-http://ms02.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1,OK Ludwigshafen
-http://77.28.81.148:8001/4097:0:1:0:0:0:0:0:0:0:http%3a//stream-cdn.ok54.de/hls/oklu.m3u8
+#EXTINF:-1,KIT
+http://146.185.16.10:1935/kit/kitstream/playlist.m3u8
+#EXTINF:-1,Ländle
+https://58b42f6c8c9bf.streamlock.net:8080/live/LaendleTV/chunklist.m3u8
+#EXTINF:-1,Schau TV
+https://schautv.cdn.ors.at/out/u/schautv-nodrm_4.m3u8
+#EXTINF:-1,Zell am See
+http://s1.live-panorama.com/keblivestreaming/streams/schmittenTVLow.sdp.stream.m3u8
+#EXTINF:-1,Augsburg TV
+https://586c13b083c0d.streamlock.net/augsburgtv/augsburgtv.stream_1/chunklist_w1569306227.m3u8
+#EXTINF:-1,Dügün TV
+https://586af19f15937.streamlock.net/televizyon-live/_definst_/mp4:DugunTv/chunklist_w258162012.m3u8?ref=dugun.tv&seid=158276
+#EXTINF:-1,Folx
+http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+#EXTINF:-1,Hanover 1
+http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8
+#EXTINF:-1,Landesfernsehen TV
+http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/playlist.m3u8
+#EXTINF:-1,OK Wettin
+http://62.113.210.250/medienasa-live/ok-wettin_high/master.m3u8
+#EXTINF:-1,RB Wittenberg
+http://62.113.210.250/medienasa-live/rbw_high/master.m3u8
+#EXTINF:-1,Regio TV Bodensee
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/chunklist.m3u8
+#EXTINF:-1,
+
