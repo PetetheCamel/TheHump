@@ -263,18 +263,10 @@ http://62.113.210.250/medienasa-live/ok-wettin_high/master.m3u8
 http://62.113.210.250/medienasa-live/rbw_high/master.m3u8
 #EXTINF:-1,Regio TV Bodensee
 https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/chunklist.m3u8
-#EXTINF:-1,1-2-3 TV
-https://123tv.cdn.ses-ps.com/stream070101/playlist.m3u8
-#EXTINF:-1,3 Sat
-https://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
-#EXTINF:-1,DW Deutsch+
-http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,ERF 1
 http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/chunklist.m3u8
 #EXTINF:-1,Kanal Avrupa
 http://trtv.mine.nu:6161/live/kanalavrupa/sbd61FDerM/661.m3u8
-#EXTINF:-1,Nice DEF TV
-https://rrr.sz.xlcdn.com/?account=nice-broadcast-media-gmbh&file=1800-h264-nice-DEF-TV-Video&type=live&service=wowza&output=playlist.m3u8
 #EXTINF:-1,OF TV
 https://586af19f15937.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/chunklist.m3u8
 #EXTINF:-1,RBW
@@ -283,12 +275,6 @@ http://62.113.210.250/medienasa-live/rbw_high/master.m3u8
 http://stream-cdn.ok54.de:8080/$RheinLokal
 #EXTINF:-1,RNF HD
 https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:-1,RBB Berlin
-https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
-#EXTINF:-1,Sonnenklar.TV HD
-http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
-#EXTINF:-1,SR
-http://livestream.sr-online.de/live.m3u8
 #EXTINF:-1,TV Mainfranken Schweinfurt
 http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_2/playlist.m3u8
 #EXTINF:-1,WMZ TV Senftenberg
