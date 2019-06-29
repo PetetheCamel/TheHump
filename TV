@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="a.tv" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png",a.tv
-http://atvhd.iptv-playoutcenter.de/atvHD/ngrp:atvhd.stream_all/playlist.m3u8
+https://586c13b083c0d.streamlock.net/augsburgtv/augsburgtv.stream_1/chunklist_w1569306227.m3u8
 #EXTINF:-1 tvg-name="ALEX Berlin" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png",ALEX Berlin
 https://alex-net.rosebud-media.de/bounce/alexlivetv20.smil/master.m3u8
 #EXTINF:-1, tvg-name="allgäu.tv" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png",allgäu.tv
@@ -251,18 +251,12 @@ https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 http://146.185.16.10:1935/kit/kitstream/playlist.m3u8
 #EXTINF:-1,Ländle
 https://58b42f6c8c9bf.streamlock.net:8080/live/LaendleTV/chunklist.m3u8
-#EXTINF:-1,Schau TV
-https://schautv.cdn.ors.at/out/u/schautv-nodrm_4.m3u8
 #EXTINF:-1,Zell am See
 http://s1.live-panorama.com/keblivestreaming/streams/schmittenTVLow.sdp.stream.m3u8
 #EXTINF:-1,Augsburg TV
 https://586c13b083c0d.streamlock.net/augsburgtv/augsburgtv.stream_1/chunklist_w1569306227.m3u8
-#EXTINF:-1,Dügün TV
-https://586af19f15937.streamlock.net/televizyon-live/_definst_/mp4:DugunTv/chunklist_w258162012.m3u8?ref=dugun.tv&seid=158276
 #EXTINF:-1,Folx
 http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
-#EXTINF:-1,Hanover 1
-http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8
 #EXTINF:-1,Landesfernsehen TV
 http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/playlist.m3u8
 #EXTINF:-1,OK Wettin
