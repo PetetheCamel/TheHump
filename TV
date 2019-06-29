@@ -253,8 +253,6 @@ http://146.185.16.10:1935/kit/kitstream/playlist.m3u8
 https://58b42f6c8c9bf.streamlock.net:8080/live/LaendleTV/chunklist.m3u8
 #EXTINF:-1,Zell am See
 http://s1.live-panorama.com/keblivestreaming/streams/schmittenTVLow.sdp.stream.m3u8
-#EXTINF:-1,Augsburg TV
-https://586c13b083c0d.streamlock.net/augsburgtv/augsburgtv.stream_1/chunklist_w1569306227.m3u8
 #EXTINF:-1,Folx
 http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
 #EXTINF:-1,Landesfernsehen TV
