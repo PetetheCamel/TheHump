@@ -221,7 +221,5 @@ https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
 http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_2/playlist.m3u8
 #EXTINF:-1,WMZ TV Senftenberg
 rtmp://62.67.13.53:1935/wmzsenftenberg/live.stream
-#EXTINF:-1, SWR Baden-Württemberg
-https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8
-#EXTINF:-1, SWR Rheinland-Pfalz
-https://swrrphls-i.akamaihd.net/hls/live/667639/swrrpd/master.m3u8
+#EXTINF:-1, Das Erste
+https://mcdn.daserste.de/daserste/int/master_3744.m3u8
