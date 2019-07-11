@@ -26,7 +26,7 @@ http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen
 http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8
 #EXTINF:-1 tvg-name="intv" tvg-id="intv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/intv.png",intv
-https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8
+ingolstadttv.iptv-playoutcenter.de%3a1935/ingolstadttv/ingolstadttv.stream_1/chunklist_w337734222.m3u8
 #EXTINF:-1 tvg-name="Isar TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/isartv.png",Isar TV
 http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="L-TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ltv.png",L-TV
@@ -223,6 +223,19 @@ http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/play
 rtmp://62.67.13.53:1935/wmzsenftenberg/live.stream
 #EXTINF:-1, Westerwald-Wied TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:5715-mbr/chunklist_b1118000.m3u8
-#EXTINF:-1, 123 TV
-https://123tv.cdn.ses-ps.com/index.m3u8
-
+#EXTINF:-1, Bayerisches Fernsehen HD
+https://livestreams.br.de/i/bfsnord_germany@119898/index_3776_av-p.m3u8
+#EXTINF:-1, BR Alpha 
+https://livestreams.br.de/i/bralpha_germany@119899/index_3776_av-p.m3u
+#EXTINF:-1, EOTV
+https://cdn-europe.smartcast.de%3a1935/eotv/eotvhd/playlist.m3u8
+#EXTINF:-1, Kiel TV
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4%3akulturmd_high/chunklist_w1264774780.m3u8
+#EXTINF:-1, Main TV
+https://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1, 
+https://
+#EXTINF:-1, 
+https://
+#EXTINF:-1, 
+https://
