@@ -224,4 +224,6 @@ rtmp://62.67.13.53:1935/wmzsenftenberg/live.stream
 #EXTINF:-1, Das Erste
 http://mcdn.daserste.de/daserste/int/master.m3u8 
 #EXTINF:-1, Westerwald-Wied TV
-http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8 
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8
+#EXTINF:-1, Westerwald-Wied TV
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:5715-mbr/chunklist_b1118000.m3u8
