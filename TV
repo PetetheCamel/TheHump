@@ -209,8 +209,6 @@ http://62.113.210.250/medienasa-live/rbw_high/master.m3u8
 https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/chunklist.m3u8
 #EXTINF:-1,ERF 1
 http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/chunklist.m3u8
-#EXTINF:-1,Kanal Avrupa
-http://trtv.mine.nu:6161/live/kanalavrupa/sbd61FDerM/661.m3u8
 #EXTINF:-1,OF TV
 https://586af19f15937.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/chunklist.m3u8
 #EXTINF:-1,RheinLokal
@@ -223,8 +221,6 @@ http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/play
 rtmp://62.67.13.53:1935/wmzsenftenberg/live.stream
 #EXTINF:-1, Westerwald-Wied TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:5715-mbr/chunklist_b1118000.m3u8
-#EXTINF:-1, EOTV
-https://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
 #EXTINF:-1, Kiel TV
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4%3akulturmd_high/chunklist_w1264774780.m3u8
 #EXTINF:-1, Saarland TV 
