@@ -26,7 +26,7 @@ http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen
 http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8
 #EXTINF:-1 tvg-name="intv" tvg-id="intv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/intv.png",intv
-ingolstadttv.iptv-playoutcenter.de%3a1935/ingolstadttv/ingolstadttv.stream_1/chunklist_w337734222.m3u8
+http://ingolstadttv.iptv-playoutcenter.de%3a1935/ingolstadttv/ingolstadttv.stream_1/chunklist_w337734222.m3u8
 #EXTINF:-1 tvg-name="Isar TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/isartv.png",Isar TV
 http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="L-TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ltv.png",L-TV
