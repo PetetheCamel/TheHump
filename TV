@@ -229,3 +229,21 @@ https://saarland2.iptv-playoutcenter.de/saarland2/ngrp%3asaarland2.stream_all/pl
 https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil%3alivestream.smil/playlist.m3u8
 #EXTINF:-1, tvg-name="Regio TV Stuttgart" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png",Regio TV Stuttgart
 http://regiotv-s.iptv-playoutcenter.de:1935/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://flagpedia.net/data/flags/w580/de.png" group-title="Germany",Ludwigsburg TV
+https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:livestream3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://flagpedia.net/data/flags/w580/de.png" group-title="Germany",Augsburg TV
+http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://flagpedia.net/data/flags/w580/de.png" group-title="Germany",BLK
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://flagpedia.net/data/flags/w580/de.png" group-title="Germany",ARD
+http://daserstehdint-lh.akamaihd.net/i/daserstehd_int@629195/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://flagpedia.net/data/flags/w580/de.png" group-title="Germany",WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://flagpedia.net/data/flags/w580/de.png" group-title="Germany",Blizz
+http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/index_500_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://flagpedia.net/data/flags/w580/de.png" group-title="Germany",BR
+http://livestreams.br.de/i/bfssued_germany@119890/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://flagpedia.net/data/flags/w580/de.png" group-title="Germany",HR
+http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://flagpedia.net/data/flags/w580/de.png" group-title="Germany",RiC
+http://58b42f6c8c9bf.streamlock.net:1935/live/rictv/playlist.m3u8
