@@ -292,18 +292,18 @@ http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
 #EXTINF:-1 tvg-name="Deutsche Welle" tvg-id="DeutscheWelleDE.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
 #EXTINF:-1 tvg-name="Sky Sport News" tvg-id="SkySports.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png",Sky Sports News
-URL: http://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-750.m3u8 
+http://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-750.m3u8 
 #EXTINF:-1, tvg-name="Sportschau.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-sportschau.png",SportSchau HD
-URL: http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
+http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
 #EXTINF:-1, tvg-name="Sportschau.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-sportschau.png",SportSchau HD2
-URL: http://wdrardevent2-lh.akamaihd.net/i/wdrardevent2_geo@100869/master.m3u8 
+http://wdrardevent2-lh.akamaihd.net/i/wdrardevent2_geo@100869/master.m3u8 
 #EXTINF:-1, tvg-name="WeltderWunder" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-welt-wunder.png",Welt der Wunder
 http://live.vidoo.de/live/weltderwunder/chunklist_w212089726.m3u8
 #EXTINF:-1 tvg-name="ORF1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf1hd.png",ORF1
-URL: http://orf1.orfstg.cdn.ors.at/out/u/orf1/q4a/manifest_2.m3u8 
+http://orf1.orfstg.cdn.ors.at/out/u/orf1/q4a/manifest_2.m3u8 
 #EXTINF:-1 tvg-name="ORF2" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf2hd.png",ORF2
-URL: http://orf2.orfstg.cdn.ors.at/out/u/orf2/q4a/manifest_2.m3u8 
+http://orf2.orfstg.cdn.ors.at/out/u/orf2/q4a/manifest_2.m3u8 
 #EXTINF:-1 tvg-name="ORF3" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf3hd.png",ORF3
-URL: http://orf3.orfstg.cdn.ors.at/out/u/orf3/q4a/manifest_2.m3u8 
+http://orf3.orfstg.cdn.ors.at/out/u/orf3/q4a/manifest_2.m3u8 
 #EXTINF:-1 tvg-name="ORF Sport" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png",ORF Sport
-URL: http://orfs.orfstg.cdn.ors.at/out/u/orfs/q4a/manifest.m3u8
+http://orfs.orfstg.cdn.ors.at/out/u/orfs/q4a/manifest.m3u8
