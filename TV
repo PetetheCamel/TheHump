@@ -85,7 +85,7 @@ http://lb.hd-livestream.de:1935/live/RTS2015/playlist.m3u8
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/chunklist_w278696784.m3u8
 #EXTINF:-1, tvg-name="sdf-bz.it" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-sud-tirol.png",Südtirol Digital Fernsehen
 http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8
-#EXTINF:-1 tvg-name="SWR Baden-Württemberg HD" tvg-id="SWR.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg HD 
+#EXTINF:-1 tvg-name="SWR Baden-Württemberg HD" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg HD 
 https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master_3776.m3u8 
 #EXTINF:-1 tvg-name="Sylt1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png",Sylt1
 http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
