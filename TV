@@ -204,7 +204,7 @@ http://58b42f6c8c9bf.streamlock.net:1935/live/rictv/playlist.m3u8
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master_3744.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
-https://zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8
+https://zdf-hls-01.akamaized.net/hls/live/2002460/de/87390e69120bf490c1129ece96e34636/5/5.m3u8
 #EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
 https://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/index_1496_av-p.m3u8
 #EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
@@ -261,20 +261,6 @@ https://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/index_5_av-p.m3u8
 http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
 #EXTINF:-1 tvg-name="Deutsche Welle" tvg-id="DeutscheWelleDE.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
-#EXTINF:-1 tvg-name="Sky Sport News" tvg-id="SkySports.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png",Sky Sports News
-http://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-750.m3u8 
-#EXTINF:-1, tvg-name="Sportschau.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-sportschau.png",SportSchau HD
-http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
-#EXTINF:-1, tvg-name="Sportschau.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-sportschau.png",SportSchau HD2
-http://wdrardevent2-lh.akamaihd.net/i/wdrardevent2_geo@100869/master.m3u8 
 #EXTINF:-1, tvg-name="WeltderWunder" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-welt-wunder.png",Welt der Wunder
 http://live.vidoo.de/live/weltderwunder/chunklist_w212089726.m3u8
-#EXTINF:-1 tvg-name="ORF1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf1hd.png",ORF1
-https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
-#EXTINF:-1 tvg-name="ORF2" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf2hd.png",ORF2
-https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8 
-#EXTINF:-1 tvg-name="ORF3" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf3hd.png",ORF3
-https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8 
-#EXTINF:-1 tvg-name="ORF Sport" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png",ORF Sport
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
 
