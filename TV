@@ -38,7 +38,7 @@ https://5a32c05065c79.streamlock.net/live/stream/chunklist_w1934335386.m3u8
 #EXTINF:-1, tvg-name="MDF1.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-main.png",MDF1 TV
 https://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
 #EXTINF:-1 tvg-name="münchen.tv" tvg-id="MunchenTV.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/Münchentv.png",münchen.tv
-https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/chunklist.m3u8
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="noa4 Hamburg HD" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png",noa4 Hamburg HD
 http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 #EXTINF:-1, tvg-name="Nahetv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-nahe.png",Nahe TV
@@ -84,13 +84,11 @@ http://lb.hd-livestream.de:1935/live/RTS2015/playlist.m3u8
 #EXTINF:-1, tvg-name="srf-online.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-swr-thur.png",SRF Südthüringen
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/chunklist_w278696784.m3u8
 #EXTINF:-1, tvg-name="sdf-bz.it" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-sud-tirol.png",Südtirol Digital Fernsehen
-https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master_1216.m3u8
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-name="SWR Baden-Württemberg HD" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg HD 
 https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master_1216.m3u8 
 #EXTINF:-1 tvg-name="Sylt1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png",Sylt1
 http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
-#EXTINF:-1, tvg-name="telebasel.ch" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-telebasel.png",Tele Regional Basel
-https://xapp510394368c1000199-f-l-z.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/chunklist.m3u8
 #EXTINF:-1 tvg-name="TRP1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trp1.png",TRP1
 http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Mittelrhein" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmittelrhein.png",TV Mittelrhein
@@ -102,7 +100,7 @@ https://586dce1287bfd.streamlock.net/tvtouringw/tvtouringw.stream_1/playlist.m3u
 #EXTINF:-1 tvg-name="TV Würzburg" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wuerzburgtv.png",TV Würzburg
 http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="tv.berlin" tvg-id="TVBerlin.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvberlin.png",TV Berlin
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:7649-sbr/playlist.m3u8
+https://58de7a369a9c4.streamlock.net/tvb/7649_7Bpr2XK4zCR6jNV/playlist.m3u8
 #EXTINF:-1 tvg-name="TVA" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tva.png",TVA
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8 
 #EXTINF:-1 tvg-name="TVO" tvg-id="tvo.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo.png",TVO
@@ -133,18 +131,14 @@ http://62.113.210.250/medienasa-live/_definst_/mp4:ok-wernigerode_high/master.m3
 http://62.113.210.250/medienasa-live/punktum_high/master.m3u8 
 #EXTINF:-1,erzTV Erzgebirge
 http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8 
-#EXTINF:-1,MDF 1 
-http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8 
 #EXTINF:-1,Filstalwelle (Göppingen) 
 http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/master.m3u8 
-#EXTINF:-1,Muenchen TV 
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1,RBW Regionalfernsehen Bitterfeld-Wolfen 
 http://62.113.210.250/medienasa-live/_definst_/mp4:rbw_high/chunklist_w653866526.m3u8?ref=www.rbwonline.de&seid=176193 
 #EXTINF:-1,RFH Regionalfernsehen Harz 
 http://62.113.210.250/medienasa-live/_definst_/mp4:RFH_high/chunklist_w1484114562.m3u8 
 #EXTINF:-1,Tide TV Hamburg 
-http://62.113.210.8/tide-rtplive/mp4:liveplayout.stream/playlist.m3u8
+https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1,Gastein TV 
 https://livestream.skigastein.com:8446/GasteinTV/GasteinTV_LiveStream.stream/chunklist_w1545099685.m3u8
 #EXTINF:-1 tvg-name="WDR HD" tvg-id="WDR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
