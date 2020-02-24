@@ -34,8 +34,8 @@ https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:ltv-live/mast
 #EXTINF:-1, tvg-name="Leipzig.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-leipzig.png",Leipzig Fernsehen
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1, tvg-name="M4.at" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-m4.png",M4 TV (Austria)
-https://5a32c05065c79.streamlock.net/live/stream/master.m3u8
-#EXTINF:-1, tvg-name="Maintv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-main.png",Main TV
+https://5a32c05065c79.streamlock.net/live/stream/chunklist_w1934335386.m3u8
+#EXTINF:-1, tvg-name="MDF1.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-main.png",MDF1 TV
 https://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
 #EXTINF:-1 tvg-name="münchen.tv" tvg-id="MunchenTV.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/Münchentv.png",münchen.tv
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/chunklist.m3u8
@@ -43,7 +43,8 @@ https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/chunklis
 http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 #EXTINF:-1, tvg-name="Nahetv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-nahe.png",Nahe TV
 rtmp://stream-cdn.ok54.de/tv/nahetv
-#EXTINF:-1 tvg-name="NDR Niedersachsen HD" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Niedersachsen HD
+
+#EXTINF:-1 tvg-name="NDR Niedersachsen HD" tvg-id="" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Niedersachsen HD
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-name="NDR Schleswig-Holstein HD" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Schleswig-Holstein HD
 https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8
@@ -51,6 +52,7 @@ https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8
 https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-name="NDR Hamburg HD" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Hamburg HD
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
+
 #EXTINF:-1 tvg-name="noa4 Norderstedt HD" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png",noa4 Norderstedt HD
 http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
 #EXTINF:-1,tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png",nrwision
