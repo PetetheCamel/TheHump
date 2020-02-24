@@ -80,13 +80,13 @@ http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="rheinmaintv" tvg-id="rheinmaintv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png",rheinmaintv
 https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1,tvg-name="rts-salzburg.at" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/rts-logo.png",Salzburg RTS
-http://lb.hd-livestream.de:1935/live/RTS2015/chunklist_w2030630630.m3u8
+https://58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/playlist.m3u8
 #EXTINF:-1, tvg-name="srf-online.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-swr-thur.png",SRF Südthüringen
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/chunklist_w278696784.m3u8
 #EXTINF:-1, tvg-name="sdf-bz.it" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-sud-tirol.png",Südtirol Digital Fernsehen
 http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8
 #EXTINF:-1 tvg-name="SWR Baden-Württemberg HD " tvg-id="SWR.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg HD 
- http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8 
+ https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master_3776.m3u8 
 #EXTINF:-1 tvg-name="Sylt1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png",Sylt1
 http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
 #EXTINF:-1, tvg-name="telebasel.ch" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-telebasel.png",Tele Regional Basel
