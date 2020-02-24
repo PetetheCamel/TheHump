@@ -307,3 +307,5 @@ https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8
 https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8 
 #EXTINF:-1 tvg-name="ORF Sport" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png",ORF Sport
 https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+#EXTINF:-1 tvg-name="BR Süd" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png",BR Süd
+https://mcdn.br.de/bfs_sued/de/master.m3u8
