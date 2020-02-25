@@ -267,8 +267,6 @@ https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
 http://wowza-1.vidoo.de:1935/live/weltderwunder/playlist.m3u8
 #EXTINF:-1,Bayrisches Fernsehen
 https://mcdn-a.akamaihd.net/bfs_sued/de/profile1/chunk98182.m3u8
-#EXTINF:-1,HR
-https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_256_av-p.m3u8
 #EXTINF:-1,EV1 Emsland und Grafschaft Bentheim
 https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1,VISIT-X.tv
