@@ -266,12 +266,10 @@ https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
 #EXTINF:-1, tvg-name="WeltderWunder" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-welt-wunder.png",Welt der Wunder
 http://wowza-1.vidoo.de:1935/live/weltderwunder/playlist.m3u8
 #EXTINF:-1,Bayrisches Fernsehen
-https://mcdn-a.akamaihd.net/bfs_sued/de/profile1/chunk98182.m3u8
+https://mcdn.br.de/bfs_sued/de/profile1/1.m3u8
 #EXTINF:-1,EV1 Emsland und Grafschaft Bentheim
 https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1,VISIT-X.tv
-hhttps://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
+https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 #EXTINF:-1,Welt Cams
 http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
-
-
