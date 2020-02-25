@@ -101,6 +101,8 @@ http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/telere
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:5714-mbr/chunklist_b1118000.m3u8
 #EXTINF:-1, tvg-name="otv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-oberfall.png",TV Oberpfalz
 http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/chunklist_w535800930.m3u8
+#EXTINF:-1 tvg-name="TV Main Franken Schweinfurt" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wuerzburgtv.png",TV Schweinfurt
+URL: http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_2/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Main Franken Würzburg" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wuerzburgtv.png",TV Würzburg
 http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="tv.berlin" tvg-id="TVBerlin.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvberlin.png",TV Berlin
@@ -263,4 +265,20 @@ http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
 #EXTINF:-1, tvg-name="WeltderWunder" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-welt-wunder.png",Welt der Wunder
 http://live.vidoo.de/live/weltderwunder/chunklist_w212089726.m3u8
+#EXTINF:-1,Landesfernsehen TV
+http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/playlist.m3u8
+#EXTINF:-1,ALPHA
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1,Bayrisches Fernsehen
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+#EXTINF:-1,HR
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1,EV 1 Emsland und Grafschaft Bentheim
+http://62.113.221.6/ev1tv-live/livestream/master.m3u8
+#EXTINF:-1,Hanover 1
+http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8
+#EXTINF:-1,VISIT-X.tv
+http://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
+#EXTINF:-1,Landesfernsehen TV
+https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:ltv-live/chunklist_w213752644.m3u8
 
