@@ -191,7 +191,7 @@ http://62.113.210.250/medienasa-live/rbw_high/master.m3u8
 https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/chunklist.m3u8
 #EXTINF:-1,ERF 1
 https://xapp2189197312c14000erf-cf-hls-l.r53.cdn.tv1.eu/14000erf/_definst_/live/app610238466/w2371551233/live.smil/playlist.m3u8
-#EXTINF:-1,Franken Fernsehen
+#EXTINF:-1,Franken Fernsehen Nürnburg
 https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
 #EXTINF:-1,WMZ TV Senftenberg
 https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8
