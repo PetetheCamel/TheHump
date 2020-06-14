@@ -1,3 +1,7 @@
-#EXTM3U  Some Description
+#EXTM3U
+#EXTINF:-1,DE: DAS ERSTE HD (ARD)
+http://iptvclub.live:25461/K9jX8ZObqQ4vOd8/YvOqtBDMNErNklv/55674
+#EXTINF:-1,DE: DAS ERSTE (ARD)
+http://iptvclub.live:25461/K9jX8ZObqQ4vOd8/YvOqtBDMNErNklv/55675
 #EXTINF:-1,1 tvg-name="a.tv" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png",a.tv
 http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8
