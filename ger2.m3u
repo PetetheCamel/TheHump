@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
+#EXTM3U
 #EXTINF:-1, tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png" group-title="",a.tv
 http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1, tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png" group-title="",ALEX Berlin
