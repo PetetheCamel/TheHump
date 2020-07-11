@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="110" tvg-logo="https://i.imgur.com/v7UIsYI.png" tvh-chnum="9" tvh-tags="지상파",KBS1
-udp://239.192.38.1:49220
-#EXTINF:-1 tvg-id="111" tvg-logo="https://i.imgur.com/eOdL13C.png" tvh-chnum="7" tvh-tags="지상파",KBS2
-udp://239.192.39.1:49220
-#EXTINF:-1 tvg-name="001" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png" group-title="",a.tv
-https://stream02.stream.welocal.world/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8 "|User-Agent=VLC"
-#EXTINF:-1 tvg-name="002" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png" group-title="",ALEX Berlin
-https://alex-net-02.rosebud-media.de/bounce/alexlivetv30.smil/master.m3u8 |User-Agent=VLC
