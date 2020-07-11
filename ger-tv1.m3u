@@ -1,0 +1,276 @@
+#EXTM3U
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png" group-title="",a.tv
+http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+https://stream02.stream.welocal.world/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png" group-title="",ALEX Berlin
+https://alex-net-02.rosebud-media.de/bounce/alexlivetv30.smil/master.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png" group-title="",allgau.tv
+http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/badentv.png" group-title="",Baden TV
+https://cdn.icu.de/rtplive/smil:btv.smil/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-chemnitz.png" group-title="",Chemnitz Fernsehen
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-dorf.png" group-title="",Dorf TV 
+https://stream.openplayout.org/hls/dorf_high/index.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-dresden.png" group-title="",Dresden Fernsehen
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/drf1.png" group-title="",DRF1
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd2/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/donautv.png" group-title="",Donau TV
+http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png" group-title="",Franken Fernsehen
+http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/FRF1.png" group-title="",Friesisches Fernsehen
+https://58e5fdd27293a.streamlock.net/friesischerRundfunk-live/_definst_/mp4:friesischerrundfunk/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-fs1.png" group-title="",FS1 
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/intv.png" group-title="",TV Ingolstadt
+https://tvingolstadt.iptv-playoutcenter.de/tvingolstadt/tvingolstadt.stream_1/chunklist_w646087352.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/isartv.png" group-title="",Niederbayern TV
+http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ltv.png" group-title="",Ludwigsburg TV
+https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:ltv-live/master.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-leipzig.png" group-title="",Leipzig Fernsehen
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-m4.png" group-title="",M4 TV (Austria)
+https://5a32c05065c79.streamlock.net/live/stream/chunklist_w1934335386.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-main.png" group-title="",MDF1 TV
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/muenchentv.png" group-title="",Munchen.tv
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png" group-title="",noa4 Hamburg HD
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-nahe.png" group-title="",Nahe TV
+https://stream-cdn.ok54.de/hls/nahetv.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png"group-title="",noa4 Norderstedt HD
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png" group-title="",nrwision
+https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist_w778181655.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-ok-kaiser.png" group-title="",OK Kaiserslautern
+http://stream-cdn.ok54.de/hls/ok-kl.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-ok-koblenz.png" group-title="",OK Koblenz
+http://stream-cdn.ok54.de/hls/ok4.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-ludwigshafen.png" group-title="",OK Ludwigshafen
+http://stream-cdn.ok54.de/hls/oklu.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-mainz.png" group-title="" group-title="",OK Mainz
+https://stream-cdn.ok54.de/hls/oktvmainz.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-Merseburg.png" group-title="",OK Merseburg
+http://62.113.210.250/medienasa-live/ok-merseburg_high/master.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-Sudwestpfalz.png" group-title="",OK Sudwestpfalz
+http://stream-cdn.ok54.de/hls/okswp.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-trier.jpg" group-title="",OK Trier
+https://stream5.sehradar.de/ok54trier/livestream_480p/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-Weinstrasse.png" group-title="",OK Weinstrasse
+rtmp://stream-cdn.ok54.de/tv/okweinstrasse
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png" group-title="",oldenburg eins
+https://5d9af227241aa.streamlock.net:1443/live/studio/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/potsdamtv.png" group-title="",Potsdam TV
+https://58de7a369a9c4.streamlock.net/potsdamtv/stream/playlist.m3u8?potsdamtvendtime=1593847031&potsdamtvstarttime=1593825421&potsdamtvhash=JtD1EULVuLHrmkqoE67Em5TOHMwSH0o0kRrdENQeaIM=
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-p3tv.png" group-title="",P3 TV
+rtmp://p3-6.mov.at:1935/live/weekstream
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-ran1.png" group-title="",RAN1 TV
+http://62.113.210.250/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png" group-title="",Regio TV Schwaben
+http://regiotv.iptv-playoutcenter.de:1935/regiotv/regiotv.stream_1/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png" group-title="",RFO
+http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-rhein-lokal.png" group-title="",RheinLokal (Worms)
+http://stream-cdn.ok54.de:8080/$RheinLokal
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/YkB39hx.png" group-title="",RNF
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-offenbach.png" group-title="",Offenbach TV
+https://586af19f15937.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png" group-title="",rheinmaintv
+https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png" group-title="",Regio TV Stuttgart
+http://regiotv-s.iptv-playoutcenter.de:1935/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/rts-logo.png" group-title="",Salzburg RTS (AT)
+http://lb.hd-livestream.de:1935/live/RTS2015/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-swr-thur.png" group-title="",SRF Sudthuringen
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/chunklist_w278696784.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png" group-title="",SWR Baden-Wurttemberg HD 
+https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master_1216.m3u8 
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png" group-title="",Sylt1
+https://5aec29c5dd23b.streamlock.net:8443/sylt1/_definst_/sylt1_high1.stream/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trp1.png" group-title="",TRP1
+http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmittelrhein.png" group-title="",TV Mittelrhein
+https://sdn-global-live-http-cache.3qsdn.com/2979/amlst:5714-sbr/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-oberfall.png" group-title="",TV Oberpfalz
+http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/chunklist_w535800930.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wuerzburgtv.png" group-title="",TV Schweinfurt
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wuerzburgtv.png" group-title="",TV Wurzburg
+http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvberlin.png" group-title="",TV Berlin
+https://58de7a369a9c4.streamlock.net/tvb/7649_7Bpr2XK4zCR6jNV/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tva.png" group-title="",TVA
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8 
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo.png" group-title="",TVO
+https://stream02.stream.welocal.world/stream/tvo/ngrp:tvo.stream_all/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-tv38.jpg" group-title="",TV38 - Fernsehen zwischen Harz und Heide
+http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8 
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/Ecrl44R.png" group-title="",HALLE TV 
+http://62.113.210.250/medienasa-live/tvhalle_high/master.m3u8 
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-KMD.png" group-title="",Kulturmd TV 
+http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8 
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/IKslrJu.png" group-title="",ELBEKANAL 
+http://62.113.210.250/medienasa-live/elbe_high/master.m3u8 
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-blk.jpg" group-title="",BLKonline TV Burgenlandkreis (Sachsen-Anhalt) 
+http://62.113.210.250/medienasa-live/BLKonline_high/master.m3u8 
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="http://www.youngspeech.de/wp-content/gallery/pop10-konzert/d-logode.jpg" group-title="",Dessau offener Kanal 
+http://62.113.210.250/medienasa-live/ok-dessau_high/master.m3u8 
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/BHTsPMP.png" group-title="",Magdeburg offener Kanal 
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/master.m3u8 
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-mersburg.jpg" group-title="",Merseburg offener Kanal 
+http://62.113.210.250/medienasa-live/ok-merseburg_high/master.m3u8 
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/B5obZtE.png" group-title="",SALZWEDEL offener Kanal 
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/master.m3u8 
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-stendal.png" group-title="",Stendal offener Kanal 
+http://62.113.210.250/medienasa-live/_definst_/mp4:ok-stendal_high/master.m3u8 
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-wernigerode.jpg" group-title="",Wernigerode offener Kanal 
+http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-wernigerode_high/playlist.m3u8?ref=www.campus-tv-harz.de&seid=280438
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-punkt-um.jpg" group-title="",Punktum SudHarz 
+http://62.113.210.250/medienasa-live/punktum_high/master.m3u8 
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/VenSjan.png" group-title="",erzTV Erzgebirge
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8 
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="",Filstalwelle (Goeppingen) 
+http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/master.m3u8 
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-rbw.png" group-title="",RBW Regionalfernsehen Bitterfeld-Wolfen 
+http://62.113.210.250/medienasa-live/_definst_/mp4:rbw_high/chunklist_w653866526.m3u8?ref=www.rbwonline.de&seid=176193 
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" 
+tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-rfh-harz.jpg" group-title="",RFH Regionalfernsehen Harz 
+http://62.113.210.250/medienasa-live/_definst_/mp4:RFH_high/chunklist_w1484114562.m3u8 
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-tide.jpg" group-title="",Tide TV Hamburg 
+https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-gastein.png" group-title="",Gastein TV 
+https://livestream.skigastein.com:8446/GasteinTV/GasteinTV_LiveStream.stream/chunklist_w1545099685.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png" group-title="",WDR HD
+https://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/index_3776_av-p.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png" group-title="",NDR Niedersachsen HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png" group-title="",NDR Schleswig-Holstein HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png" group-title="",NDR Mecklenburg-Vorpommern HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-p.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png" group-title="",NDR Hamburg HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png" group-title="",hr-fernsehen
+https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tiroltv.png" group-title="",Tirol TV
+https://streaming5.huberwebmedia.at/hls-live/live_tiroltv/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png" group-title="",oe24 TV
+http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png" group-title="",Kronehit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png" group-title="",Deutsches Musik Fernsehen
+https://tv.artcom-venture.de/dmf/tv_720.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png" group-title="",tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-laendle.jpg" group-title="",Laendle
+https://58b42f6c8c9bf.streamlock.net:8080/live/LaendleTV/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-zell.jpg" group-title="",Zell am See
+http://s1.live-panorama.com/keblivestreaming/streams/schmittenTVLow.sdp.stream.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/z42mYv9.jpg" group-title="",Folx
+http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/wtv-logo.jpg" group-title="",OK Wettin
+http://62.113.210.250/medienasa-live/ok-wettin_high/master.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-rbw.png" group-title="",RBW Wittenberg
+http://62.113.210.250/medienasa-live/rbw_high/master.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/oYho5l3.jpg" group-title="",Regio TV Bodensee
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/chunklist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/erf1.png" group-title="",ERF 1
+https://xapp2189197312c14000erf-cf-hls-l.r53.cdn.tv1.eu/14000erf/_definst_/live/app610238466/w2371551233/live.smil/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/q2QtEJO.jpg" group-title="",Franken Fernsehen Nurnburg
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-wmz-tv.jpg" group-title="",WMZ TV Senftenberg
+https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/5sn32FG.png" group-title="",Westerwald-Wied TV
+https://sdn-global-live-http-cache-3qsdn.akamaized.net/2980/amlst:5715-sbr/2980/5715_DkY34r6dJxfbmNp/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/kybSwK3.png" group-title="",Kiel TV
+https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/kieltv/index.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/Nvw7SaN.png" group-title="",Saarland Fernsehen 1
+https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-ric.png" group-title="",RiC
+http://58b42f6c8c9bf.streamlock.net:1935/live/rictv/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png" group-title="",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png" group-title="",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png" group-title="",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png" group-title="",ARTE HD
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png" group-title="",ServusTV HD
+https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" group-title="",ARD-alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_1_av-p.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png" group-title="",one HD
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_5_av-p.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-zdfneo.jpg" group-title="",ZDFneo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-zdfinfo.jpg" group-title="",ZDFinfo
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png" group-title="",ANIXE HD
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png" group-title="",KiKA
+https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/index_3776_av-b.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png" group-title="",Nickelodeon
+http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png" group-title="",MTV Germany
+https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png" group-title="",DELUXE MUSIC
+https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nice.png" group-title="",Nice
+http://ngx.cr6.streamzilla.xlcdn.com/session/c04d73ee67da5da423e5f318dc0dc687/sz/nice-broadcast-media-gmbh/wowza4/live/1800-h264-Event-Video/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png" group-title="",WELT
+http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png" group-title="",phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png" group-title="",SWR Rheinland-Pfalz HD
+https://swrrphls-i.akamaihd.net/hls/live/667639/swrrpd/master_3776.m3u8
+#EXTINF:-1,tvg-name="MDR Sachsen HD" tvg-id="MDRSachsen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png" group-title="",MDR Sachsen HD
+http://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/index_3776_atvg-name="" tvg-id="" tvg-language="German"v-b.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png" group-title="",MDR Sachsen-Anhalt HD
+http://mdrsahls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@513999/index_3776_av-p.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png" group-title="",MDR Thuringen HD
+http://mdrthuhls-lh.akamaihd.net/i/livetvmdrthueringen_de@514027/index_3776_av-p.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png" group-title="",rbb Berlin HD
+https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_5_av-p.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png" group-title="",rbb Brandenburg HD
+https://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/index_5_av-p.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png" group-title="",SR Fernsehen HD
+http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="",Deutsche Welle
+https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-welt-wunder.png" group-title="",Welt der Wunder
+http://wowza-1.weltderwunder.net:1935/live/weltderwunder/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-bayrisches.jpg" group-title="",Bayerisches Fernsehen
+https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_2_av-p.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-EMS.png" group-title="",EV1 Emsland und Grafschaft Bentheim
+https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/visit-x.png" group-title="",VISIT-X.tv
+https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png" group-title="",Sky Sport News HD
+https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/eotvhd.png" group-title="",eoTV HD
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png" group-title="",Okto
+https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png" group-title="",ORF SPORT +2 (Austria)
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png" group-title="",Sportschau HD1
+http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png" group-title="",Sportschau HD2
+http://wdrardevent2-lh.akamaihd.net/i/wdrardevent2_geo@100869/master.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/IRNtpKZ.png" group-title="",Elbekanal Schoenebeck 
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=171674
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://www.punktum-fernsehen.de/share/android-icon-192x192.png" group-title="",PunktUm Hettstedt
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=824679
+
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-sport1.jpg" group-title="",Sport1 (AT)
+https://1404752763.rsc.cdn77.org/URnKz_Lf7EhILZpJFeOhfg==,1593752904/ls-45420-1/index.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-sport1.jpg" group-title="",Sport2 (AT)
+https://1404752763.rsc.cdn77.org/SqelqP2MHg6cm7FTvohrsA==,1592719146/ls-45420-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,tvg-name="" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/PetetheCamel/TheHump/master/Logos/logo-sport1.jpg" group-title="",Sport3 (AT)
+https://1404752763.rsc.cdn77.org/szNF1uDkWgDeid7PZhR-iA==,1592625965/ls-45420-1/index.m3u8
