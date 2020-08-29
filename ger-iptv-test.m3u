@@ -1,5 +1,417 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="001" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png" group-title="",a.tv
-https://stream02.stream.welocal.world/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name="002" tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png" group-title="",ALEX Berlin
-https://alex-net-02.rosebud-media.de/bounce/alexlivetv30.smil/master.m3u8
+#EXTINF:-1,DE: RTL Crime FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93447
+#EXTINF:-1,DE: ZDF FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93731
+#EXTINF:-1,DE: ZDF Info HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93732
+#EXTINF:-1,DE: ZDF neo FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93733
+#EXTINF:-1,DE: Zee Neo HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93734
+#EXTINF:-1,DE: ZEE One FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93735
+#EXTINF:-1,DE: SRF 1 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93637
+#EXTINF:-1,DE: SRF 2 FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93638
+#EXTINF:-1,DE: SRF Zwei HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93640
+#EXTINF:-1,DE: Stendal TV
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93641
+#EXTINF:-1,DE: SUPER RTL FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93642
+#EXTINF:-1,DE: SWR Fernsehen HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93643
+#EXTINF:-1,DE: SWR HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93644
+#EXTINF:-1,DE: SYFY FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93645
+#EXTINF:-1,DE: 13 Street
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93046
+#EXTINF:-1,DE: 13th Street FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93047
+#EXTINF:-1,DE: SRF Info FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93639
+#EXTINF:-1,DE: SR FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93636
+#EXTINF:-1,DE: VOX FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93721
+#EXTINF:-1,DE: VOX UP
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93722
+#EXTINF:-1,DE: Pro 7 Fun FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93425
+#EXTINF:-1,DE: Pro 7 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93426
+#EXTINF:-1,DE: PRO 7 MAX HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93427
+#EXTINF:-1,DE: PRO 7 MAXX HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93428
+#EXTINF:-1,DE: ProSiben FUN HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93429
+#EXTINF:-1,DE: ProSieben FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93430
+#EXTINF:-1,DE: ProSieben Fun HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93431
+#EXTINF:-1,DE: 1-2-3 TV HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93045
+#EXTINF:-1,DE: RTL 1 FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93445
+#EXTINF:-1,DE: RTL 2 FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93446
+#EXTINF:-1,DE: RTL FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93448
+#EXTINF:-1,DE: RTL II HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93449
+#EXTINF:-1,DE: RTL Living FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93450
+#EXTINF:-1,DE: RTL Nitro FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93451
+#EXTINF:-1,DE: RTL PASION
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93452
+#EXTINF:-1,DE: RTL Passion FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93453
+#EXTINF:-1,DE: RTL plus FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93454
+#EXTINF:-1,DE: RTL zwei FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93455
+#EXTINF:-1,DE: RTLIME
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93456
+#EXTINF:-1,DE: ProSieben Maxx FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93432
+#EXTINF:-1,DE: 3 SAT FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93043
+#EXTINF:-1,DE: 7 MAXX HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93044
+#EXTINF:-1,DE: QVC 2 FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93433
+#EXTINF:-1,DE: QVC Beauty & Style
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93434
+#EXTINF:-1,DE: QVC GERMANY
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93435
+#EXTINF:-1,DE: QVC HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93436
+#EXTINF:-1,DE: QVC Plus
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93437
+#EXTINF:-1,DE: rbb HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93438
+#EXTINF:-1,DE: RFO HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93439
+#EXTINF:-1,DE: Rhein Neckar Fernsehen
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93440
+#EXTINF:-1,DE: RiC TV
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93441
+#EXTINF:-1,DE: RNF TV
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93442
+#EXTINF:-1,DE: ro News
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93443
+#EXTINF:-1,DE: Romance HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93444
+#EXTINF:-1,DE: Sat 1 Emotions HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93457
+#EXTINF:-1,DE: Sat 1 Gold HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93458
+#EXTINF:-1,DE: Sat 1 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93459
+#EXTINF:-1,DE: Servus HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93460
+#EXTINF:-1,DE: SILVERLINE
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93461
+#EXTINF:-1,DE: Sixx FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93462
+#EXTINF:-1,DE: Sixx HQ
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93463
+#EXTINF:-1,DE: Sky 1 FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93464
+#EXTINF:-1,DE: SKY 13 STREET FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93465
+#EXTINF:-1,DE: Sky Action FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93466
+#EXTINF:-1,DE: Sky Arts HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93467
+#EXTINF:-1,DE: Sky Atlantic +1 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93468
+#EXTINF:-1,DE: Sky Atlantic FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93469
+#EXTINF:-1,DE: SKY AXN HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93470
+#EXTINF:-1,DE: Sky CineBox 1
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93471
+#EXTINF:-1,DE: Sky CineBox 2
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93472
+#EXTINF:-1,DE: WDR Fernsehen HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93723
+#EXTINF:-1,DE: WDR FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93724
+#EXTINF:-1,DE: Welt der Wunder TV
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93725
+#EXTINF:-1,DE: WELT FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93726
+#EXTINF:-1,DE: Welt N24 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93727
+#EXTINF:-1,DE: Weltr Wunder
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93728
+#EXTINF:-1,DE: WILD HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93729
+#EXTINF:-1,DE: WWE HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93730
+#EXTINF:-1,DE: 4+ HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93172
+#EXTINF:-1,DE: A&E FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93173
+#EXTINF:-1,DE: Alex Berlin HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93174
+#EXTINF:-1,DE: ALLGAU TV HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93175
+#EXTINF:-1,DE: ANIMAL PLANET FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93176
+#EXTINF:-1,DE: ANIXE FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93177
+#EXTINF:-1,DE: ANIXE Serie HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93178
+#EXTINF:-1,DE: ARD Alpha
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93179
+#EXTINF:-1,DE: ARD FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93180
+#EXTINF:-1,DE: ARD ONE HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93181
+#EXTINF:-1,DE: ARTE HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93182
+#EXTINF:-1,DE: Astro TV
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93183
+#EXTINF:-1,DE: ATLANTIC HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93184
+#EXTINF:-1,DE: ATV
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93185
+#EXTINF:-1,DE: Augsburg TV
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93186
+#EXTINF:-1,DE: AUSBURG TV
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93187
+#EXTINF:-1,DE: Austria 24
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93188
+#EXTINF:-1,DE: Auto Moto Sport FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93189
+#EXTINF:-1,DE: Auto Motor und Sport HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93191
+#EXTINF:-1,DE: AXN FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93192
+#EXTINF:-1,DE: B LIGA 1 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93193
+#EXTINF:-1,DE: B LIGA 2 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93194
+#EXTINF:-1,DE: Baby TV
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93195
+#EXTINF:-1,DE: BADEN TV
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93196
+#EXTINF:-1,DE: BAERN REGIONAL
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93197
+#EXTINF:-1,DE: Bibel TV HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93201
+#EXTINF:-1,DE: BLK Regional TV
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93202
+#EXTINF:-1,DE: BluMaX 1 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93203
+#EXTINF:-1,DE: BluMaX 2 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93204
+#EXTINF:-1,DE: BluMaX 3 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93205
+#EXTINF:-1,DE: BluMaX 4 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93206
+#EXTINF:-1,DE: BluMaX 5 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93207
+#EXTINF:-1,DE: BluMaX 6 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93208
+#EXTINF:-1,DE: BluMaX 7 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93209
+#EXTINF:-1,DE: BluMaX 8 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93210
+#EXTINF:-1,DE: BluMaX 9 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93211
+#EXTINF:-1,DE: BluMaX 10 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93212
+#EXTINF:-1,DE: Boomerang FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93213
+#EXTINF:-1,DE: BOSS Movies 1 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93214
+#EXTINF:-1,DE: BOSS Movies 2 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93215
+#EXTINF:-1,DE: BOSS Movies 3 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93216
+#EXTINF:-1,DE: BOSS Movies 4 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93217
+#EXTINF:-1,DE: BR ALPHA
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93218
+#EXTINF:-1,DE: BR HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93219
+#EXTINF:-1,DE: Brandnite TV Music
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93220
+#EXTINF:-1,DE: C TV HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93221
+#EXTINF:-1,DE: Campus Magdeburg
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93222
+#EXTINF:-1,DE: CARTOON NETWORK FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93223
+#EXTINF:-1,DE: Channel 21
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93224
+#EXTINF:-1,DE: Chaula Music HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93225
+#EXTINF:-1,DE: CINE 2
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93226
+#EXTINF:-1,DE: CINE 5
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93227
+#EXTINF:-1,DE: Cine Box 1 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93228
+#EXTINF:-1,DE: Cine Box 2 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93229
+#EXTINF:-1,DE: Cine Box 3 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93230
+#EXTINF:-1,DE: CINE FILM CLUB 5 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93231
+#EXTINF:-1,DE: CINE SELECT 1 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93232
+#EXTINF:-1,DE: CINE SELECT 2 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93233
+#EXTINF:-1,DE: CINE SELECT 3 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93234
+#EXTINF:-1,DE: CINE SELECT 4 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93235
+#EXTINF:-1,DE: CINE SELECT 5 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93236
+#EXTINF:-1,DE: Cinema 24
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93237
+#EXTINF:-1,DE: Classica HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93238
+#EXTINF:-1,DE: COMEDY CENTRAL FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93239
+#EXTINF:-1,DE: Crime+ Investigation HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93240
+#EXTINF:-1,DE: DAS ERSTE FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93241
+#EXTINF:-1,DE: DAZN 1 Bar HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93242
+#EXTINF:-1,DE: DAZN 1 FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93243
+#EXTINF:-1,DE: DAZN 2 Bar HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93244
+#EXTINF:-1,DE: DAZN 2 FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93245
+#EXTINF:-1,DE: DAZN BAR 1 FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93246
+#EXTINF:-1,DE: DAZN Bar 2 FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93247
+#EXTINF:-1,DE: Deluxe Music HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93254
+#EXTINF:-1,DE: Deutsches Musik Fernsehen
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93255
+#EXTINF:-1,DE: DEUTSCHLAND
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93256
+#EXTINF:-1,DE: Die Welt
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93257
+#EXTINF:-1,DE: Discovery Channel FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93258
+#EXTINF:-1,DE: Disney Channel FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93259
+#EXTINF:-1,DE: Disney Cinemagic FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93260
+#EXTINF:-1,DE: Disney JIUNIOR FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93261
+#EXTINF:-1,DE: Disney XD HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93262
+#EXTINF:-1,DE: DMAX FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93263
+#EXTINF:-1,DE: DMAX HQ
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93264
+#EXTINF:-1,DE: DONAU TV HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93265
+#EXTINF:-1,DE: DORF TV AUSRTIA
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93266
+#EXTINF:-1,DE: DRF 1 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93267
+#EXTINF:-1,DE: DW TV
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93268
+#EXTINF:-1,DE: E! FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93269
+#EXTINF:-1,DE: Eagle Cinema 007 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93270
+#EXTINF:-1,DE: Eagle Cinema Abenteuer FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93271
+#EXTINF:-1,DE: Eagle Cinema Aktion HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93272
+#EXTINF:-1,DE: Eagle Cinema Animation FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93273
+#EXTINF:-1,DE: Eagle Cinema Biografie FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93274
+#EXTINF:-1,DE: Eagle Cinema Drama FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93275
+#EXTINF:-1,DE: Eagle Cinema Familie FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93276
+#EXTINF:-1,DE: Eagle Cinema Geschichte FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93277
+#EXTINF:-1,DE: Eagle Cinema Horror FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93278
+#EXTINF:-1,DE: Eagle Cinema KINOSAAL
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93279
+#EXTINF:-1,DE: Eagle Cinema Komodie FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93280
+#EXTINF:-1,DE: Eagle Cinema Lächeln FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93281
+#EXTINF:-1,DE: Eagle Cinema Mythologie HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93282
+#EXTINF:-1,DE: Eagle Cinema Premiere FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93283
+#EXTINF:-1,DE: Eagle Cinema Religion HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93284
+#EXTINF:-1,DE: Eagle Cinema Romantisch FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93285
+#EXTINF:-1,DE: Eagle Cinema sci-fi FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93286
+#EXTINF:-1,DE: Eagle Cinema Thriller HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93287
+#EXTINF:-1,DE: Eagle Entdeckernatur 4K
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93288
+#EXTINF:-1,DE: Eagle Game of Thrones S08
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93289
+#EXTINF:-1,DE: Eagle Masha und der Bär HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93290
+#EXTINF:-1,DE: Eagle Peppa Wutz FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93291
+#EXTINF:-1,DE: Elbekanal TV
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93292
+#EXTINF:-1,DE: eSports 1 TV
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93293
+#EXTINF:-1,DE: euronews HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93294
+#EXTINF:-1,DE: EUROSPORT 1 FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93295
+#EXTINF:-1,DE: EUROSPORT 2 EXTRA FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93296
+#EXTINF:-1,DE: EUROSPORT 2 FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93297
+#EXTINF:-1,DE: EUROSPORT 2 XTRA HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93298
+#EXTINF:-1,DE: EUROSPORT HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93299
+#EXTINF:-1,DE: EUROSPORT Xtra 2 HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93300
+#EXTINF:-1,DE: EWTN katholisches TV
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93301
+#EXTINF:-1,DE: Family TV
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93302
+#EXTINF:-1,DE: FC Bayern HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93303
+#EXTINF:-1,DE: FC BAYERN MUNCHEN
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93304
+#EXTINF:-1,DE: FIX & FOX
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93305
+#EXTINF:-1,DE: Fix & Foxi
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93306
+#EXTINF:-1,DE: Folx HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93307
+#EXTINF:-1,DE: FOX FHD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93308
+#EXTINF:-1,DE: Fox Series HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93309
+#EXTINF:-1,DE: FOX SPORTS 1
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93310
+#EXTINF:-1,DE: Franken Fernsehen HD
+http://pluskor.com:8080/spot030/YPcDj1PwJd/93311
